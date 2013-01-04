@@ -1,0 +1,17 @@
+group:Fun
+http://boingboing.net/rss.xml
+http://trailers.apple.com/trailers/home/rss/newtrailers.rss
+http://www.reddit.com/r/awww/.rss
+http://cuteoverload.com/feed/
+group:Comics
+http://feeds.feedburner.com/amazingsuperpowers
+http://feeds.feedburner.com/Chainsawsuit
+http://xkcd.com/rss.xml
+group:Technology
+http://feeds.arstechnica.com/arstechnica/index
+http://feeds.feedburner.com/techirss
+group:Interesting
+http://feeds.feedburner.com/Betterexplained
+http://www.npr.org/rss/rss.php?id=93559255
+http://www.postsecret.com/atom.xml
+http://feeds.wnyc.org/radiolab

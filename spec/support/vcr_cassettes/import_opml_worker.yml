@@ -1,0 +1,4555 @@
+---
+http_interactions:
+- request:
+    method: head
+    uri: http://www.facebook.com/feeds/status.php?format=rss20&id=592478482&key=AWgarWilh9FOmVpP&viewer=592478482
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        Rm91bmQ=
+    headers:
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL3d3dy5mYWNlYm9vay5jb20vdW5zdXBwb3J0ZWRicm93c2Vy
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04
+      !binary "WC1GYi1EZWJ1Zw==":
+      - !binary |-
+        VTl4Nk13REoxbmI1cnRpZ3FDOFQyTEltT3ZlZTErNG9UWDBIVnNJUUNsQT0=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzoyMyBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:25 GMT
+- request:
+    method: head
+    uri: http://www.as3dp.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        VGVtcG9yYXJ5IFJlZGlyZWN0
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzoyNiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3d3dy5hczNkcC5jb20veG1scnBjLnBocA==
+      !binary "RXRhZw==":
+      - !binary |-
+        IjM4NzRhZjgwOTYyMjYwMjNlNzU5MWQwOGEzOTMwMDgwIg==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VGh1LCAxMyBEZWMgMjAxMiAyMzozNToyOSBHTVQ=
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL2FzM2RwL2dRS2I=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:31 GMT
+- request:
+    method: head
+    uri: http://stackoverflow.com/feeds/tag/ruby-on-rails-3.1
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHVibGljLCBtYXgtYWdlPTMwMA==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        OTYxMDc=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9dXRmLTg=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo1MjozMCBHTVQ=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMCBHTVQ=
+      !binary "VmFyeQ==":
+      - !binary |-
+        Kg==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMCBHTVQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:32 GMT
+- request:
+    method: head
+    uri: http://almostbourdain.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAxOCBEZWMgMjAxMiAwODozOTo0NSBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        Vy8iQTA0TVJINDllQ2w3SW1BOVdoTldHRXcuIg==
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:32 GMT
+- request:
+    method: head
+    uri: http://andyrutledge.com/feeds/arfeed.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4yMg==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        RnJpLCAwNyBEZWMgMjAxMiAxNToyODo1MCBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        Ijk1YWY1MzMtMzUxZi00ZDA0NGRmNWNlZGZkIg==
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MTM1OTk=
+      !binary "VmFyeQ==":
+      - !binary |-
+        VXNlci1BZ2VudA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24veG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:32 GMT
+- request:
+    method: head
+    uri: http://feeds.arstechnica.com/arstechnica/index
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        QTN3NjVMYTdVUmdXM0luYjlvejJ5Q0pxN1Mw
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0MDo1NSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:32 GMT
+- request:
+    method: head
+    uri: http://www.avos.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 404
+      message: !binary |-
+        Tm90IEZvdW5k
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozMiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4xNCAoVWJ1bnR1KQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:33 GMT
+- request:
+    method: head
+    uri: http://azizisbored.tumblr.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "UDNw":
+      - !binary |-
+        Q1A9IkFMTCBBRE0gREVWIFBTQWkgQ09NIE9VUiBPVFJvIFNUUCBJTkQgT05M
+        Ig==
+      !binary "WC1UdW1ibHItVXNlcg==":
+      - !binary |-
+        YXppemlzYm9yZWQ=
+      !binary "WC1Sb2JvdHMtVGFn":
+      - !binary |-
+        bm9pbmRleA==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        RnJpLCAwMSBKYW4gMTk5MCAwMDowMDowMCBHTVQ=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGUsIG11c3QtcmV2YWxpZGF0ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1UdW1ibHItVXNlYw==":
+      - !binary |-
+        RD0xNDEyMTg=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MjUxNTU=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNCBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:35 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/Betterexplained
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        aTk4VngyaG1GVzNnVkcvMjFQenpGZVZuQy9Z
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NTo1MiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:35 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/MetrobloggingLA
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        TGpsb0lTdGpEVFBKY2ZpYXkxTit6djVBL2NF
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNDo0ODoyMyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:36 GMT
+- request:
+    method: head
+    uri: http://feeds.boingboing.net/boingboing/iBag
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        VUhrYjRtZFExUWVzU2NlaVBPSHBVMWRGeTJj
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Njo0NiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:37 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/codinghorror/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        ZXpMK2VQRTBKa29PUU1KL2xXRUhzU2JrZUJZ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozNToxMSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:37 GMT
+- request:
+    method: head
+    uri: http://compass-style.org/blog/atom.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        U3VuLCAyNCBKdW4gMjAxMiAxODozODo1NiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        ImM4My00YzMzYzJkODUzMDAwIg==
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MzIwMw==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24veG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:37 GMT
+- request:
+    method: head
+    uri: http://feeds2.feedburner.com/css3
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        NW4zSU9mWWxTb3BjN0hDc3RwZldjTzN6OFNv
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNTozNToxOSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:38 GMT
+- request:
+    method: head
+    uri: http://deliciousengineering.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzozNyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:38 GMT
+- request:
+    method: head
+    uri: http://www.dreamhoststatus.com/feed/?q=snapperbansheeswimmerlampreyhomieps61216theonelivingthetrumpet
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4wLjU=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo1NjoyNiBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        Q29va2ll
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        VGh1LCAxOSBOb3YgMTk4MSAwODo1MjowMCBHTVQ=
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3d3dy5kcmVhbWhvc3RzdGF0dXMuY29tL3htbHJwYy5waHA=
+      !binary "RXRhZw==":
+      - !binary |-
+        ImY4ZWQ1ZjQyZjVkODcxMTRkMWE4ZWQ3Y2VlZjc5MDJjIg==
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGUsIHBvc3QtY2hl
+        Y2s9MCwgcHJlLWNoZWNrPTA=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "V3AtU3VwZXItQ2FjaGU=":
+      - !binary |-
+        U2VydmVkIGxlZ2FjeSBjYWNoZSBmaWxl
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:38 GMT
+- request:
+    method: head
+    uri: http://www.edithzimmerman.com/blog/?feed=rss2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 404
+      message: !binary |-
+        Tm90IEZvdW5k
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1NSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:42 GMT
+- request:
+    method: head
+    uri: http://epistemologicalengineering.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        U3VuLCAwOSBEZWMgMjAxMiAxOToyNDozOSBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        Vy8iQzBjRFNIOF9lU2w3SW1BOVdoTldFRVUuIg==
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:42 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/jessewarden
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        OFR0dSs3VXlXcGRJaXJ6ajZnYWMwSkVPMTNB
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozNzowNiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:42 GMT
+- request:
+    method: head
+    uri: http://www.heyhowto.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3d3dy5oZXlob3d0by5jb20veG1scnBjLnBocA==
+      !binary "RXRhZw==":
+      - !binary |-
+        ImE1OTI4ZDgzNDBjNTliNWFjZTdkODcyOGNlODAxMGQwIg==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        TW9uLCAyNiBNYXIgMjAxMiAyMDoxNjozMSBHTVQ=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:45 GMT
+- request:
+    method: head
+    uri: http://highlandpark-ca.patch.com/articles.atom
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0NyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4xNSAoVW5peCkgbW9kX3NzbC8yLjIuMTUgT3BlblNTTC8w
+        LjkuOGwgUGh1c2lvbl9QYXNzZW5nZXIvMy4wLjEx
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UGh1c2lvbiBQYXNzZW5nZXIgKG1vZF9yYWlscy9tb2RfcmFjaykgMy4wLjEx
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0zMDAsIHB1YmxpYw==
+      !binary "VmFyeQ==":
+      - !binary |-
+        WC1SZXF1ZXN0ZWQtV2l0aCxYLURldmljZS1UeXBl
+      !binary "WC1SdW50aW1l":
+      - !binary |-
+        MTM4Ng==
+      !binary "WC1Db250ZW50LURpZ2VzdA==":
+      - !binary |-
+        OWFhMjFiZDEzYTBmNTFjMjE2ZjRlMmNkOWQ3NTJjZTk4NzI0ODgzYw==
+      !binary "QWdl":
+      - !binary |-
+        MTQz
+      !binary "WC1SYWNrLUNhY2hl":
+      - !binary |-
+        ZnJlc2g=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MzYzMDky
+      !binary "U3RhdHVz":
+      - !binary |-
+        MjAw
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9dXRmLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:48 GMT
+- request:
+    method: head
+    uri: http://hotroastduck.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0NyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0NyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0wLCBtdXN0LXJldmFsaWRhdGUsIG5vLXRyYW5z
+        Zm9ybQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LCBYLUdEYXRhLUF1dGhvcml6YXRpb24sIEdEYXRhLVZlcnNpb24=
+      !binary "R2RhdGEtVmVyc2lvbg==":
+      - !binary |-
+        MS4w
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VGh1LCAxNSBNYXIgMjAxMiAxOToxNDozMiBHTVQ=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:48 GMT
+- request:
+    method: head
+    uri: http://www.google.com/reader/public/atom/webfeed/5282054947015148462
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 405
+      message: !binary |-
+        SEVBRCBpcyBub3QgYWxsb3dlZA==
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "WC1SZWFkZXItR29vZ2xlLVZlcnNpb24=":
+      - !binary |-
+        NTU1LTAwMA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1GcmFtZS1PcHRpb25z":
+      - !binary |-
+        U0FNRU9SSUdJTg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:52 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/Hyperbole-and-a-half
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        amdhTnNRYWtEQjIrRytCbHVNYnVnRmEwZURJ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozODo0OSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:52 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/inahalfshell
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        eVlDV0U3bytJNFdHeHNxN0NWN1VYSU1aTnVB
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjoyNDo1MyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:52 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/KatzGotYourTongue
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        ekE5bXc4T2REVWQ3SmVyU1pmQmIyQWU3SlZV
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzowOCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:53 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/steveklabnik
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        bE9yenhqQUYwR3Z5eDNEVW84NUJYTGxJditF
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0MyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1MiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:53 GMT
+- request:
+    method: head
+    uri: http://massless.org/?feed=rss2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VGh1LCAwMyBOb3YgMjAxMSAxNTowOToxMyBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        ImY4YmMwZjYzNDhjZTNhOThkZDgwNWU0YzhhZTJjYzczIg==
+      !binary "U2VydmVy":
+      - !binary |-
+        TWljcm9zb2Z0LUlJUy82LjA=
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        QVNQLk5FVA==
+      - !binary |-
+        UEhQLzUuMi41
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL21hc3NsZXNzLm9yZy94bWxycGMucGhw
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1NiBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:59 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/metaskills
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        c1p5djVISjdhR09zRk1BY2s2aVc4TWxyMml3
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozMDozNiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:59 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/nczonline
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        V0RkNzZjOGZ2RnBYNXliak1CNE9lcjlvNCtB
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNTowOToxOCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:59 GMT
+- request:
+    method: head
+    uri: http://www.npr.org/rss/rss.php?id=93559255
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy44
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7Y2hhcnNldD1VVEYtOA==
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0w
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OCBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:59 GMT
+- request:
+    method: head
+    uri: http://nwebb.co.uk/blog/?feed=rss2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo1OSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL253ZWJiLmNvLnVrL2Jsb2cveG1scnBjLnBocA==
+      !binary "RXRhZw==":
+      - !binary |-
+        IjkxOGU0Y2RmMGI5MGY5ODM5Y2YyNWY4NjJhMzM5ZTlmIg==
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        YmIyX3NjcmVlbmVyXz0xMzU1OTM1Njc5KzE0Mi4xMzYuMTYzLjIzOyBwYXRo
+        PS9ibG9nLw==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAxOCBEZWMgMjAxMiAxNjo0NTo0NyBHTVQ=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:01 GMT
+- request:
+    method: head
+    uri: http://postsecret.blogspot.com/atom.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL3d3dy5wb3N0c2VjcmV0LmNvbS9hdG9tLnhtbA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:01 GMT
+- request:
+    method: head
+    uri: http://www.quotationspage.com/data/qotd.rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        Rm91bmQ=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3F1b3RhdGlvbnNwYWdlL3Fv
+        dGQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0xNDQwMA==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAyMDo0ODowMSBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:02 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/RailsInside
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        ZWlTVytqbm5KUHB6TFdSd0Z2clNwbXZmOGxz
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NDoyNCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:02 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/railstips
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        SER5dE84RENBbW52Y0hvTW1QLzVXT0VmTjVF
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0MToxMiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:02 GMT
+- request:
+    method: head
+    uri: http://api.flickr.com/services/feeds/photos_public.gne?format=atom&lang=en-us&tags=bouvierdesflandres
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMSBHTVQ=
+      !binary "UDNw":
+      - !binary |-
+        cG9saWN5cmVmPSJodHRwOi8vaW5mby55YWhvby5jb20vdzNjL3AzcC54bWwi
+        LCBDUD0iQ0FPIERTUCBDT1IgQ1VSIEFETSBERVYgVEFJIFBTQSBQU0QgSVZB
+        aSBJVkRpIENPTmkgVEVMbyBPVFBpIE9VUiBERUxpIFNBTWkgT1RSaSBVTlJp
+        IFBVQmkgSU5EIFBIWSBPTkwgVU5JIFBVUiBGSU4gQ09NIE5BViBJTlQgREVN
+        IENOVCBTVEEgUE9MIEhFQSBQUkUgTE9DIEdPViI=
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        eGI9ODU7IGV4cGlyZXM9U2F0LCAyMC1EZWMtMjAxNCAxNjo0ODowMiBHTVQ7
+        IHBhdGg9LzsgZG9tYWluPS5mbGlja3IuY29t
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        TW9uLCAyNiBKdWwgMTk5NyAwNTowMDowMCBHTVQ=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxMSBKdWwgMjAxMiAyMzoxMjo0MiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGUsIHByaXZhdGU=
+      - !binary |-
+        cG9zdC1jaGVjaz0wLCBwcmUtY2hlY2s9MA==
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "WC1TZXJ2ZWQtQnk=":
+      - !binary |-
+        d3d3MTMzLmZsaWNrci5tdWQueWFob28uY29t
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9dXRmLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:03 GMT
+- request:
+    method: head
+    uri: http://feeds2.feedburner.com/redfin_losangeles?format=xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        cldhM3VuTHNuejJabXJGZHdKLzhtTWJtL2Fz
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:03 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/RubyInside
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        R0d5NmMvTUZ6UWorTzh5L0xScVJmTlpzb2xZ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNToxMzo1NCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:03 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/seedmagazine/articles
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        N1VOQUxEQnF0N3oxUkpBTno3TXJlVElaWmFR
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjoyOToyNyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:04 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/37signals/beMH
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        eXNTeTJmT3B2Z0haaG92ZTJxNlJ3NG9oZWF3
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0MzoyOCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowMyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:04 GMT
+- request:
+    method: head
+    uri: http://manytricks.com/blog/?feed=rss2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowNiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMi4xNw==
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL21hbnl0cmlja3MuY29tL2Jsb2cveG1scnBjLnBocA==
+      !binary "RXRhZw==":
+      - !binary |-
+        IjUzODY4Nzg1NTIwZDhmNDFiMDg2YjdjNjhkMjQ0Zjc4Ig==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNToxMzozMSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:08 GMT
+- request:
+    method: head
+    uri: http://terrafirmala.com/feeds/posts/default?alt=rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowOSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4zLTcrc3F1ZWV6ZTc=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        TW9uLCAyNiBKdWwgMTk5NyAwNTowMDowMCBHTVQ=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODowOSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGU=
+      - !binary |-
+        cG9zdC1jaGVjaz0wLCBwcmUtY2hlY2s9MA==
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "VmFyeQ==":
+      - !binary |-
+        VXNlci1BZ2VudCxBY2NlcHQtRW5jb2Rpbmc=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+      !binary "WC1DYWNoZQ==":
+      - !binary |-
+        TUlTUyBmcm9tIDM4NzMyMw==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:10 GMT
+- request:
+    method: head
+    uri: http://blog.macromates.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5nLENvb2tpZQ==
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL2Jsb2cubWFjcm9tYXRlcy5jb20veG1scnBjLnBocA==
+      !binary "RXRhZw==":
+      - !binary |-
+        IjQ0YzkzMDMzNzkxYTBkZmQ3YzcyNzRjZjEyZjQ3ZjhjIg==
+      !binary "V3AtU3VwZXItQ2FjaGU=":
+      - !binary |-
+        U2VydmVkIGxlZ2FjeSBjYWNoZSBmaWxl
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:12 GMT
+- request:
+    method: head
+    uri: http://www.thatvoodooyoudo.com/index.php/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        Rm91bmQ=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4zIChDZW50T1Mp
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMS42
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL29ubGluZWZ3ZC5jb20vP2RuPXRoYXR2b29kb295b3Vkby5jb20m
+        cGlkPTFQTzhHM1Y3Tw==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:13 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/TheAngryPharmacist
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        VU1RS1VPOHR0Zyt6ZDdQSW85cHF5QzNMR0lr
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjowMzo0MSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:14 GMT
+- request:
+    method: head
+    uri: http://thebigcaption.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        TW92ZWQgVGVtcG9yYXJpbHk=
+    headers:
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        L3Jzcz8yYzVkNmExMA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:14 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/TheEastsiderLa
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        RnI1SnlnTTZwK2NGUVo0ZjdPWmNtNlI3MDF3
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjoyNjo1NSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:14 GMT
+- request:
+    method: head
+    uri: http://squidproxy.wordpress.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbng=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxMyBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1IYWNrZXI=":
+      - !binary |-
+        SWYgeW91J3JlIHJlYWRpbmcgdGhpcywgeW91IHNob3VsZCB2aXNpdCBhdXRv
+        bWF0dGljLmNvbS9qb2JzIGFuZCBhcHBseSB0byBqb2luIHRoZSBmdW4sIG1l
+        bnRpb24gdGhpcyBoZWFkZXIu
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3NxdWlkcHJveHkud29yZHByZXNzLmNvbS94bWxycGMucGhw
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAxNiBPY3QgMjAxMiAwMTozMzozOCBHTVQ=
+      !binary "WC1OYw==":
+      - !binary |-
+        SElUIHNhdCAyNDI=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:15 GMT
+- request:
+    method: head
+    uri: http://bufordtwain.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        U3VuLCAxNiBEZWMgMjAxMiAyMzowMzoxNiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        Vy8iQWs0TlIzbzllaWw3SW1BOVdoTldGa1EuIg==
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:15 GMT
+- request:
+    method: head
+    uri: http://www.thewiredangler.com/wiredangler/atom.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1QaGFwcA==":
+      - !binary |-
+        b2FrLXRwLXdlYjAzMg==
+      !binary "WC1XZWJzZXJ2ZXI=":
+      - !binary |-
+        b2FrLXRwLXdlYjAzMg==
+      !binary "VmFyeQ==":
+      - !binary |-
+        Y29va2ll
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        RnJpLCAxNiBOb3YgMjAxMiAwODozNDo1OSBHTVQ=
+      !binary "S2VlcC1BbGl2ZQ==":
+      - !binary |-
+        dGltZW91dD0zMDAsIG1heD0xMDA=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNCBHTVQ=
+      !binary "WC1WYXJuaXNo":
+      - !binary |-
+        MzY1MTk0NTU2NA==
+      !binary "QWdl":
+      - !binary |-
+        MA==
+      !binary "Vmlh":
+      - !binary |-
+        MS4xIHZhcm5pc2g=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:16 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/vitaminmasterfeed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "RXRhZw==":
+      - !binary |-
+        RU85Mmc4QnFXRkh5M09hdTNLZmdqaG1RKzZZ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNTozODowMSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:16 GMT
+- request:
+    method: head
+    uri: http://vimeo.com/user421260/videos/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT0zMDA=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo1MzoxNiBHTVQ=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxMzoyODo1MyBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjVjMzczYTE1ZjI3NGE2NzgwYmNlMzFjM2JhMTFjNzkwIg==
+      !binary "WC1VYS1Db21wYXRpYmxl":
+      - !binary |-
+        SUU9RW11bGF0ZUlFOSxjaHJvbWU9MQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vcnNzK3htbA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:17 GMT
+- request:
+    method: head
+    uri: http://whereisbob.wordpress.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbng=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNyBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1IYWNrZXI=":
+      - !binary |-
+        SWYgeW91J3JlIHJlYWRpbmcgdGhpcywgeW91IHNob3VsZCB2aXNpdCBhdXRv
+        bWF0dGljLmNvbS9qb2JzIGFuZCBhcHBseSB0byBqb2luIHRoZSBmdW4sIG1l
+        bnRpb24gdGhpcyBoZWFkZXIu
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxMSBKYW4gMTk4NCAwNTowMDowMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGUsIG11c3QtcmV2YWxpZGF0ZSwgbWF4LWFnZT0w
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        d29yZHByZXNzX3Rlc3RfY29va2llPVdQK0Nvb2tpZStjaGVjazsgcGF0aD0v
+        OyBkb21haW49LndvcmRwcmVzcy5jb20=
+      !binary "WC1OYw==":
+      - !binary |-
+        TUlTUyBzYXQgMjQy
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:18 GMT
+- request:
+    method: head
+    uri: http://feeds.wnyc.org/radiolab
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        UGdCR3QwZGZMdmNTcUt5ZTdWcFJoQSt2czA4
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzoyMiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxNyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:18 GMT
+- request:
+    method: head
+    uri: http://www.wtfpod.com/dispatches/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxOCBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4yMSAoVW5peCkgbW9kX3NzbC8yLjIuMjEgT3BlblNTTC8w
+        LjkuOG0gREFWLzIgbW9kX2F1dGhfcGFzc3Rocm91Z2gvMi4xIG1vZF9id2xp
+        bWl0ZWQvMS40IEZyb250UGFnZS81LjAuMi4yNjM1
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMi4xNw==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        VHVlLCAxOCBEZWMgMjAxMiAxMDo0OToyNCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGUsIHBvc3QtY2hl
+        Y2s9MCwgcHJlLWNoZWNrPTA=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        YmIyX3NjcmVlbmVyXz0xMzU1OTM1Njk4KzE0Mi4xMzYuMTYzLjIzOyBwYXRo
+        PS8=
+      - !binary |-
+        ZXhwX2xhc3RfYWN0aXZpdHk9MTM1NTkzNTY5ODsgZXhwaXJlcz1UaHUsIDE5
+        LURlYy0yMDEzIDE2OjQ4OjE4IEdNVDsgcGF0aD0v
+      - !binary |-
+        ZXhwX2xhc3RfdmlzaXQ9MTA0MDU3NTY5ODsgZXhwaXJlcz1UaHUsIDE5LURl
+        Yy0yMDEzIDE2OjQ4OjE4IEdNVDsgcGF0aD0v
+      - !binary |-
+        ZXhwX3RyYWNrZXI9YSUzQTElM0ElN0JpJTNBMCUzQnMlM0ExNCUzQSUyMmRp
+        c3BhdGNoZXMlMkZyc3MlMjIlM0IlN0Q7IHBhdGg9Lw==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAxOCBEZWMgMjAxMiAwOTo0OToyNCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:19 GMT
+- request:
+    method: head
+    uri: http://yorkblvd.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxOSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMi4xNw==
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3lvcmtibHZkLmNvbS94bWxycGMucGhw
+      !binary "RXRhZw==":
+      - !binary |-
+        IjRmZmYzM2RmMDM5OTZjZTU4OTg0Yjk5YTQ0ZDRjODQwIg==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        U2F0LCAxNSBNYXkgMjAxMCAxNTo1NjozNSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:20 GMT
+- request:
+    method: head
+    uri: http://www.escapistmagazine.com/rss/videos/list/1.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoxOSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "VmFyeQ==":
+      - !binary |-
+        SG9zdA==
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xMA==
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        SU1TU2F2ZUxvZ2luPWVGNUx0REswcWk2Mk1yWlNLczFNVWJMMnM2NEZBREoy
+        QldNJTNEOyBleHBpcmVzPVR1ZSwgMTktSmFuLTIwMzggMDM6MTQ6MDcgR01U
+        OyBwYXRoPS87IGRvbWFpbj1lc2NhcGlzdG1hZ2F6aW5lLmNvbQ==
+      - !binary |-
+        SU1TU2F2ZUxvZ2luPWVGNUx0REsycWk2MnNyQlNLaTFPTGNwTHpFMVZzaTYy
+        TXJWU2NpOU5MUzRCc1lGU0JZbkZ4ZVg1UlNrZ3JvR1ZFb2d5Qm1ySUJBdVlX
+        eWxsaGhUbHh1YmFLVm5YQWdEZUd4aGw7IGV4cGlyZXM9VHVlLCAxOS1KYW4t
+        MjAzOCAwMzoxNDowNyBHTVQ7IHBhdGg9LzsgZG9tYWluPWVzY2FwaXN0bWFn
+        YXppbmUuY29t
+      - !binary |-
+        SU1TVXNlclNlc3Npb249MWQ2NTdjOWFkN2ViMmIwYzcxZmVkMjNlZjc1MGE2
+        ZjdhZGI0NTVkMjsgcGF0aD0vOyBkb21haW49ZXNjYXBpc3RtYWdhemluZS5j
+        b20=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        VGh1LCAxOSBOb3YgMTk4MSAwODo1MjowMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGUsIHBvc3QtY2hl
+        Y2s9MCwgcHJlLWNoZWNrPTA=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "UDNw":
+      - !binary |-
+        Q1A9IkNVUmEgQURNYSBERVZhIENVU2kgUFNBYSBQU0RhIE9VUiBJTkQgVU5J
+        IENPTSBOQVYgSU5UIFBSRSBEU1AgTk9JIENPUiI=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vcnNzK3htbDtjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:21 GMT
+- request:
+    method: head
+    uri: http://notalwaysright.com/feed
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4xNg==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjowMDo0OCBHTVQ=
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL25vdGFsd2F5c3JpZ2h0LmNvbS94bWxycGMucGhw
+      !binary "RXRhZw==":
+      - !binary |-
+        IjFiMjRkODZkN2E0M2U0ZGM5NzA4NTc1ZGQyMTYxYWMyIg==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "U2VydmVy":
+      - !binary |-
+        LSBXZWIgYWNjZWxlcmF0aW9uIGJ5IGh0dHA6Ly93d3cudW5peHkubmV0L3Zh
+        cm5pc2g=
+      !binary "WC1DYWNoZWFibGU=":
+      - !binary |-
+        WUVT
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        Mjg0Mjk=
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoyMyBHTVQ=
+      !binary "WC1WYXJuaXNo":
+      - !binary |-
+        MTUxOTMwNjcyMSAxNTE5MzA2Mjgz
+      !binary "Vmlh":
+      - !binary |-
+        MS4xIHZhcm5pc2g=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "QWdl":
+      - !binary |-
+        MA==
+      !binary "WC1DYWNoZQ==":
+      - !binary |-
+        SElU
+      !binary "WC1DYWNoZS1IaXRz":
+      - !binary |-
+        Mg==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:24 GMT
+- request:
+    method: head
+    uri: http://notalwaysromantic.com/feed
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy42
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjowMDozOCBHTVQ=
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL25vdGFsd2F5c3JvbWFudGljLmNvbS94bWxycGMucGhw
+      !binary "RXRhZw==":
+      - !binary |-
+        IjVkNmNkNzNmM2RhZGIxOTBjNDRkYTVjZjk3NDI5YzUwIg==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "U2VydmVy":
+      - !binary |-
+        LSBXZWIgYWNjZWxlcmF0aW9uIGJ5IGh0dHA6Ly93d3cudW5peHkubmV0L3Zh
+        cm5pc2g=
+      !binary "WC1DYWNoZWFibGU=":
+      - !binary |-
+        WUVT
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MjM2NDg=
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoyMyBHTVQ=
+      !binary "WC1WYXJuaXNo":
+      - !binary |-
+        MTY3Mzg2MjQzMSAxNjczODYyMzcw
+      !binary "Vmlh":
+      - !binary |-
+        MS4xIHZhcm5pc2g=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "QWdl":
+      - !binary |-
+        MA==
+      !binary "WC1DYWNoZQ==":
+      - !binary |-
+        SElU
+      !binary "WC1DYWNoZS1IaXRz":
+      - !binary |-
+        MQ==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:25 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/VeryDemotivational
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        U2hYTUw3alNTcUdTUW5HMk1kaURwZUZJdGVz
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjoxOToyMiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoyNCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoyNCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:25 GMT
+- request:
+    method: head
+    uri: http://www.reddit.com/message/inbox/.rss?feed=f89c51636a7d7ec276bdf6658dc39e62e476abb0&user=flingbob
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        TW92ZWQgVGVtcG9yYXJpbHk=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PXV0Zi04
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL3d3dy5yZWRkaXQuY29tL2xvZ2luLnJzcz9kZXN0PSUyRm1lc3Nh
+        Z2UlMkZpbmJveCUyRi5yc3MlM0ZmZWVkJTNEZjg5YzUxNjM2YTdkN2VjMjc2
+        YmRmNjY1OGRjMzllNjJlNDc2YWJiMCUyNnVzZXIlM0RmbGluZ2JvYg==
+      !binary "U2VydmVy":
+      - !binary |-
+        JzsgRFJPUCBUQUJMRSBzZXJ2ZXJ0eXBlczsgLS0=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODoyNSBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:27 GMT
+- request:
+    method: head
+    uri: http://adaptivepath.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbng=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAwNDo1NToyMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBtdXN0LXJldmFsaWRhdGUsIHBvc3QtY2hl
+        Y2s9MCwgcHJlLWNoZWNrPTA=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        ZXhwX2xhc3RfYWN0aXZpdHk9MTM1NTkzNTcwOTsgZXhwaXJlcz1UaHUsIDE5
+        LURlYy0yMDEzIDE2OjQ4OjI5IEdNVDsgcGF0aD0v
+      - !binary |-
+        ZXhwX2xhc3RfdmlzaXQ9MTA0MDU3NTcwOTsgZXhwaXJlcz1UaHUsIDE5LURl
+        Yy0yMDEzIDE2OjQ4OjI5IEdNVDsgcGF0aD0v
+      - !binary |-
+        ZXhwX3RyYWNrZXI9YSUzQTElM0ElN0JpJTNBMCUzQnMlM0EzJTNBJTIycnNz
+        JTIyJTNCJTdEOyBwYXRoPS8=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAwMzo1NToyMCBHTVQ=
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UGxlc2tMaW4=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:31 GMT
+- request:
+    method: head
+    uri: http://www.amazingsuperpowers.com/category/comics/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        Y2xvdWRmbGFyZS1uZ2lueA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5nLCBDb29raWU=
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3d3dy5hbWF6aW5nc3VwZXJwb3dlcnMuY29tL3htbHJwYy5waHA=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjdjZmZiNWRlMDE2YmY3OGViOGNhMmYzODcwZmFkY2Q3Ig==
+      !binary "V3AtU3VwZXItQ2FjaGU=":
+      - !binary |-
+        U2VydmVkIGxlZ2FjeSBjYWNoZSBmaWxl
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        X19jZmR1aWQ9ZDQwNzA1YjY5ZTQ1OTU2MzlkNzA3YWMxMWQyZTQzZWY4MTM1
+        NTkzNTcxMDsgZXhwaXJlcz1Nb24sIDIzLURlYy0yMDE5IDIzOjUwOjAwIEdN
+        VDsgcGF0aD0vOyBkb21haW49LmFtYXppbmdzdXBlcnBvd2Vycy5jb20=
+      !binary "Q2YtUmF5":
+      - !binary |-
+        ODVjMzM5YjQ3Mzg0NjY5ZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:31 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/Chainsawsuit
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        K0RHSTJvbEV1MGk5Y2Q3eDFnLzczaDRha3Rz
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjowNzoyOSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:31 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/ClientsFromHell
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        QjZSN2FtRTFQSFJSdG5zVTg2ZitCQ2ptWVZV
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozMDoxNiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:31 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/cocoatech_weblog
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMSBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        NWJ1ZUtSUlh5OGx0dVB1TVB6TVZoSzVVamtR
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:32 GMT
+- request:
+    method: head
+    uri: http://epic.tumblr.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "UDNw":
+      - !binary |-
+        Q1A9IkFMTCBBRE0gREVWIFBTQWkgQ09NIE9VUiBPVFJvIFNUUCBJTkQgT05M
+        Ig==
+      !binary "WC1UdW1ibHItVXNlcg==":
+      - !binary |-
+        ZXBpYw==
+      !binary "WC1Sb2JvdHMtVGFn":
+      - !binary |-
+        bm9pbmRleA==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        RnJpLCAwMSBKYW4gMTk5MCAwMDowMDowMCBHTVQ=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGUsIG11c3QtcmV2YWxpZGF0ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1UdW1ibHItVXNlYw==":
+      - !binary |-
+        RD02NDI0NQ==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        NDAwMA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMyBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:34 GMT
+- request:
+    method: head
+    uri: http://feeds2.feedburner.com/JoshuaRhoades
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        RnpWUXhTVENTdkphVXZxcFJIVEV2Y1BzaVVJ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0MTozMCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozMyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:34 GMT
+- request:
+    method: head
+    uri: http://bug-bot.blogspot.com/feeds/posts/default
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0wLCBtdXN0LXJldmFsaWRhdGUsIG5vLXRyYW5z
+        Zm9ybQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LCBYLUdEYXRhLUF1dGhvcml6YXRpb24sIEdEYXRhLVZlcnNpb24=
+      !binary "R2RhdGEtVmVyc2lvbg==":
+      - !binary |-
+        MS4w
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        RnJpLCAwMiBOb3YgMjAxMiAxNToxOTo0MyBHTVQ=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:35 GMT
+- request:
+    method: head
+    uri: http://www.macworld.com/weblogs/macgems/rss.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNCBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1HYXN0dGw=":
+      - !binary |-
+        MTQ0MDA=
+      !binary "WC1HYXNob3N0":
+      - !binary |-
+        Z2FzMg==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        Lw==
+      !binary "WC1Db29raW5nLVdpdGg=":
+      - !binary |-
+        R2Fzb2xpbmUtUmVkaXJlY3QtTG9jYWw=
+      !binary "WC1HYXNvbGluZS1BZ2U=":
+      - !binary |-
+        NjAzNA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tc3RvcmUsIG5vLWNhY2hlLCBwb3N0LWNoZWNrPTAsIHByZS1jaGVjaz0w
+        LCBmYWxzZQ==
+      !binary "UHJhZ21h":
+      - !binary |-
+        Y2FjaGUgZGlmZmVyZW50bHk=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:36 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/MacOsXTipsFeed
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        ZlFjNG5zYW41emxHeUlJclVpQUxON0dJZEZz
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozODowNiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:36 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/macapper
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        MmptajdsNXJTdzB5VmIvdmxXQVlrSy9ZQndr
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjozNjozNyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:37 GMT
+- request:
+    method: head
+    uri: http://macosrumors.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        Rm91bmQ=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMS4yLjQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNiBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4yLTF1YnVudHU0LjE4
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL21hY29zcnVtb3JzLmNvbS94bWxycGMucGhw
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        RnJpLCAyNyBBcHIgMjAxMiAyMjowNzowMiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        ImQzYTgwN2JjOWY1MjQ0ZjlhZGQxMDhhMjAyYWI1NTJkIg==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL01hY09zUnVtb3Jz
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:37 GMT
+- request:
+    method: head
+    uri: http://www.macosxhints.com/backend/geeklog.rdf
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2hpbnRzLm1hY3dvcmxkLmNvbS9iYWNrZW5kL2dlZWtsb2cucmRm
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:37 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/MacTips
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        NDhjQkQ2T0RWV1E3MCtrOFBTSjlFcGlsbnlR
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:37 GMT
+- request:
+    method: head
+    uri: http://hacks.mozilla.org/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1CYWNrZW5kLVNlcnZlcg==":
+      - !binary |-
+        Z2VuZXJpYzEwMi53ZWJhcHAucGh4MS5tb3ppbGxhLmNvbQ==
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bWF4LWFnZT02MA==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "U3RyaWN0LVRyYW5zcG9ydC1TZWN1cml0eQ==":
+      - !binary |-
+        bWF4LWFnZT0xNTc2ODAwMCA7IGluY2x1ZGVTdWJEb21haW5z
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNyBHTVQ=
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cHM6Ly9oYWNrcy5tb3ppbGxhLm9yZy94bWxycGMucGhw
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0OTozNyBHTVQ=
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "RXRhZw==":
+      - !binary |-
+        IjdmNzk0OTQ5MzQ4OTE2OTQ5NzQ3ZWZiODk2MDIwNTAyIg==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        S2VlcC1BbGl2ZQ==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNDo1NjozMSBHTVQ=
+      !binary "WC1DYWNoZS1JbmZv":
+      - !binary |-
+        Y2FjaGluZw==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:39 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/blogspot/dtKx
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        ZUtFSyt0dUY3UGNCQ2VWaDlVYVNxbkduMUdZ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Nzo0NiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNyBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNyBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:39 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/oreilly/radar/atom
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vYXRvbSt4bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        QzNyKzk2TXRrenlObWVnOHN0alEydmtaNmVF
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NDo1MSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozOCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozOCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:39 GMT
+- request:
+    method: head
+    uri: http://osxdaily.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozOCBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4xNCAoVWJ1bnR1KQ==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAxOCBEZWMgMjAxMiAxOToyMzowNCBHTVQ=
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        NTUxNTQ=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:39 GMT
+- request:
+    method: head
+    uri: http://www.smbc-comics.com/rss.php
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        bmdpbngvMC44LjU1
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozNSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MTg1
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3NtYmMtY29taWNzL1B2TGI=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:40 GMT
+- request:
+    method: head
+    uri: http://www.scottgmorgan.com/rss/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        TW92ZWQgVGVtcG9yYXJpbHk=
+    headers:
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODozOSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        TWljcm9zb2Z0LUlJUy82LjA=
+      !binary "SG9zdGVkLVdpdGg=":
+      - !binary |-
+        R2Vhckhvc3QgSW5jLiAod3d3LmdlYXJob3N0LmNvbSk=
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        QVNQLk5FVA==
+      - !binary |-
+        UEhQLzUuMi4xNA==
+      !binary "U3RhdHVz":
+      - !binary |-
+        MzAxIE1vdmVkIFBlcm1hbmVudGx5
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL3d3dy5zY290dGdtb3JnYW4uY29tL2Jsb2cvaW5kZXgucGhwL2Zl
+        ZWQv
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1s
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:41 GMT
+- request:
+    method: head
+    uri: http://feeds2.feedburner.com/Smarterware
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        aHFCRzB2TGRxTlNmdXFBV3ZCMXNGYlFYU2Fr
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNTo0Njo0MyBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MCBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MCBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:41 GMT
+- request:
+    method: head
+    uri: http://smokeandacoke.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "UDNw":
+      - !binary |-
+        Q1A9IkFMTCBBRE0gREVWIFBTQWkgQ09NIE9VUiBPVFJvIFNUUCBJTkQgT05M
+        Ig==
+      !binary "WC1UdW1ibHItVXNlcg==":
+      - !binary |-
+        c21va2VhbmRhY29rZQ==
+      !binary "WC1Sb2JvdHMtVGFn":
+      - !binary |-
+        bm9pbmRleA==
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        RnJpLCAwMSBKYW4gMTk5MCAwMDowMDowMCBHTVQ=
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGUsIG11c3QtcmV2YWxpZGF0ZQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1UdW1ibHItVXNlYw==":
+      - !binary |-
+        RD0xMzY4MTQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9dXRmLTg=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MTkzNTE=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MCBHTVQ=
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:41 GMT
+- request:
+    method: head
+    uri: http://www.spurgeonworld.com/blog/index.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MjgyMzk=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        U3VuLCAyNCBKdW4gMjAxMiAyMzowNzoxNCBHTVQ=
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "RXRhZw==":
+      - !binary |-
+        Ijk1OTRhYjE3NWU1MmNkMTo3NGI1Ig==
+      !binary "U2VydmVy":
+      - !binary |-
+        TWljcm9zb2Z0LUlJUy82LjA=
+      !binary "TWljcm9zb2Z0b2ZmaWNld2Vic2VydmVy":
+      - !binary |-
+        NS4wX1B1Yg==
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        QVNQLk5FVA==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:42 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/StopCoding
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        QWd3RTFqRVIwNVJ4OWtVUDg2eXplQytuK1o4
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:42 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/techspot/news
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        bWpjSC9uMjdaZGdXN3ZPYmhBU05lanBEck9F
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNTozNDoxNiBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MSBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:43 GMT
+- request:
+    method: head
+    uri: http://macromates.com/blog/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0MiBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2Jsb2cubWFjcm9tYXRlcy5jb20vZmVlZC8=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:43 GMT
+- request:
+    method: head
+    uri: http://www.theagitator.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        VGVtcG9yYXJ5IFJlZGlyZWN0
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0OToxOSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4zIChDZW50T1Mp
+      !binary "WC1Qb3dlcmVkLUJ5":
+      - !binary |-
+        UEhQLzUuMy4z
+      !binary "VmFyeQ==":
+      - !binary |-
+        Q29va2ll
+      !binary "WC1QaW5nYmFjaw==":
+      - !binary |-
+        aHR0cDovL3d3dy50aGVhZ2l0YXRvci5jb20veG1scnBjLnBocA==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VHVlLCAyMCBOb3YgMjAxMiAxNDo1MTozNyBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        ImI2YmMwNmEwOWFmYzc5ZDNlNzdkOWYyODgwMGQ5ODliIg==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2ZlZWRzLmZlZWRidXJuZXIuY29tL3JhZGxleWJhbGtv
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        Y2xvc2U=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PVVURi04
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:47 GMT
+- request:
+    method: head
+    uri: http://syndication.thedailywtf.com/TheDailyWtf
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        dDJLVjArVE1Pams5SFRqWHFMdVo2OGxjcFNJ
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NjowMCBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0NiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo0NiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:47 GMT
+- request:
+    method: head
+    uri: http://theflashblog.com/?feed=rss2
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NCBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4yMg==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2Jsb2cudGhlZmxhc2hibG9nLmNvbS8/ZmVlZD1yc3My
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:55 GMT
+- request:
+    method: head
+    uri: http://theinternetwishlist.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 302
+      message: !binary |-
+        TW92ZWQgVGVtcG9yYXJpbHk=
+    headers:
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MA==
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        L3Jzcz8yYzVkNmExMA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:56 GMT
+- request:
+    method: head
+    uri: http://blog.mozilla.com/feed/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 301
+      message: !binary |-
+        TW92ZWQgUGVybWFuZW50bHk=
+    headers:
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hl
+      !binary "WC1CYWNrZW5kLVNlcnZlcg==":
+      - !binary |-
+        Z2VuZXJpYzMud2ViYXBwLnBoeDEubW96aWxsYS5jb20=
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC9odG1sOyBjaGFyc2V0PWlzby04ODU5LTE=
+      !binary "U3RyaWN0LVRyYW5zcG9ydC1TZWN1cml0eQ==":
+      - !binary |-
+        bWF4LWFnZT0xNTc2ODAwMCA7IGluY2x1ZGVTdWJEb21haW5z
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NSBHTVQ=
+      !binary "TG9jYXRpb24=":
+      - !binary |-
+        aHR0cDovL2Jsb2cubW96aWxsYS5vcmcvZmVlZC8=
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        S2VlcC1BbGl2ZQ==
+      !binary "WC1DYWNoZS1JbmZv":
+      - !binary |-
+        Y2FjaGluZw==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:56 GMT
+- request:
+    method: head
+    uri: http://twitter.com/statuses/user_timeline/2760741.rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 404
+      message: !binary |-
+        Tm90IEZvdW5k
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NSBHTVQ=
+      !binary "U3RhdHVz":
+      - !binary |-
+        NDA0IE5vdCBGb3VuZA==
+      !binary "UHJhZ21h":
+      - !binary |-
+        bm8tY2FjaGU=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        VHVlLCAzMSBNYXIgMTk4MSAwNTowMDowMCBHTVQ=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NSBHTVQ=
+      !binary "WC1SYXRlbGltaXQtUmVzZXQ=":
+      - !binary |-
+        MTM1NTkzOTMzNQ==
+      !binary "WC1GcmFtZS1PcHRpb25z":
+      - !binary |-
+        U0FNRU9SSUdJTg==
+      !binary "WC1SYXRlbGltaXQtQ2xhc3M=":
+      - !binary |-
+        YXBp
+      !binary "WC1SYXRlbGltaXQtUmVtYWluaW5n":
+      - !binary |-
+        MTQ5
+      !binary "WC1NaWQ=":
+      - !binary |-
+        ZDk3YzNlZDNlMWIzZjI2OThjYWE1MDYxOTYyNzYwYTk3ODNlMThmZg==
+      !binary "WC1SdW50aW1l":
+      - !binary |-
+        MC4wMTc3Ng==
+      !binary "WC1UcmFuc2FjdGlvbg==":
+      - !binary |-
+        YjVjYTJiMjNkZDgzNjQxMQ==
+      !binary "WC1SYXRlbGltaXQtTGltaXQ=":
+      - !binary |-
+        MTUw
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        bm8tY2FjaGUsIG5vLXN0b3JlLCBtdXN0LXJldmFsaWRhdGUsIHByZS1jaGVj
+        az0wLCBwb3N0LWNoZWNrPTA=
+      !binary "U2V0LUNvb2tpZQ==":
+      - !binary |-
+        X3R3aXR0ZXJfc2Vzcz1CQWg3Q0RvUFkzSmxZWFJsWkY5aGRHd3JDRzlnRWJR
+        N0FTSUtabXhoYzJoSlF6b25RV04wYVc5dVEyOXUlMjUwQWRISnZiR3hsY2pv
+        NlJteGhjMmc2T2tac1lYTm9TR0Z6YUhzQUJqb0tRSFZ6WldSN0FEb0hhV1Fp
+        SlRKayUyNTBBTlRnM01EYzRaV1ZrWTJaaU1qVTRaalkyTkRrek1qVXdZVEJr
+        TkdVei0tNDNjNmNiMDBkNjU4YzliZDVhMDkzNDNhMTM4MTI3MGRkMzI4ZThh
+        YzsgZG9tYWluPS50d2l0dGVyLmNvbTsgcGF0aD0vOyBIdHRwT25seQ==
+      - !binary |-
+        Z3Vlc3RfaWQ9djElM0ExMzU1OTM1NzM1OTE3NjYwNDM7IGRvbWFpbj0udHdp
+        dHRlci5jb207IHBhdGg9LzsgZXhwaXJlcz1TYXQsIDIwLURlYy0yMDE0IDA0
+        OjQ4OjU1IEdNVA==
+      - !binary |-
+        az0xMC4zNi4zOS4xMDEuMTM1NTkzNTczNTkwOTAzNzsgcGF0aD0vOyBleHBp
+        cmVzPVdlZCwgMjYtRGVjLTEyIDE2OjQ4OjU1IEdNVDsgZG9tYWluPS50d2l0
+        dGVyLmNvbQ==
+      !binary "VmFyeQ==":
+      - !binary |-
+        QWNjZXB0LUVuY29kaW5n
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24veG1sOyBjaGFyc2V0PXV0Zi04
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MTE2
+      !binary "U2VydmVy":
+      - !binary |-
+        dGZl
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:57 GMT
+- request:
+    method: head
+    uri: http://xkcd.com/rss.xml
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24veG1s
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjE0NTUxMzg4NSI=
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjowOTozNCBHTVQ=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        MjM0Ng==
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Mzo0MyBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        bGlnaHR0cGQvMS40LjI4
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:57 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/hackaday/LgoM
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        R1pwYmwwa0Nsc3lQRjVkeEFvWldtNHpUaVM4
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NjoxOSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:57 GMT
+- request:
+    method: head
+    uri: http://feeds.feedburner.com/makezineonline
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        dGV4dC94bWw7IGNoYXJzZXQ9VVRGLTg=
+      !binary "RXRhZw==":
+      - !binary |-
+        QVAzZitYVjFvMDF3QVBkeHMzZ0FXNG9zR1Zz
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0Mjo1MSBHTVQ=
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NiBHTVQ=
+      !binary "RXhwaXJlcw==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0ODo1NiBHTVQ=
+      !binary "Q2FjaGUtQ29udHJvbA==":
+      - !binary |-
+        cHJpdmF0ZSwgbWF4LWFnZT0w
+      !binary "WC1Db250ZW50LVR5cGUtT3B0aW9ucw==":
+      - !binary |-
+        bm9zbmlmZg==
+      !binary "WC1Yc3MtUHJvdGVjdGlvbg==":
+      - !binary |-
+        MTsgbW9kZT1ibG9jaw==
+      !binary "U2VydmVy":
+      - !binary |-
+        R1NF
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary ""
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:48:58 GMT
+recorded_with: VCR 2.3.0

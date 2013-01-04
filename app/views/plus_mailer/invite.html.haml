@@ -1,0 +1,14 @@
+!!!
+%html
+  %head
+    %meta{:content => "text/html; charset=UTF-8", "http-equiv" => "Content-Type"}/
+  %body
+    %h1 Come check out 1kpl.us!
+    %p
+      Your friend #{@user.name} (#{@user.email}) wants you to check out 1kpl.us.
+      %br/
+    %p
+      1kpl.us is a social rss reader. You can subscribe to your favorite blogs and news sites, and share and comment on the things you find interesting.
+      %br/
+      = @url
+    %p Have fun reading, sharing, and commenting!

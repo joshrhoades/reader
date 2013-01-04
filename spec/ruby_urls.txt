@@ -1,0 +1,10 @@
+http://feeds.feedburner.com/RubyRogues
+http://devblog.avdi.org/feed/
+http://feeds.feedburner.com/RubyInside
+http://feeds.feedburner.com/DrNic
+http://schneems.com/rss
+http://runningwithrails.com/feed/
+http://afreshcup.com/home/rss.xml
+http://feeds.feedburner.com/rubyshow
+http://rubysource.com/feed/
+http://addcasts.com/feed/

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+  <head>
+    <title>Charlie subscriptions in Google Reader</title>
+  </head>
+  <body>
+    <outline text="Signal vs. Noise" title="Signal vs. Noise"
+             type="rss"
+             xmlUrl="http://feeds.feedburner.com/37signals/beMH" htmlUrl="http://37signals.com/svn/posts"/>
+    <outline title="waste of time" text="waste of time">
+      <outline
+              text="Not Always Romantic | Funny &amp; Unusual Romantic Quotes"
+              title="Not Always Romantic | Funny &amp; Unusual Romantic Quotes"
+              type="rss" xmlUrl="http://notalwaysromantic.com/feed" htmlUrl="http://notalwaysromantic.com"/>
+      <outline
+              text="Very Demotivational - The Demotivational Posters Blog"
+              title="Very Demotivational - The Demotivational Posters Blog"
+              type="rss"
+              xmlUrl="http://feeds.feedburner.com/VeryDemotivational" htmlUrl="http://memebase.cheezburger.com/verydemotivational"/>
+    </outline>
+    <outline title="favorites" text="favorites">
+      <outline text="xkcd.com" title="xkcd.com" type="rss"
+               xmlUrl="http://xkcd.com/rss.xml" htmlUrl="http://xkcd.com/"/>
+    </outline>
+    <outline title="diy" text="diy">
+      <outline text="Hack a Day" title="Hack a Day" type="rss"
+               xmlUrl="http://feeds.feedburner.com/hackaday/LgoM" htmlUrl="http://hackaday.com"/>
+    </outline>
+  </body>
+</opml>

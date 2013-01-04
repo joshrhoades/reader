@@ -1,0 +1,24 @@
+
+%div#share-modal.modal.hide.fade
+  = form_for("entry", :url => share_path, :html => {:id => "share_form", :class => 'form-vertical'}, :remote => true) do |f|
+    %div.modal-header
+      -#%a.close{'data-dismiss'=>:alert} ×
+      %h3 Share something!
+    %div.modal-body
+
+      %div#user_share_box
+
+
+      %fieldset
+        .control-group
+          %label.control-label{:for => "title"} Title:
+          .controls
+            %input#title.input-xlarge{:type => "text", :name => 'entry[title]'}
+          %p
+          %label.control-label{:for => "content"} Body:
+          .controls
+            %textarea#content.input-xlarge{:type => "textarea", :name => 'entry[content]', :cols => 30, :rows => 10, :width => "100%"}
+
+    %div.modal-footer
+      %button#share-modal-submit-link-btn.btn.btn-primary Share
+      %a#share-modal-close-link-btn.btn Close

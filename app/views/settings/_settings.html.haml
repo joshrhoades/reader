@@ -1,0 +1,115 @@
+%ul.nav.nav-tabs
+  -#%li.active
+  -#  %a{"data-toggle" => "tab", :href => "#tab-options", :id => "options-tab"} Options
+  %li.active
+    %a{"data-toggle" => "tab", :href => "#tab-feeds", :id => "feeds-tab"} Feeds
+  %li
+    %a{"data-toggle" => "tab", :href => "#tab-friends", :id => "friends-tab"} Friends
+  %li
+    %a{"data-toggle" => "tab", :href => "#tab-account", :id => "account-tab"} Account
+.tab-content
+  #tab-services.tab-pane
+    %h3 Service integrations
+    %p
+      = link_to user_omniauth_authorize_path(:facebook) do
+        Facebooks
+    %p Twitter
+    %p Pinterest
+    %p Instapaper
+  -##tab-options.tab-pane.active
+  -#  %form.form-horizontal
+  -#    %fieldset
+  -#      %label.control-label Reading options:
+  -#      .controls
+  -#        %label.checkbox{:for => "keep-list-open"}
+  -#          %input#show-all-feeds{:type => "checkbox"}
+  -#            Keep subscription list open
+  -#
+  -#        %label.checkbox{:for => "show-all-feeds"}
+  -#          %input#show-all-feeds{:type => "checkbox"}
+  -#            Show only updated feeds
+  -#
+  -#        %label.checkbox{:for => "show-feed-counts"}
+  -#          %input#show-feed-counts{:type => "checkbox"}
+  -#            Show item counts
+  -#    %div.btn-container
+  -#      %a#save-options-btn.btn.btn-primary Save
+
+  #tab-account.tab-pane
+    %form.form-horizontal
+      %fieldset
+        .control-group
+          %label.control-label{:for => "name"} Your name:
+          .controls
+            %input#name{:type => "text", :value => current_user.name}/
+            %p.help-block This name will be visible to people that follow you.
+        .control-group
+          %label.control-label{:for => "email"} Your e-mail:
+          .controls
+            %input#email.input-xlarge{:type => "text", :value => current_user.email}/
+      %div.btn-container
+        %a#save-account-info-btn.btn.btn-primary Save
+
+  #tab-feeds.tab-pane.active
+    %h3 Add Feeds
+
+    = form_tag "/subscriptions", :id => 'add_feed_form', :multipart => true, :class => 'form-horizontal', :remote => true do
+      %div#opml_result
+      %fieldset
+        #feed-url-field-control-group.control-group
+          %label.control-label{:for => "feed_url"} Add a feed:
+          .controls
+            = text_field_tag :feed_url
+            %span.help-inline
+        #feed-select-found-feed.control-group.hide
+          %label.control-label Available feeds:
+          .controls
+
+      %div.btn-container
+        %a#add-feed-btn.btn.btn-primary Add Feed
+
+    %hr
+
+    %h3 Import Feeds from other readers
+
+    = form_tag "/opml", :id => 'opml_form', :multipart => true, :class => 'form-horizontal' do
+
+      %fieldset
+        .control-group
+          %label.control-label{:for => "name"} Import OPML File:
+          .controls
+            -#%input#opml_file.input-xlarge{:type => "file"}
+            = file_field_tag :opml_file
+            %p.help-block If you are switching from another feed reader, you can import your OPML file here.
+      %div.btn-container
+        %a#import-btn.btn.btn-primary Import
+
+    %h3 Your feeds
+    = render :partial => "your_feeds"
+
+    %h3 Suggested feeds
+    = render :partial => "suggested_feeds"
+
+
+  #tab-friends.tab-pane
+    = render :partial => "follow_requests", :locals => {:follow_requests => @follow_requests}
+    %p
+    %div#invite-person-form-container
+      %h3 Send invite
+      = form_tag "/people/invite", :id => 'invite_form', :remote => true, :class => 'form-horizontal' do
+        %fieldset
+          .control-group
+            %label.control-label{:for => :invite_email} E-mail:
+            .controls
+              = text_field_tag :invite_email
+              %span#invite_result.help-inline
+
+        %div.btn-container
+          %button#send-invite-btn.btn.btn-primary Send invite
+
+    %div#people-you-follow-container
+
+    %div#people-following-you-container
+
+    %div#people-you-may-know-container
+

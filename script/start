@@ -1,0 +1,7 @@
+INTERVAL=1 QUEUE=* rake environment resque:work </dev/null &>/dev/null &
+
+god -c config/fetcher.god
+
+rails s puma
+
+

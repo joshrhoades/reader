@@ -1,0 +1,3825 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://digia.com/en/Home/Company/News/Digia-launches-Qt-5-cross-platform-application-development-and-UI-framework/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:03 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '700'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"34f740965108b4ba98e62884fc6fc5eb72a9ea3b"'
+      X-Embedly-Process-Time:
+      - '45'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api19
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://digia.com", "description": "Qt 5 delivers
+        enhanced performance, highly-intensified graphical animations and effects
+        plus efficiency and ease of use to create highly portable applications December
+        19, 2012 - Digia has announced the launch of Qt 5.0, a major new version of
+        the popular cross-platform application and user interface development framework
+        for desktop, embedded and mobile applications.", "title": "Digia launches
+        Qt 5 cross-platform application development and UI framework", "url": "http://digia.com/en/Home/Company/News/Digia-launches-Qt-5-cross-platform-application-development-and-UI-framework/",
+        "version": "1.0", "provider_name": "Digia", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:04 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://github.com/twitter/bootstrap/wiki/Upcoming-3.0-changes&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:03 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '620'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"0515045f5e712e8ea5cfff4f8bbf6fc13f45b0c6"'
+      X-Embedly-Process-Time:
+      - '81'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api05
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://github.com", "description": "bootstrap
+        - Sleek, intuitive, and powerful front-end framework for faster and easier
+        web development.", "title": "bootstrap", "url": "https://github.com/twitter/bootstrap/wiki/Upcoming-3.0-changes",
+        "author_name": "twitter", "thumbnail_url": "https://secure.gravatar.com/avatar/2f4a8254d032a8ec5e4c48d461e54fcc?s=420&d=https://a248.e.akamai.net/assets.github.com%2Fimages%2Fgravatars%2Fgravatar-user-420.png",
+        "thumbnail_width": 420, "version": "1.0", "provider_name": "Github", "type":
+        "link", "thumbnail_height": 420, "author_url": "https://github.com/twitter"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:04 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://moonbase.com/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:03 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '166'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"17d0b53b51de1540c0c5f501d02329f69f071ef4"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api23
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://moonbase.com", "title": "Moonbase - Welcome",
+        "url": "http://moonbase.com/", "version": "1.0", "provider_name": "Moonbase",
+        "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:05 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.fbpurity.com/news/important-news-facebooks-legal-team-have-told-me-i-am-banned-from-facebook-because-of-f-b-purity/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:04 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '907'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"88ddf81112832758cb21e3fd65aef986d92eaae0"'
+      X-Embedly-Process-Time:
+      - '47'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api06
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.fbpurity.com", "description": "VERY
+        IMPORTANT NEWS!* Facebooks legal department have informed me, the developer
+        of the F.B. Purity browser extension, that I am *banned* from using Facebook.
+        This effectively means I will no longer be able to work on the F.B. Purity
+        project any more. I am assuming the F.B.", "title": "*IMPORTANT NEWS!* Facebooks
+        legal team have told me I am banned from Facebook because of F.B. Purity -
+        F.B. Purity - Cleans Up Facebook", "url": "http://www.fbpurity.com/news/important-news-facebooks-legal-team-have-told-me-i-am-banned-from-facebook-because-of-f-b-purity/",
+        "author_name": "admin", "thumbnail_url": "http://www.fbpurity.com/news/wp-content/uploads/2012/10/fbptemp.jpg",
+        "thumbnail_width": 206, "version": "1.0", "provider_name": "Fbpurity", "type":
+        "link", "thumbnail_height": 206, "author_url": "http://www.fbpurity.com/news/author/admin/"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:05 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://security.stackexchange.com/questions/25585/is-my-developers-home-brew-password-security-right-or-wrong-and-why&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:04 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '730'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"03e5f94d8643c952734094202224d47d9e8df597"'
+      X-Embedly-Process-Time:
+      - '56'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api15
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://security.stackexchange.com", "description":
+        "If Dave is really \"your\" developer, as in you have the authority to fire
+        him, then you have the authority to direct him to use a more well-documented
+        scheme, and you should. In cryptography, the fewer secrets that are required
+        to be kept, the better.", "title": "hash - Is my developer''s home-brew password
+        security right or wrong, and why? - IT Security", "url": "http://security.stackexchange.com/questions/25585/is-my-developers-home-brew-password-security-right-or-wrong-and-why",
+        "thumbnail_width": 220, "thumbnail_url": "http://i.stack.imgur.com/wqz2V.png",
+        "version": "1.0", "provider_name": "Stackexchange", "type": "link", "thumbnail_height":
+        250}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:05 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:04 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '562'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"e4c2bb091021b8a9b3b03be1ce8ae69a73685220"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api02
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://tumblr.com", "description": "Gittip is
+        a platform for sustainable crowd-funding. It allows you to set up a small,
+        anonymous, weekly cash gift to a person who is doing great work. Gittip launched
+        six months ago, and currently has about 550 active users, exchanging about
+        $1,400 per week in gifts.", "title": "Gittip Anyone on Twitter", "url": "http://blog.gittip.com/post/38264311698/gittip-anyone-on-twitter",
+        "author_name": "gittip", "version": "1.0", "author_url": "http://blog.gittip.com",
+        "provider_name": "Tumblr", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:05 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://kaikkonendesign.fi/typography/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:04 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '321'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"eaca830c5980e62ec36a5503e183de4a5f7b3345"'
+      X-Embedly-Process-Time:
+      - '42'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api03
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://kaikkonendesign.fi", "description": "This
+        guide teaches you the basics of typography for blog articles in an interactive
+        way.", "title": "Interactive Guide to Blog Typography", "url": "http://kaikkonendesign.fi/typography/",
+        "version": "1.0", "provider_name": "Kaikkonendesign", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:05 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://whatisdnt.com/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:05 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '138'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"c286827373e226af80f88fbb740cf98cea188530"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api07
+    body:
+      encoding: US-ASCII
+      string: ! '[{"url": "http://whatisdnt.com/", "provider_url": "http://whatisdnt.com",
+        "provider_name": "Whatisdnt", "version": "1.0", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:06 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.bbc.co.uk/news/technology-20787024&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:05 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '629'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"838a4f4887c44741cfee969e5b1058a012d930c5"'
+      X-Embedly-Process-Time:
+      - '76'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api20
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.bbc.co.uk", "description": "Struggling
+        Eastman Kodak has sold its digital imaging patents to a consortium of investors
+        for $525m (\u00a3322m). Intellectual Ventures (IV) will snap up part of the
+        patents while 12 intellectual property licensees led by IV and RPX Corp will
+        pay for another portion.", "title": "Bankrupt Kodak gets $525m lifeline",
+        "url": "http://www.bbc.co.uk/news/technology-20787024", "thumbnail_width":
+        144, "thumbnail_url": "http://news.bbcimg.co.uk/media/images/64856000/jpg/_64856206_kodak.jpg",
+        "version": "1.0", "provider_name": "Bbc", "type": "link", "thumbnail_height":
+        81}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:06 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.jonathanchannon.com/2012/12/19/why-use-nancyfx/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:05 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '599'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"e4b56c8abe2219825b22d53be1c66af8ea97e89f"'
+      X-Embedly-Process-Time:
+      - '39'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api13
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://blog.jonathanchannon.com", "description":
+        "Here we configure the AfterRequest delegate to find the IDocumentSession
+        used in the request, save the changes to the database and then dispose of
+        the IDocumentSession (although TinyIOC would actually dispose of this for
+        you).", "title": "Why use NancyFX? | Jonathan Channon''s Blog", "url": "http://blog.jonathanchannon.com/2012/12/19/why-use-nancyfx/",
+        "thumbnail_width": 400, "thumbnail_url": "http://i.minus.com/imM6lHNgto38I.gif",
+        "version": "1.0", "provider_name": "Jonathanchannon", "type": "link", "thumbnail_height":
+        226}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:06 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.weebly.com/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:05 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '503'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"2fe2cf1376691cc6bf185d7b4cdc1f6a1e5eee38"'
+      X-Embedly-Process-Time:
+      - '32'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api07
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.weebly.com", "description": "Named
+        one of TIME''s 50 Best Websites, Weebly has an easy, drag & drop interface
+        to create your own website. It''s free, powerful, and professional.", "title":
+        "Weebly is the easiest way to create a website or blog", "url": "http://www.weebly.com/",
+        "thumbnail_width": 343, "thumbnail_url": "http://static-cdn.weebly.com/images/theme_contest/screenshots.gif",
+        "version": "1.0", "provider_name": "Weebly", "type": "link", "thumbnail_height":
+        308}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:07 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.andrewluetgers.com/2012/12/04/loot-js-dom/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:06 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '634'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"8c8f8f7f5ab58fcc8d29b354e124559d269abcff"'
+      X-Embedly-Process-Time:
+      - '37'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api01
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.andrewluetgers.com", "description":
+        "Something I''m pretty happy with out of my loot.js project is the $dom function.
+        I saw this post on Hacker News by Neil Jenkins about a dom constructor $el
+        funciton that used a css selector to define the tag class and id, an object
+        to define other properties on that tag and an array for the children.", "title":
+        "loot.js $dom | Technics", "url": "http://www.andrewluetgers.com/2012/12/04/loot-js-dom/",
+        "author_name": "Andrew Luetgers", "version": "1.0", "author_url": "http://www.andrewluetgers.com/author/admin/",
+        "provider_name": "Andrewluetgers", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:07 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.bahadir.io/posts/failed-entrepreneur.html&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:06 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '628'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"419377ee7aeaffe3abe1ab18f5cf44b5972ccb17"'
+      X-Embedly-Process-Time:
+      - '42'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api06
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://blog.bahadir.io", "description": "I knew
+        everything. made a good sprint, but couldn''t finish the run. No more oxygen/energy.
+        General did not take care myself; emotionally and physically did not listen
+        people very well. I''ve heard them but did not actually listen. I kept on
+        talking and talking.", "title": "The Journey of Programming Entrepreneurship",
+        "url": "http://blog.bahadir.io/posts/failed-entrepreneur.html", "thumbnail_width":
+        500, "thumbnail_url": "http://ecx.images-amazon.com/images/I/61LkKJ5lHiL.jpg",
+        "version": "1.0", "provider_name": "Bahadir", "type": "link", "thumbnail_height":
+        500}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:07 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://blogs.oracle.com/arungupta/entry/what_s_new_in_servlet&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:06 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '563'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"f9c0624061a2637be2ef4b974adcafe5a3c57f60"'
+      X-Embedly-Process-Time:
+      - '45'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api18
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://blogs.oracle.com", "description": "Servlet
+        3.0 was released as part of Java EE 6 and made huge changes focused at ease-of-use.
+        The idea was to leverage the latest language features such as annotations
+        and generics and modernize how Servlets can be written. The web.xml was made
+        as optional as possible.", "title": "What''s new in Servlet 3.1 ? - Java EE
+        7 moving forward (Arun Gupta, Miles to go ...)", "url": "https://blogs.oracle.com/arungupta/entry/what_s_new_in_servlet",
+        "version": "1.0", "provider_name": "Oracle", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:07 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://globalvoicesonline.org/2012/12/18/censorship-lift-for-v-for-vendetta-shocks-china/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:06 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '861'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"d101e45b9ecdddaec348a45361328c400c7cbc6b"'
+      X-Embedly-Process-Time:
+      - '50'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api14
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://globalvoicesonline.org", "description":
+        "V for Vendetta, a thriller film produced in 2005 about a near-future dystopian
+        society, previously censored in China, was aired on China Central Television
+        Station (CCTV) Channel Six on December 14, 2012. Many people are surprised
+        by the screening, in particular the mask of V, which has been used by activists
+        all over the world as a symbol of resistance against government oppression.",
+        "title": "Censorship Lift for \"V for Vendetta\" Shocks China \u00b7 Global
+        Voices", "url": "http://globalvoicesonline.org/2012/12/18/censorship-lift-for-v-for-vendetta-shocks-china/",
+        "thumbnail_width": 120, "thumbnail_url": "http://globalvoicesonline.org/wp-content/uploads/2012/12/vat-cctv-120x120.jpg",
+        "version": "1.0", "provider_name": "Globalvoicesonline", "type": "link", "thumbnail_height":
+        120}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:07 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://tech.fortune.cnn.com/2012/12/18/mark-zuckerberg-donation/?hpt=hp_t3&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzowNyBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1FbWJlZGx5LUZyb20tQ2FjaGU=":
+      - !binary |-
+        MA==
+      !binary "QWNjZXNzLUNvbnRyb2wtTWF4LUFnZQ==":
+      - !binary |-
+        ODY0MDA=
+      !binary "U2VydmVy":
+      - !binary |-
+        VG9ybmFkb1NlcnZlci8yLjE=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjU5NzQzMzE4N2NmMGIxMjMyN2YxYjljYjE1YWNlMmVkNjkxYmFiNjUi
+      !binary "WC1FbWJlZGx5LVByb2Nlc3MtVGltZQ==":
+      - !binary |-
+        NjI=
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2lu":
+      - !binary |-
+        Kg==
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcw==":
+      - !binary |-
+        R0VULCBPUFRJT05T
+      !binary "WC1FbWJlZGx5LUhvc3Q=":
+      - !binary |-
+        YXBpMjM=
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA+1XbW/bNhD+KwevKDbAlmTntYnjYimadgP6gi1bgS1DQEuU
+        xIYiNZKK6wz773uOsh07bbd+GLAvAwI7Msnj3XN3zz369Y9B6+ytKqS77pwe
+        nNCgDqE9SdMg8zoprQudkUluTJLbZjCkQSF97lQblDW8++LND5c/vX5OoxG9
+        Eu6GfunyG+nm0lVUWCOCLOhC5HJu7Q35WjjpaQGjNT06yDJqlNYwRMFSqCX9
+        qLTK8fiz0Fou6Zltms6osKQL25lC8J1DEmSsGcHrUgWyrhJG3cUlmBCBrd/g
+        DoUr4IB1no3Dns3hDJWw40nkuXWFMtXqYuVImSDhXPAJXcKTSpWBFM7ify1c
+        hRWSt9KRk7lUt4hqvoyL5ZZni1rlNZXKCJMjTrj4XubBE9+t9ZKEKUg4PhCP
+        wlNdIB48bqHmhSoIq60WxuAeeF/avPNUw51K3bLXymCH0AhRGJJFh9AQf8Lp
+        CSpoyYn5dDb8Du584J+znk6y8STlv+O0QY5Hd5scj2KOcXfKpurQxAqa1pMZ
+        g7hJfAQJ4PnWSQH8Y/QxgGSaYvOVmRbqdvVFqji7GogQRF430oTr46PDJ9nV
+        gHItvMfSoh3lIhYg8qoq41RVB6z7sNSS11UR6hPaO8jaD1eD2VRQ7WSJhb+p
+        7D7G7CAdH6bKePTDqFyV7WgSo77einovxXVO6h0/CX7B69HK3dlUNdXGZ6/u
+        YLHTmnepRlRyvQ8xBNh59vzNdhWgkvN6u3c45SiAl8LdClegtF1DztqGa2GS
+        ZfsJA+Dy+yhXrTt3AvEEbO8bWmnpE1RegVR4z029Cf1BlMn7tnq6ONs/YOyJ
+        0tk0FbNp+4k0jIL8gATMHpTcNG1xZpXYdrZmisdfHU/Gk9P/6eK/poud/HCa
+        Nsnihy1KAhGhgXMmow01GvqorxaLRbJumlhY3DFpa0Gq6TgbZ9lhNj46nOwd
+        ZiAUlIsgXiO08ZoouMKGtKjBxEyBxvL4iKyOJ+ZJboGFKiW9dcrnGB6CntXg
+        wFoUoFt5q2znQbQerLDy9iMvewpttSwqmWB8oJVnL3pafRt/7J1gYi25hwg/
+        Mtm/E85JQ+ddWcoQojfncIBeYKzEGSNNbjuHzqZ5P9WE4mmHlX4QUhOjLRlE
+        DJye/3i5rRW4PtTOtiqnXHQeLUrfcV+Ps+E2K/Rex5mwsvkIsG6mKKhgQ7lf
+        fxR4Y41crid5+nsHcPvPhHn7qV8287OLc6Bxcc4QfLMe1zw+N2DgQTWsGDCg
+        ujmm9f34YSZ6LRegyiF/0/fSeVy4U1Q7D0wEk+z00hZiOeTTYCUMCVyhxcPh
+        ihnoyMDqeqiiTGRkkqNT+NKIAgVC0A7BqXkXZwOQHh9vsNkAsxIhuIWL+UsU
+        R/RzfLqdiIUDegl9G+iykx7+r1zxYEfreUS3TuWSfXg0OUqOxsN42+puqKC1
+        CNp/snExoQ0glcRuxyGi2lFjmtUTI4CTwjNUm6Hft0UvBhBTLxUQvQElo4hW
+        fjVU21Zi/tyjBrNzYDbXkhGvBVCEaXSkCtA3nHIkWuRQQYCyY/A/BPIyVvAm
+        CZ+F5vNZR10LjGp0DQ/3IT1vGu6nZ8J5Vnc8B/se+ZLcEKulkzVwPH+uOnTN
+        EyglaSSkFksmKLmIYg6mQHdqhAcJiP7FYGzRo2QZ7Qjrg3J4INgqbQEZ0AKH
+        oMtFfhPNNOIGv7KkYUGH6OYICIUMBZejSN4BTFyC3hUeVBJpjIXpFrXVQD6v
+        rQe/wDpXsTJdvKkVLiCQXs8iGk6V1C2IsIGKrRU0aSTFXQ6prNA+iVAUn8gE
+        azXRhdq6ayOaXi2qqpOaXkpdIidwRKHaFk4hjqgq666ZG6H09a5c/NdExn72
+        uD7b28se52DBs+A6uXtt1HTQlnv7YMQBhLhfvX+Mk4x3bl5i1gFd9G8udInX
+        mJP4aay21ZLm+PRD5pK+CIQReukBYemgptbHXolK3CnTe7FsI0ZamZtdr0Dk
+        kJ5Ymxwc3GP6BYq6Rz9tkMsypIM/f/sLZXVms4gNAAA=
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:08 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://techcrunch.com/2012/12/19/mobile-game-recording-yc-alum-kamcord-raises-1-5-million-from-andreessen-horowitz-google-ventures-and-others/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzowNyBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1FbWJlZGx5LUZyb20tQ2FjaGU=":
+      - !binary |-
+        MA==
+      !binary "QWNjZXNzLUNvbnRyb2wtTWF4LUFnZQ==":
+      - !binary |-
+        ODY0MDA=
+      !binary "U2VydmVy":
+      - !binary |-
+        VG9ybmFkb1NlcnZlci8yLjE=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjkyZjJhMTgwZDgxODFmYmYxMzJhYjk4MTZiZDYzODIzMDNiNDRhYTki
+      !binary "WC1FbWJlZGx5LVByb2Nlc3MtVGltZQ==":
+      - !binary |-
+        NDE=
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2lu":
+      - !binary |-
+        Kg==
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcw==":
+      - !binary |-
+        R0VULCBPUFRJT05T
+      !binary "WC1FbWJlZGx5LUhvc3Q=":
+      - !binary |-
+        YXBpMjM=
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA91U72vUQBD9V8Yg+uU2ueu1YEtbKafWUo5CLUKxUuaSSXbb
+        ZDfujzuv4v/ubBKvrWgRPwoH4ZLZnffevHmfviWtNUtVkL0Otk72IJHet3tZ
+        5imXuQ06l2lummQESUEut6r1yuhYd+JfOlgQacCFCR5KEyw0RnvpwCmdE1zO
+        AOvQwCk2ubEFlMo6D6YlTQUo77h6oWqCChsCS7FG6Qo+vDkFb4CwIgsFLanm
+        I9aNAHUBXhJ4wgYcUeOgVfktXxZa+BKUJ0BYKG5RguuLOhx8RqdwYQpcjzZg
+        UGvD7Piwl+gZDkh0YFE5foUMwGMdL3o+SXegUXXNtEHp2JeZBN1BLa1p4EgX
+        lsixEO+NNSvl70ZwbEzFzD6S9mkaxfPK1xRlm/ecjyPn8w1nlurooVTnEYfr
+        m8+H5u8eNPtjt2CJlWJIcMa0rYu9nxpstjWebGXxt5v14xBxHGIzDrHORZyi
+        uO2nKDqJnJiIHTHIIqIMgqcTZWBkQg46iKqTQSxZhggs1gjT4coiMOmbznIn
+        /iowjt1/8dM+grRUHlz93rg9v/GrbLKdMZMFRr9suEiqWzdw7cA5iZaEl8aR
+        IDaXuNeE583/Gqbisqvk8K98vJ/h4f/k5d5dF8R7o/0ILlEa8wxmb89gjlY5
+        h/xck+1X9ZyKgtcqN4KjQXPCsMXpq3JwJlEr1CO4CZwHvOo6LgNCSatuVzDw
+        AOx1fBvdMZN8Na9SjXe56XZJhmahUdW/RlZ+H1psp0lacrq4dMW50rL7XAyy
+        jR8GO0/Tm7Z6vTrY3h6/kAfT6fhxg5UqvGQQ/JkbL9m4Q/pN0q5yE54/wV5w
+        bM662OwuWrcdhVrp28cXS1KV9PxtaxpvHig/ual9TZZ7TsQoRZZ8//wDdIb3
+        28AFAAA=
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:08 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://comoyo.github.com/blog/2012/12/18/Firefox-OS-challenges-the-closed-mobile-ecosystems/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:07 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '473'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"ce0f95ec281aa28975ba2149164144d1d0c55e35"'
+      X-Embedly-Process-Time:
+      - '44'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api18
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://comoyo.github.com", "description": "Comoyo
+        Engineering", "title": "Firefox OS challenges the closed mobile ecosystems
+        - Comoyo Engineering", "url": "http://comoyo.github.com/blog/2012/12/18/Firefox-OS-challenges-the-closed-mobile-ecosystems/",
+        "thumbnail_width": 525, "thumbnail_url": "http://comoyo.github.com/assets/img/posts/firefox-os/firefox-phone_r.JPG",
+        "version": "1.0", "provider_name": "Github", "type": "link", "thumbnail_height":
+        700}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:08 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.humansinvent.com/%23!/10174/engineering-rc-cars-from-dysons-scrapheap/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:07 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '721'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"160d704f8e6990011800e04a6a71f7110044b260"'
+      X-Embedly-Process-Time:
+      - '52'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api07
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.humansinvent.com", "description": "Go
+        to \" The design / The challenges / The changes Dyson recently challenged
+        fifty of its finest engineers to a make a remote-controlled car from Dyson
+        balls and spare parts. The engineers were divided into teams and given three
+        weeks to build their designs before racing them at a makeshift track at the
+        R&D facilities in Wiltshire.", "url": "http://www.humansinvent.com!#/10174/engineering-rc-cars-from-dysons-scrapheap/",
+        "thumbnail_width": 520, "thumbnail_url": "http://cdn.humansinvent.com.s3.amazonaws.com/wp-content/uploads/2012/12/DysonCar-4-520x292.jpg",
+        "version": "1.0", "provider_name": "Humansinvent", "type": "link", "thumbnail_height":
+        292}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:08 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.qt.digia.com/blog/2012/12/19/qt-5-0/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:10 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '752'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"d90bc8dc49407ac401a964e2ed14e6e4c8217a36"'
+      X-Embedly-Process-Time:
+      - '37'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api01
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://blog.qt.digia.com", "description": "Christmas
+        is getting close, and it''s about time to unwrap one of the presents. You
+        can get it at qt-project.org/downloads. For those of you that are commercial
+        customers, simply visit your download area. If you are interested in evaluating
+        the commercial version, please visit qt.digia.com/download.", "title": "Qt
+        5.0 | Qt Blog", "url": "http://blog.qt.digia.com/blog/2012/12/19/qt-5-0/",
+        "author_name": "Lars Knoll", "thumbnail_url": "http://blog.qt.digia.com/wp-content/uploads/2012/12/qt5_team_berlin-1024x680.jpg",
+        "thumbnail_width": 1024, "version": "1.0", "provider_name": "Digia", "type":
+        "link", "thumbnail_height": 680, "author_url": "http://blog.qt.digia.com/blog/author/lars/"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:11 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://torrentfreak.com/pirate-party-shuts-down-pirate-bay-proxy-after-legal-threats-121219/?utm_source=feedburner%26utm_medium=feed%26utm_campaign=Feed%253A+Torrentfreak+%2528Torrentfreak%2529&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:10 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '940'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"b67a810ec1670dfdad379f0a9ad9ea125cd73cc9"'
+      X-Embedly-Process-Time:
+      - '36'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api20
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://torrentfreak.com", "description": "The
+        UK Pirate Party has taken down its popular Pirate Bay proxy. While no official
+        statement has yet been released, it''s believed that legal threats made by
+        music industry group BPI are behind the unexpected move. The decision comes
+        a few days after six individual Pirate Party members received a letter from
+        the BPI''s solicitors.", "title": "Pirate Party Shuts Down Pirate Bay Proxy
+        After Legal Threats | TorrentFreak", "url": "http://torrentfreak.com/pirate-party-shuts-down-pirate-bay-proxy-after-legal-threats-121219/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Torrentfreak+%28Torrentfreak%29",
+        "author_name": "Ernesto", "thumbnail_url": "https://www.torrentfreak.com//images/tpb.jpg",
+        "thumbnail_width": 175, "version": "1.0", "provider_name": "Torrentfreak",
+        "type": "link", "thumbnail_height": 188, "author_url": "http://torrentfreak.com/author/ernesto/"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:11 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://freethephotos.com&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:10 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '396'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"207dafc60849d004b9c5a7ae2d67d82147646ba9"'
+      X-Embedly-Process-Time:
+      - '40'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api20
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://freethephotos.com", "description": "Why
+        are we doing this? Need help? @freethephotos", "title": "Free the Photos |
+        Your photos are yours", "url": "http://freethephotos.com/", "thumbnail_width":
+        222, "thumbnail_url": "http://freethephotos.com/assets/images/col-freeFlickr.jpg",
+        "version": "1.0", "provider_name": "Freethephotos", "type": "link", "thumbnail_height":
+        121}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:11 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://s3.amazonaws.com/Gigapans/EBC_Pumori_050112_8bit_FLAT/EBC_Pumori_050112_8bit_FLAT.html&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:11 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '268'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"20e5b5864b45377db3eba5df651ba71ff8286c4f"'
+      X-Embedly-Process-Time:
+      - '67'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api22
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://s3.amazonaws.com", "title": "krpano.com
+        - EBC_Pumori_050112_8bit_FLAT", "url": "https://s3.amazonaws.com/Gigapans/EBC_Pumori_050112_8bit_FLAT/EBC_Pumori_050112_8bit_FLAT.html",
+        "version": "1.0", "provider_name": "Amazonaws", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:12 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.theincredibleholk.org/blog/2012/12/18/how-do-we-read-code/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:11 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '672'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"c4fe53a160b2854adb267b76e2066821d9223e87"'
+      X-Embedly-Process-Time:
+      - '35'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api08
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://blog.theincredibleholk.org", "description":
+        "I recently got to participate in a psychological experiment for programmers.
+        A friend of mine, Mike Hansen, is doing research on how people comprehend
+        programs. The goal is to figure out some way of measuring what features in
+        programming systems help programmers understand wht they are doing, and how
+        this can be used to make systems that lead to higher quality software.", "title":
+        "How do we read code? - Eric Holk", "url": "http://blog.theincredibleholk.org/blog/2012/12/18/how-do-we-read-code/",
+        "author_name": "Eric Holk", "version": "1.0", "provider_name": "Theincredibleholk",
+        "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:12 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.pcmag.com/article2/0,2817,2413382,00.asp&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:11 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '635'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"cecaf4a571a08fe34815899cbcaeb8782cd01828"'
+      X-Embedly-Process-Time:
+      - '34'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api02
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.pcmag.com", "description": "If you
+        contribute to a Kickstarter project, don''t expect to see the finished product
+        in a timely manner. Of the top 50 most-funded Kickstarter projects, a whopping
+        84 percent missed their target delivery dates, according to an analysis conducted
+        by CNNMoney.", "title": "Most Kickstarter Projects Fail to Deliver on Time",
+        "url": "http://www.pcmag.com/article2/0,2817,2413382,00.asp", "thumbnail_width":
+        499, "thumbnail_url": "http://www5.pcmag.com/media/images/298594-kickstarter-logo.jpg",
+        "version": "1.0", "provider_name": "Pcmag", "type": "link", "thumbnail_height":
+        495}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:12 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.instagram.com/post/38252135408/thank-you-and-were-listening&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:11 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '655'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"57c8eeb4afb33aa10b0ebe5f307f517adcff805b"'
+      X-Embedly-Process-Time:
+      - '53'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api01
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://tumblr.com", "description": "Yesterday
+        we introduced a new version of our Privacy Policy and Terms of Service that
+        will take effect in thirty days. These two documents help communicate as clearly
+        as possible our relationship with the users of Instagram so you understand
+        how your data will be used, and the rules that govern the thriving and active
+        Instagram community.", "title": "Thank you, and we''re listening", "url":
+        "http://blog.instagram.com/post/38252135408/thank-you-and-were-listening",
+        "author_name": "instagram", "version": "1.0", "author_url": "http://blog.instagram.com",
+        "provider_name": "Tumblr", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:12 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://clayallsopp.com/posts/writing-a-programming-book/?&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:11 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '671'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"3bff9ca4ee318eb2cb35510de0bfbb0eabf1ccba"'
+      X-Embedly-Process-Time:
+      - '45'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api18
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://clayallsopp.com", "description": "It''s
+        barely past midnight on Christmas, and there''s a book on my lap. Its black
+        glossy cover smears with every brush of my fingers. That ''new book'' smell
+        eases from the unworn pages. The book is ''Beginning iPhone Development''
+        by Dave Mark and Jeff LaMarche, and it changed everything for me.", "title":
+        "Writing a Programming Book", "url": "http://clayallsopp.com/posts/writing-a-programming-book/",
+        "thumbnail_width": 190, "thumbnail_url": "http://imagery.pragprog.com/products/328/carubym_xlargecover.jpg?1355157272",
+        "version": "1.0", "provider_name": "Clayallsopp", "type": "link", "thumbnail_height":
+        228}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:13 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://wired.com/gadgetlab/2012/12/how-to-download-your-instagram-photos-and-kill-your-account/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:12 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '664'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"4bf9ee438aaf8c88355a81d5ca8b6acf4b99777c"'
+      X-Embedly-Process-Time:
+      - '105'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api24
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.wired.com", "description": "Today Instagram
+        unleashed brand-new terms of service that has rubbed many of its loyal users
+        the wrong way. Instagram can sell your photos to third parties for ads without
+        telling you.", "title": "How-To Download Your Instagram Photos and Kill Your
+        Account | Gadget Lab | Wired.com", "url": "http://www.wired.com/gadgetlab/2012/12/how-to-download-your-instagram-photos-and-kill-your-account/",
+        "thumbnail_width": 300, "thumbnail_url": "http://www.wired.com/images_blogs/gadgetlab/2012/12/1217_instagram_660-300x300.jpg",
+        "version": "1.0", "provider_name": "Wired", "type": "link", "thumbnail_height":
+        300}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:13 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://jfornear.co/the-real-silicon-valley/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:12 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '522'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"cbcf5da37668841992f3353da2787d004794ebb8"'
+      X-Embedly-Process-Time:
+      - '43'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api02
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://jfornear.co", "description": "The real
+        Silicon Valley will never be televised. It''s way too extreme for TV. I''ve
+        seen two extremes happen to friends: making a billion dollars, and committing
+        suicide. (Both of these, more than once.) - Dustin Curtis I''m writing this
+        post on my friend''s couch, where I will be sleeping for the next few days.",
+        "title": "The Real Silicon Valley", "url": "http://jfornear.co/the-real-silicon-valley/",
+        "version": "1.0", "provider_name": "Jfornear", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:13 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.google.com/santatracker&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 16:47:16 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '471'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"8d8bb0288b37116934e6273c255678d6dbe964bb"'
+      X-Embedly-Process-Time:
+      - '89'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api18
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.google.com", "description": "Use Google
+        Santa Tracker to follow Santa Claus on Google Maps as he makes his journey
+        around the world.", "title": "Google Santa Tracker", "url": "http://www.google.com/santatracker/",
+        "thumbnail_width": 144, "thumbnail_url": "https://maps.gstatic.com/mapfiles/santatracker/1/images/apple-touch-icon-144x144-precomposed.png",
+        "version": "1.0", "provider_name": "Google", "type": "link", "thumbnail_height":
+        144}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:18 GMT
+- request:
+    method: get
+    uri: http://news.ycombinator.com/rss
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Cache-Control:
+      - max-age=0
+      - private
+      X-Frame-Options:
+      - deny
+      Connection:
+      - close
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        PHJzcyB2ZXJzaW9uPSIyLjAiPjxjaGFubmVsPjx0aXRsZT5IYWNrZXIgTmV3
+        czwvdGl0bGU+PGxpbms+aHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tLzwv
+        bGluaz48ZGVzY3JpcHRpb24+TGlua3MgZm9yIHRoZSBpbnRlbGxlY3R1YWxs
+        eSBjdXJpb3VzLCByYW5rZWQgYnkgcmVhZGVycy48L2Rlc2NyaXB0aW9uPjxp
+        dGVtPjx0aXRsZT5RVCA1IGxhdW5jaGVkIGJ5IG5ldyBvd25lciwgRGlnaWE8
+        L3RpdGxlPjxsaW5rPmh0dHA6Ly9kaWdpYS5jb20vZW4vSG9tZS9Db21wYW55
+        L05ld3MvRGlnaWEtbGF1bmNoZXMtUXQtNS1jcm9zcy1wbGF0Zm9ybS1hcHBs
+        aWNhdGlvbi1kZXZlbG9wbWVudC1hbmQtVUktZnJhbWV3b3JrLzwvbGluaz48
+        Y29tbWVudHM+aHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9
+        NDk0MjczOTwvY29tbWVudHM+PGRlc2NyaXB0aW9uPjwhW0NEQVRBWzxhIGhy
+        ZWY9Imh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDI3
+        MzkiPkNvbW1lbnRzPC9hPl1dPjwvZGVzY3JpcHRpb24+PC9pdGVtPjxpdGVt
+        Pjx0aXRsZT5Cb290c3RyYXAgMy4wIFVwY29taW5nIGNoYW5nZXM8L3RpdGxl
+        PjxsaW5rPmh0dHBzOi8vZ2l0aHViLmNvbS90d2l0dGVyL2Jvb3RzdHJhcC93
+        aWtpL1VwY29taW5nLTMuMC1jaGFuZ2VzPC9saW5rPjxjb21tZW50cz5odHRw
+        Oi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQyOTMxPC9jb21t
+        ZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDovL25l
+        d3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MjkzMSI+Q29tbWVudHM8
+        L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxlPk1vb25i
+        YXNlOiBBIHBsdWcgYW5kIHBsYXkgZW5naW5lIGZvciBtYWtpbmcgd2ViIGFu
+        aW1hdGlvbnM8L3RpdGxlPjxsaW5rPmh0dHA6Ly9tb29uYmFzZS5jb20vPC9s
+        aW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRl
+        bT9pZD00OTQyOTAwPC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFb
+        PGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9
+        NDk0MjkwMCI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+
+        PGl0ZW0+PHRpdGxlPkZhY2Vib29rJiMzOTtzIGxlZ2FsIHRlYW0gYmFucyBk
+        ZXZlbG9wZXIgb2YgRi5CLiBQdXJpdHkgZnJvbSBGYWNlYm9vazwvdGl0bGU+
+        PGxpbms+aHR0cDovL3d3dy5mYnB1cml0eS5jb20vbmV3cy9pbXBvcnRhbnQt
+        bmV3cy1mYWNlYm9va3MtbGVnYWwtdGVhbS1oYXZlLXRvbGQtbWUtaS1hbS1i
+        YW5uZWQtZnJvbS1mYWNlYm9vay1iZWNhdXNlLW9mLWYtYi1wdXJpdHkvPC9s
+        aW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRl
+        bT9pZD00OTQyMTI5PC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFb
+        PGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9
+        NDk0MjEyOSI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+
+        PGl0ZW0+PHRpdGxlPkhhc2ggLSBJcyBteSBkZXZlbG9wZXImIzM5O3MgaG9t
+        ZS1icmV3IHBhc3N3b3JkIHNlY3VyaXR5IHJpZ2h0IG9yIHdyb25nLCBhbmQg
+        d2h5PzwvdGl0bGU+PGxpbms+aHR0cDovL3NlY3VyaXR5LnN0YWNrZXhjaGFu
+        Z2UuY29tL3F1ZXN0aW9ucy8yNTU4NS9pcy1teS1kZXZlbG9wZXJzLWhvbWUt
+        YnJldy1wYXNzd29yZC1zZWN1cml0eS1yaWdodC1vci13cm9uZy1hbmQtd2h5
+        PC9saW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20v
+        aXRlbT9pZD00OTQyOTQzPC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RB
+        VEFbPGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/
+        aWQ9NDk0Mjk0MyI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0
+        ZW0+PGl0ZW0+PHRpdGxlPkdpdHRpcCBBbnlvbmUgb24gVHdpdHRlcjwvdGl0
+        bGU+PGxpbms+aHR0cDovL2Jsb2cuZ2l0dGlwLmNvbS9wb3N0LzM4MjY0MzEx
+        Njk4L2dpdHRpcC1hbnlvbmUtb24tdHdpdHRlcjwvbGluaz48Y29tbWVudHM+
+        aHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0Mjg3NTwv
+        Y29tbWVudHM+PGRlc2NyaXB0aW9uPjwhW0NEQVRBWzxhIGhyZWY9Imh0dHA6
+        Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDI4NzUiPkNvbW1l
+        bnRzPC9hPl1dPjwvZGVzY3JpcHRpb24+PC9pdGVtPjxpdGVtPjx0aXRsZT5J
+        bnRlcmFjdGl2ZSBHdWlkZSB0byBCbG9nIFR5cG9ncmFwaHk8L3RpdGxlPjxs
+        aW5rPmh0dHA6Ly9rYWlra29uZW5kZXNpZ24uZmkvdHlwb2dyYXBoeS88L2xp
+        bms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVt
+        P2lkPTQ5NDIwNjI8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8
+        YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00
+        OTQyMDYyIj5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48
+        aXRlbT48dGl0bGU+V2hhdCBpcyBEbyBOb3QgVHJhY2sgKEROVCk/IEFuIGls
+        bHVzdHJhdGVkIGd1aWRlIDwvdGl0bGU+PGxpbms+aHR0cDovL3doYXRpc2Ru
+        dC5jb20vPC9saW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRv
+        ci5jb20vaXRlbT9pZD00OTQzMTg2PC9jb21tZW50cz48ZGVzY3JpcHRpb24+
+        PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29t
+        L2l0ZW0/aWQ9NDk0MzE4NiI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlv
+        bj48L2l0ZW0+PGl0ZW0+PHRpdGxlPktvZGFrIHNlbGxzIG9mZiBwYXRlbnRz
+        IHRvIEludGVsbGVjdHVhbCBWZW50dXJlcyBmb3IgJDUyNW08L3RpdGxlPjxs
+        aW5rPmh0dHA6Ly93d3cuYmJjLmNvLnVrL25ld3MvdGVjaG5vbG9neS0yMDc4
+        NzAyNDwvbGluaz48Y29tbWVudHM+aHR0cDovL25ld3MueWNvbWJpbmF0b3Iu
+        Y29tL2l0ZW0/aWQ9NDk0MzI4NTwvY29tbWVudHM+PGRlc2NyaXB0aW9uPjwh
+        W0NEQVRBWzxhIGhyZWY9Imh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9p
+        dGVtP2lkPTQ5NDMyODUiPkNvbW1lbnRzPC9hPl1dPjwvZGVzY3JpcHRpb24+
+        PC9pdGVtPjxpdGVtPjx0aXRsZT5XaHkgdXNlIE5hbmN5Rlg/PC90aXRsZT48
+        bGluaz5odHRwOi8vYmxvZy5qb25hdGhhbmNoYW5ub24uY29tLzIwMTIvMTIv
+        MTkvd2h5LXVzZS1uYW5jeWZ4LzwvbGluaz48Y29tbWVudHM+aHR0cDovL25l
+        d3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MjcwMDwvY29tbWVudHM+
+        PGRlc2NyaXB0aW9uPjwhW0NEQVRBWzxhIGhyZWY9Imh0dHA6Ly9uZXdzLnlj
+        b21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDI3MDAiPkNvbW1lbnRzPC9hPl1d
+        PjwvZGVzY3JpcHRpb24+PC9pdGVtPjxpdGVtPjx0aXRsZT5XZWVibHkgaXMg
+        bG9va2luZyBmb3IgYSB0YWxlbnRlZCBTeXN0ZW1zIEFkbWluaXN0cmF0b3I8
+        L3RpdGxlPjxsaW5rPmh0dHA6Ly93d3cud2VlYmx5LmNvbS88L2xpbms+PGNv
+        bW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5
+        NDMyNjM8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8YSBocmVm
+        PSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQzMjYz
+        Ij5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48aXRlbT48
+        dGl0bGU+QSBkaWZmZXJlbnQgYXBwcm9hY2ggdG8gYnVpbGRpbmcgRE9NPC90
+        aXRsZT48bGluaz5odHRwOi8vd3d3LmFuZHJld2x1ZXRnZXJzLmNvbS8yMDEy
+        LzEyLzA0L2xvb3QtanMtZG9tLzwvbGluaz48Y29tbWVudHM+aHR0cDovL25l
+        d3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MzE1MDwvY29tbWVudHM+
+        PGRlc2NyaXB0aW9uPjwhW0NEQVRBWzxhIGhyZWY9Imh0dHA6Ly9uZXdzLnlj
+        b21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDMxNTAiPkNvbW1lbnRzPC9hPl1d
+        PjwvZGVzY3JpcHRpb24+PC9pdGVtPjxpdGVtPjx0aXRsZT5XaHkgaGF2ZSBJ
+        IGZhaWxlZD88L3RpdGxlPjxsaW5rPmh0dHA6Ly9ibG9nLmJhaGFkaXIuaW8v
+        cG9zdHMvZmFpbGVkLWVudHJlcHJlbmV1ci5odG1sPC9saW5rPjxjb21tZW50
+        cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQyMzU2
+        PC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0
+        cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MjM1NiI+Q29t
+        bWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxl
+        PldoYXQmIzM5O3MgbmV3IGluIFNlcnZsZXQgMy4xPyAtIEphdmEgRUUgNyBt
+        b3ZpbmcgZm9yd2FyZDwvdGl0bGU+PGxpbms+aHR0cHM6Ly9ibG9ncy5vcmFj
+        bGUuY29tL2FydW5ndXB0YS9lbnRyeS93aGF0X3NfbmV3X2luX3NlcnZsZXQ8
+        L2xpbms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9p
+        dGVtP2lkPTQ5NDI5NzM8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFU
+        QVs8YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9p
+        ZD00OTQyOTczIj5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRl
+        bT48aXRlbT48dGl0bGU+Q2Vuc29yc2hpcCBMaWZ0IGZvciDigJxWIGZvciBW
+        ZW5kZXR0YeKAnSBTaG9ja3MgQ2hpbmE8L3RpdGxlPjxsaW5rPmh0dHA6Ly9n
+        bG9iYWx2b2ljZXNvbmxpbmUub3JnLzIwMTIvMTIvMTgvY2Vuc29yc2hpcC1s
+        aWZ0LWZvci12LWZvci12ZW5kZXR0YS1zaG9ja3MtY2hpbmEvPC9saW5rPjxj
+        b21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00
+        OTQxOTE1PC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGEgaHJl
+        Zj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MTkx
+        NSI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+PGl0ZW0+
+        PHRpdGxlPk1hcmsgWnVja2VyYmVyZyBkb25hdGVzICQ1MDAgbWlsbGlvbjwv
+        dGl0bGU+PGxpbms+aHR0cDovL3RlY2guZm9ydHVuZS5jbm4uY29tLzIwMTIv
+        MTIvMTgvbWFyay16dWNrZXJiZXJnLWRvbmF0aW9uLz9ocHQ9aHBfdDM8L2xp
+        bms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVt
+        P2lkPTQ5NDE2MzE8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8
+        YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00
+        OTQxNjMxIj5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48
+        aXRlbT48dGl0bGU+S2FtY29yZCByYWlzZXMgJDEuNU0gZnJvbSBhMTZ6LCBH
+        b29nbGUgVmVudHVyZXMgdG8gcmVjb3JkIG1vYmlsZSBnYW1lcGxheXM8L3Rp
+        dGxlPjxsaW5rPmh0dHA6Ly90ZWNoY3J1bmNoLmNvbS8yMDEyLzEyLzE5L21v
+        YmlsZS1nYW1lLXJlY29yZGluZy15Yy1hbHVtLWthbWNvcmQtcmFpc2VzLTEt
+        NS1taWxsaW9uLWZyb20tYW5kcmVlc3Nlbi1ob3Jvd2l0ei1nb29nbGUtdmVu
+        dHVyZXMtYW5kLW90aGVycy88L2xpbms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdz
+        Lnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDI2NTE8L2NvbW1lbnRzPjxk
+        ZXNjcmlwdGlvbj48IVtDREFUQVs8YSBocmVmPSJodHRwOi8vbmV3cy55Y29t
+        YmluYXRvci5jb20vaXRlbT9pZD00OTQyNjUxIj5Db21tZW50czwvYT5dXT48
+        L2Rlc2NyaXB0aW9uPjwvaXRlbT48aXRlbT48dGl0bGU+RmlyZWZveCBPUyBj
+        aGFsbGVuZ2VzIHRoZSBjbG9zZWQgbW9iaWxlIGVjb3N5c3RlbXM8L3RpdGxl
+        PjxsaW5rPmh0dHA6Ly9jb21veW8uZ2l0aHViLmNvbS9ibG9nLzIwMTIvMTIv
+        MTgvRmlyZWZveC1PUy1jaGFsbGVuZ2VzLXRoZS1jbG9zZWQtbW9iaWxlLWVj
+        b3N5c3RlbXMvPC9saW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmlu
+        YXRvci5jb20vaXRlbT9pZD00OTQyMDYwPC9jb21tZW50cz48ZGVzY3JpcHRp
+        b24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3Iu
+        Y29tL2l0ZW0/aWQ9NDk0MjA2MCI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlw
+        dGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxlPkVuZ2luZWVyaW5nIFJDIGNhcnMg
+        ZnJvbSBEeXNvbiYjMzk7cyBzY3JhcGhlYXA8L3RpdGxlPjxsaW5rPmh0dHA6
+        Ly93d3cuaHVtYW5zaW52ZW50LmNvbS8jIS8xMDE3NC9lbmdpbmVlcmluZy1y
+        Yy1jYXJzLWZyb20tZHlzb25zLXNjcmFwaGVhcC88L2xpbms+PGNvbW1lbnRz
+        Pmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDI3MTM8
+        L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8YSBocmVmPSJodHRw
+        Oi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQyNzEzIj5Db21t
+        ZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48aXRlbT48dGl0bGU+
+        UXQgNS4wIHJlbGVhc2VkOiBRdCBCbG9nIHBvc3Q8L3RpdGxlPjxsaW5rPmh0
+        dHA6Ly9ibG9nLnF0LmRpZ2lhLmNvbS9ibG9nLzIwMTIvMTIvMTkvcXQtNS0w
+        LzwvbGluaz48Y29tbWVudHM+aHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29t
+        L2l0ZW0/aWQ9NDk0MzAxMDwvY29tbWVudHM+PGRlc2NyaXB0aW9uPjwhW0NE
+        QVRBWzxhIGhyZWY9Imh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVt
+        P2lkPTQ5NDMwMTAiPkNvbW1lbnRzPC9hPl1dPjwvZGVzY3JpcHRpb24+PC9p
+        dGVtPjxpdGVtPjx0aXRsZT5QaXJhdGUgUGFydHkgU2h1dHMgRG93biBQaXJh
+        dGUgQmF5IFByb3h5IEFmdGVyIExlZ2FsIFRocmVhdHM8L3RpdGxlPjxsaW5r
+        Pmh0dHA6Ly90b3JyZW50ZnJlYWsuY29tL3BpcmF0ZS1wYXJ0eS1zaHV0cy1k
+        b3duLXBpcmF0ZS1iYXktcHJveHktYWZ0ZXItbGVnYWwtdGhyZWF0cy0xMjEy
+        MTkvP3V0bV9zb3VyY2U9ZmVlZGJ1cm5lciYjMzg7dXRtX21lZGl1bT1mZWVk
+        JiMzODt1dG1fY2FtcGFpZ249RmVlZCUzQStUb3JyZW50ZnJlYWsrJTI4VG9y
+        cmVudGZyZWFrJTI5PC9saW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29t
+        YmluYXRvci5jb20vaXRlbT9pZD00OTQyMDU1PC9jb21tZW50cz48ZGVzY3Jp
+        cHRpb24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0
+        b3IuY29tL2l0ZW0/aWQ9NDk0MjA1NSI+Q29tbWVudHM8L2E+XV0+PC9kZXNj
+        cmlwdGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxlPk1pZ3JhdGUgWW91ciBJbnN0
+        YWdyYW0gUGhvdG9zIHRvIEZsaWNrciBpbiBPbmUgQ2xpY2suPC90aXRsZT48
+        bGluaz5odHRwOi8vZnJlZXRoZXBob3Rvcy5jb208L2xpbms+PGNvbW1lbnRz
+        Pmh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDA5Nzg8
+        L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8YSBocmVmPSJodHRw
+        Oi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQwOTc4Ij5Db21t
+        ZW50czwvYT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48aXRlbT48dGl0bGU+
+        VHdvIEJpbGxpb24gUGl4ZWwgUGhvdG8gb2YgTW91bnQgRXZlcmVzdCAoY2Fu
+        IHlvdSBmaW5kIHRoZSBjbGltYmVycz8pPC90aXRsZT48bGluaz5odHRwczov
+        L3MzLmFtYXpvbmF3cy5jb20vR2lnYXBhbnMvRUJDX1B1bW9yaV8wNTAxMTJf
+        OGJpdF9GTEFUL0VCQ19QdW1vcmlfMDUwMTEyXzhiaXRfRkxBVC5odG1sPC9s
+        aW5rPjxjb21tZW50cz5odHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRl
+        bT9pZD00OTQzMzYxPC9jb21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFb
+        PGEgaHJlZj0iaHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9
+        NDk0MzM2MSI+Q29tbWVudHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+
+        PGl0ZW0+PHRpdGxlPkhvdyBkbyB3ZSByZWFkIGNvZGU/PC90aXRsZT48bGlu
+        az5odHRwOi8vYmxvZy50aGVpbmNyZWRpYmxlaG9say5vcmcvYmxvZy8yMDEy
+        LzEyLzE4L2hvdy1kby13ZS1yZWFkLWNvZGUvPC9saW5rPjxjb21tZW50cz5o
+        dHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQwOTUyPC9j
+        b21tZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDov
+        L25ld3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MDk1MiI+Q29tbWVu
+        dHM8L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxlPjg0
+        JSBvZiBLaWNrc3RhcnRlciBwcm9qZWN0cyBmYWlsIHRvIGRlbGl2ZXIgb24g
+        dGltZTwvdGl0bGU+PGxpbms+aHR0cDovL3d3dy5wY21hZy5jb20vYXJ0aWNs
+        ZTIvMCwyODE3LDI0MTMzODIsMDAuYXNwPC9saW5rPjxjb21tZW50cz5odHRw
+        Oi8vbmV3cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTQzMzM0PC9jb21t
+        ZW50cz48ZGVzY3JpcHRpb24+PCFbQ0RBVEFbPGEgaHJlZj0iaHR0cDovL25l
+        d3MueWNvbWJpbmF0b3IuY29tL2l0ZW0/aWQ9NDk0MzMzNCI+Q29tbWVudHM8
+        L2E+XV0+PC9kZXNjcmlwdGlvbj48L2l0ZW0+PGl0ZW0+PHRpdGxlPkluc3Rh
+        Z3JhbSYjMzk7cyBvZmZpY2lhbCByZXNwb25zZTwvdGl0bGU+PGxpbms+aHR0
+        cDovL2Jsb2cuaW5zdGFncmFtLmNvbS9wb3N0LzM4MjUyMTM1NDA4L3RoYW5r
+        LXlvdS1hbmQtd2VyZS1saXN0ZW5pbmc8L2xpbms+PGNvbW1lbnRzPmh0dHA6
+        Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVtP2lkPTQ5Mzk4NDk8L2NvbW1l
+        bnRzPjxkZXNjcmlwdGlvbj48IVtDREFUQVs8YSBocmVmPSJodHRwOi8vbmV3
+        cy55Y29tYmluYXRvci5jb20vaXRlbT9pZD00OTM5ODQ5Ij5Db21tZW50czwv
+        YT5dXT48L2Rlc2NyaXB0aW9uPjwvaXRlbT48aXRlbT48dGl0bGU+V3JpdGlu
+        ZyBhIFByb2dyYW1taW5nIEJvb2s8L3RpdGxlPjxsaW5rPmh0dHA6Ly9jbGF5
+        YWxsc29wcC5jb20vcG9zdHMvd3JpdGluZy1hLXByb2dyYW1taW5nLWJvb2sv
+        PzwvbGluaz48Y29tbWVudHM+aHR0cDovL25ld3MueWNvbWJpbmF0b3IuY29t
+        L2l0ZW0/aWQ9NDk0MzAwODwvY29tbWVudHM+PGRlc2NyaXB0aW9uPjwhW0NE
+        QVRBWzxhIGhyZWY9Imh0dHA6Ly9uZXdzLnljb21iaW5hdG9yLmNvbS9pdGVt
+        P2lkPTQ5NDMwMDgiPkNvbW1lbnRzPC9hPl1dPjwvZGVzY3JpcHRpb24+PC9p
+        dGVtPjxpdGVtPjx0aXRsZT5Ib3cgdG8gRG93bmxvYWQgWW91ciBJbnN0YWdy
+        YW0gUGhvdG9zIGFuZCBLaWxsIFlvdXIgQWNjb3VudDwvdGl0bGU+PGxpbms+
+        aHR0cDovL3dpcmVkLmNvbS9nYWRnZXRsYWIvMjAxMi8xMi9ob3ctdG8tZG93
+        bmxvYWQteW91ci1pbnN0YWdyYW0tcGhvdG9zLWFuZC1raWxsLXlvdXItYWNj
+        b3VudC88L2xpbms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9y
+        LmNvbS9pdGVtP2lkPTQ5Mzg4MDA8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48
+        IVtDREFUQVs8YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20v
+        aXRlbT9pZD00OTM4ODAwIj5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9u
+        PjwvaXRlbT48aXRlbT48dGl0bGU+VGhlIFJlYWwgU2lsaWNvbiBWYWxsZXk8
+        L3RpdGxlPjxsaW5rPmh0dHA6Ly9qZm9ybmVhci5jby90aGUtcmVhbC1zaWxp
+        Y29uLXZhbGxleS88L2xpbms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21i
+        aW5hdG9yLmNvbS9pdGVtP2lkPTQ5NDAwMjI8L2NvbW1lbnRzPjxkZXNjcmlw
+        dGlvbj48IVtDREFUQVs8YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRv
+        ci5jb20vaXRlbT9pZD00OTQwMDIyIj5Db21tZW50czwvYT5dXT48L2Rlc2Ny
+        aXB0aW9uPjwvaXRlbT48aXRlbT48dGl0bGU+R29vZ2xlIFNhbnRhIFRyYWNr
+        ZXI8L3RpdGxlPjxsaW5rPmh0dHA6Ly93d3cuZ29vZ2xlLmNvbS9zYW50YXRy
+        YWNrZXI8L2xpbms+PGNvbW1lbnRzPmh0dHA6Ly9uZXdzLnljb21iaW5hdG9y
+        LmNvbS9pdGVtP2lkPTQ5NDE0NjM8L2NvbW1lbnRzPjxkZXNjcmlwdGlvbj48
+        IVtDREFUQVs8YSBocmVmPSJodHRwOi8vbmV3cy55Y29tYmluYXRvci5jb20v
+        aXRlbT9pZD00OTQxNDYzIj5Db21tZW50czwvYT5dXT48L2Rlc2NyaXB0aW9u
+        PjwvaXRlbT48L2NoYW5uZWw+PC9yc3M+
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:19 GMT
+- request:
+    method: get
+    uri: http://news.ycombinator.com/
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - text/html; charset=utf-8
+      Cache-Control:
+      - max-age=0
+      - private
+      X-Frame-Options:
+      - deny
+      Connection:
+      - close
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        PGh0bWw+PGhlYWQ+PGxpbmsgcmVsPSJzdHlsZXNoZWV0IiB0eXBlPSJ0ZXh0
+        L2NzcyIgaHJlZj0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9uZXdzLmNzcyI+
+        CjxsaW5rIHJlbD0ic2hvcnRjdXQgaWNvbiIgaHJlZj0iaHR0cDovL3ljb21i
+        aW5hdG9yLmNvbS9mYXZpY29uLmljbyI+CjxzY3JpcHQ+CmZ1bmN0aW9uIGJ5
+        SWQoaWQpIHsKICByZXR1cm4gZG9jdW1lbnQuZ2V0RWxlbWVudEJ5SWQoaWQp
+        Owp9CgpmdW5jdGlvbiB2b3RlKG5vZGUpIHsKICB2YXIgdiA9IG5vZGUuaWQu
+        c3BsaXQoL18vKTsgICAvLyB7J3VwJywgJzEyMyd9CiAgdmFyIGl0ZW0gPSB2
+        WzFdOyAKCiAgLy8gaGlkZSBhcnJvd3MKICBieUlkKCd1cF8nICAgKyBpdGVt
+        KS5zdHlsZS52aXNpYmlsaXR5ID0gJ2hpZGRlbic7CiAgYnlJZCgnZG93bl8n
+        ICsgaXRlbSkuc3R5bGUudmlzaWJpbGl0eSA9ICdoaWRkZW4nOwoKICAvLyBw
+        aW5nIHNlcnZlcgogIHZhciBwaW5nID0gbmV3IEltYWdlKCk7CiAgcGluZy5z
+        cmMgPSBub2RlLmhyZWY7CgogIHJldHVybiBmYWxzZTsgLy8gY2FuY2VsIGJy
+        b3dzZXIgbmF2Cn0gPC9zY3JpcHQ+PHRpdGxlPkhhY2tlciBOZXdzPC90aXRs
+        ZT48L2hlYWQ+PGJvZHk+PGNlbnRlcj48dGFibGUgYm9yZGVyPTAgY2VsbHBh
+        ZGRpbmc9MCBjZWxsc3BhY2luZz0wIHdpZHRoPSI4NSUiIGJnY29sb3I9I2Y2
+        ZjZlZj48dHI+PHRkIGJnY29sb3I9I2ZmNjYwMD48dGFibGUgYm9yZGVyPTAg
+        Y2VsbHBhZGRpbmc9MCBjZWxsc3BhY2luZz0wIHdpZHRoPSIxMDAlIiBzdHls
+        ZT0icGFkZGluZzoycHgiPjx0cj48dGQgc3R5bGU9IndpZHRoOjE4cHg7cGFk
+        ZGluZy1yaWdodDo0cHgiPjxhIGhyZWY9Imh0dHA6Ly95Y29tYmluYXRvci5j
+        b20iPjxpbWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy95
+        MTguZ2lmIiB3aWR0aD0xOCBoZWlnaHQ9MTggc3R5bGU9ImJvcmRlcjoxcHgg
+        I2ZmZmZmZiBzb2xpZDsiPjwvaW1nPjwvYT48L3RkPjx0ZCBzdHlsZT0ibGlu
+        ZS1oZWlnaHQ6MTJwdDsgaGVpZ2h0OjEwcHg7Ij48c3BhbiBjbGFzcz0icGFn
+        ZXRvcCI+PGI+PGEgaHJlZj0ibmV3cyI+SGFja2VyIE5ld3M8L2E+PC9iPjxp
+        bWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9zLmdpZiIg
+        aGVpZ2h0PTEgd2lkdGg9MTA+PGEgaHJlZj0ibmV3ZXN0Ij5uZXc8L2E+IHwg
+        PGEgaHJlZj0ibmV3Y29tbWVudHMiPmNvbW1lbnRzPC9hPiB8IDxhIGhyZWY9
+        ImFzayI+YXNrPC9hPiB8IDxhIGhyZWY9ImpvYnMiPmpvYnM8L2E+IHwgPGEg
+        aHJlZj0ic3VibWl0Ij5zdWJtaXQ8L2E+PC9zcGFuPjwvdGQ+PHRkIHN0eWxl
+        PSJ0ZXh0LWFsaWduOnJpZ2h0O3BhZGRpbmctcmlnaHQ6NHB4OyI+PHNwYW4g
+        Y2xhc3M9InBhZ2V0b3AiPjxhIGhyZWY9Im5ld3Nsb2dpbj93aGVuY2U9JTZl
+        JTY1JTc3JTczIj5sb2dpbjwvYT48L3NwYW4+PC90ZD48L3RyPjwvdGFibGU+
+        PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjEwcHgiPjwvdHI+PHRyPjx0
+        ZD48dGFibGUgYm9yZGVyPTAgY2VsbHBhZGRpbmc9MCBjZWxsc3BhY2luZz0w
+        Pjx0cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRvcCBjbGFzcz0idGl0bGUi
+        PjEuPC90ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80OTQyNzM5IGhyZWY9InZv
+        dGU/Zm9yPTQ5NDI3MzkmZGlyPXVwJndoZW5jZT0lNmUlNjUlNzclNzMiPjxp
+        bWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9ncmF5YXJy
+        b3cuZ2lmIiBib3JkZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+PHNwYW4g
+        aWQ9ZG93bl80OTQyNzM5Pjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0ZCBjbGFz
+        cz0idGl0bGUiPjxhIGhyZWY9Imh0dHA6Ly9kaWdpYS5jb20vZW4vSG9tZS9D
+        b21wYW55L05ld3MvRGlnaWEtbGF1bmNoZXMtUXQtNS1jcm9zcy1wbGF0Zm9y
+        bS1hcHBsaWNhdGlvbi1kZXZlbG9wbWVudC1hbmQtVUktZnJhbWV3b3JrLyI+
+        UVQgNSBsYXVuY2hlZCBieSBuZXcgb3duZXIsIERpZ2lhPC9hPjxzcGFuIGNs
+        YXNzPSJjb21oZWFkIj4gKGRpZ2lhLmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48
+        dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNw
+        YW4gaWQ9c2NvcmVfNDk0MjczOT44NiBwb2ludHM8L3NwYW4+IGJ5IDxhIGhy
+        ZWY9InVzZXI/aWQ9ZWFzeXRpZ2VyIj5lYXN5dGlnZXI8L2E+IDIgaG91cnMg
+        YWdvICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MjczOSI+MzMgY29tbWVudHM8
+        L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjVweCI+PC90cj48dHI+
+        PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xhc3M9InRpdGxlIj4yLjwv
+        dGQ+PHRkPjxjZW50ZXI+PGEgaWQ9dXBfNDk0MjkzMSBocmVmPSJ2b3RlP2Zv
+        cj00OTQyOTMxJmRpcj11cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNy
+        Yz0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFycm93Lmdp
+        ZiIgYm9yZGVyPTAgdnNwYWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRv
+        d25fNDk0MjkzMT48L3NwYW4+PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRp
+        dGxlIj48YSBocmVmPSJodHRwczovL2dpdGh1Yi5jb20vdHdpdHRlci9ib290
+        c3RyYXAvd2lraS9VcGNvbWluZy0zLjAtY2hhbmdlcyI+Qm9vdHN0cmFwIDMu
+        MCBVcGNvbWluZyBjaGFuZ2VzPC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4g
+        KGdpdGh1Yi5jb20pIDwvc3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFu
+        PTI+PC90ZD48dGQgY2xhc3M9InN1YnRleHQiPjxzcGFuIGlkPXNjb3JlXzQ5
+        NDI5MzE+NTQgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1c2VyP2lkPXRp
+        bHQiPnRpbHQ8L2E+IDEgaG91ciBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00
+        OTQyOTMxIj40NCBjb21tZW50czwvYT48L3RkPjwvdHI+PHRyIHN0eWxlPSJo
+        ZWlnaHQ6NXB4Ij48L3RyPjx0cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRv
+        cCBjbGFzcz0idGl0bGUiPjMuPC90ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80
+        OTQyOTAwIGhyZWY9InZvdGU/Zm9yPTQ5NDI5MDAmZGlyPXVwJndoZW5jZT0l
+        NmUlNjUlNzclNzMiPjxpbWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29t
+        L2ltYWdlcy9ncmF5YXJyb3cuZ2lmIiBib3JkZXI9MCB2c3BhY2U9MyBoc3Bh
+        Y2U9Mj48L2E+PHNwYW4gaWQ9ZG93bl80OTQyOTAwPjwvc3Bhbj48L2NlbnRl
+        cj48L3RkPjx0ZCBjbGFzcz0idGl0bGUiPjxhIGhyZWY9Imh0dHA6Ly9tb29u
+        YmFzZS5jb20vIj5Nb29uYmFzZTogQSBwbHVnIGFuZCBwbGF5IGVuZ2luZSBm
+        b3IgbWFraW5nIHdlYiBhbmltYXRpb25zPC9hPjxzcGFuIGNsYXNzPSJjb21o
+        ZWFkIj4gKG1vb25iYXNlLmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRk
+        IGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9
+        c2NvcmVfNDk0MjkwMD40OCBwb2ludHM8L3NwYW4+IGJ5IDxhIGhyZWY9InVz
+        ZXI/aWQ9a3lsZWJyYWdnZXIiPmt5bGVicmFnZ2VyPC9hPiAxIGhvdXIgYWdv
+        ICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MjkwMCI+MTkgY29tbWVudHM8L2E+
+        PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjVweCI+PC90cj48dHI+PHRk
+        IGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xhc3M9InRpdGxlIj40LjwvdGQ+
+        PHRkPjxjZW50ZXI+PGEgaWQ9dXBfNDk0MjEyOSBocmVmPSJ2b3RlP2Zvcj00
+        OTQyMTI5JmRpcj11cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNyYz0i
+        aHR0cDovL3ljb21iaW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFycm93LmdpZiIg
+        Ym9yZGVyPTAgdnNwYWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRvd25f
+        NDk0MjEyOT48L3NwYW4+PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxl
+        Ij48YSBocmVmPSJodHRwOi8vd3d3LmZicHVyaXR5LmNvbS9uZXdzL2ltcG9y
+        dGFudC1uZXdzLWZhY2Vib29rcy1sZWdhbC10ZWFtLWhhdmUtdG9sZC1tZS1p
+        LWFtLWJhbm5lZC1mcm9tLWZhY2Vib29rLWJlY2F1c2Utb2YtZi1iLXB1cml0
+        eS8iPkZhY2Vib29rJ3MgbGVnYWwgdGVhbSBiYW5zIGRldmVsb3BlciBvZiBG
+        LkIuIFB1cml0eSBmcm9tIEZhY2Vib29rPC9hPjxzcGFuIGNsYXNzPSJjb21o
+        ZWFkIj4gKGZicHVyaXR5LmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRk
+        IGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9
+        c2NvcmVfNDk0MjEyOT4yMTcgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1
+        c2VyP2lkPWJhbmUiPmJhbmU8L2E+IDUgaG91cnMgYWdvICB8IDxhIGhyZWY9
+        Iml0ZW0/aWQ9NDk0MjEyOSI+OTggY29tbWVudHM8L2E+PC90ZD48L3RyPjx0
+        ciBzdHlsZT0iaGVpZ2h0OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0
+        IHZhbGlnbj10b3AgY2xhc3M9InRpdGxlIj41LjwvdGQ+PHRkPjxjZW50ZXI+
+        PGEgaWQ9dXBfNDk0Mjk0MyBocmVmPSJ2b3RlP2Zvcj00OTQyOTQzJmRpcj11
+        cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3ljb21i
+        aW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAgdnNw
+        YWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0Mjk0Mz48L3Nw
+        YW4+PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJo
+        dHRwOi8vc2VjdXJpdHkuc3RhY2tleGNoYW5nZS5jb20vcXVlc3Rpb25zLzI1
+        NTg1L2lzLW15LWRldmVsb3BlcnMtaG9tZS1icmV3LXBhc3N3b3JkLXNlY3Vy
+        aXR5LXJpZ2h0LW9yLXdyb25nLWFuZC13aHkiPkhhc2ggLSBJcyBteSBkZXZl
+        bG9wZXIncyBob21lLWJyZXcgcGFzc3dvcmQgc2VjdXJpdHkgcmlnaHQgb3Ig
+        d3JvbmcsIGFuZCB3aHk/PC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKHN0
+        YWNrZXhjaGFuZ2UuY29tKSA8L3NwYW4+PC90ZD48L3RyPjx0cj48dGQgY29s
+        c3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0Ij48c3BhbiBpZD1zY29y
+        ZV80OTQyOTQzPjI0IHBvaW50czwvc3Bhbj4gYnkgPGEgaHJlZj0idXNlcj9p
+        ZD1lcmFuYXRpb24iPmVyYW5hdGlvbjwvYT4gMSBob3VyIGFnbyAgfCA8YSBo
+        cmVmPSJpdGVtP2lkPTQ5NDI5NDMiPjE1IGNvbW1lbnRzPC9hPjwvdGQ+PC90
+        cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0ZCBhbGlnbj1y
+        aWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+Ni48L3RkPjx0ZD48Y2Vu
+        dGVyPjxhIGlkPXVwXzQ5NDI4NzUgaHJlZj0idm90ZT9mb3I9NDk0Mjg3NSZk
+        aXI9dXAmd2hlbmNlPSU2ZSU2NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95
+        Y29tYmluYXRvci5jb20vaW1hZ2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0w
+        IHZzcGFjZT0zIGhzcGFjZT0yPjwvYT48c3BhbiBpZD1kb3duXzQ5NDI4NzU+
+        PC9zcGFuPjwvY2VudGVyPjwvdGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJl
+        Zj0iaHR0cDovL2Jsb2cuZ2l0dGlwLmNvbS9wb3N0LzM4MjY0MzExNjk4L2dp
+        dHRpcC1hbnlvbmUtb24tdHdpdHRlciI+R2l0dGlwIEFueW9uZSBvbiBUd2l0
+        dGVyPC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKGdpdHRpcC5jb20pIDwv
+        c3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPTI+PC90ZD48dGQgY2xh
+        c3M9InN1YnRleHQiPjxzcGFuIGlkPXNjb3JlXzQ5NDI4NzU+MjcgcG9pbnRz
+        PC9zcGFuPiBieSA8YSBocmVmPSJ1c2VyP2lkPXdoaXQ1MzciPndoaXQ1Mzc8
+        L2E+IDEgaG91ciBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQyODc1Ij41
+        IGNvbW1lbnRzPC9hPjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgi
+        PjwvdHI+PHRyPjx0ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0
+        aXRsZSI+Ny48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDIwNjIgaHJl
+        Zj0idm90ZT9mb3I9NDk0MjA2MiZkaXI9dXAmd2hlbmNlPSU2ZSU2NSU3NyU3
+        MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1hZ2VzL2dy
+        YXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0yPjwvYT48
+        c3BhbiBpZD1kb3duXzQ5NDIwNjI+PC9zcGFuPjwvY2VudGVyPjwvdGQ+PHRk
+        IGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL2thaWtrb25lbmRlc2ln
+        bi5maS90eXBvZ3JhcGh5LyI+SW50ZXJhY3RpdmUgR3VpZGUgdG8gQmxvZyBU
+        eXBvZ3JhcGh5PC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKGthaWtrb25l
+        bmRlc2lnbi5maSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49
+        Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0
+        MjA2Mj4xNDUgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1c2VyP2lkPXN0
+        ZXZvbyI+c3Rldm9vPC9hPiA1IGhvdXJzIGFnbyAgfCA8YSBocmVmPSJpdGVt
+        P2lkPTQ5NDIwNjIiPjI2IGNvbW1lbnRzPC9hPjwvdGQ+PC90cj48dHIgc3R5
+        bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0ZCBhbGlnbj1yaWdodCB2YWxp
+        Z249dG9wIGNsYXNzPSJ0aXRsZSI+OC48L3RkPjx0ZD48Y2VudGVyPjxhIGlk
+        PXVwXzQ5NDMxODYgaHJlZj0idm90ZT9mb3I9NDk0MzE4NiZkaXI9dXAmd2hl
+        bmNlPSU2ZSU2NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRv
+        ci5jb20vaW1hZ2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0z
+        IGhzcGFjZT0yPjwvYT48c3BhbiBpZD1kb3duXzQ5NDMxODY+PC9zcGFuPjwv
+        Y2VudGVyPjwvdGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDov
+        L3doYXRpc2RudC5jb20vIj5XaGF0IGlzIERvIE5vdCBUcmFjayAoRE5UKT8g
+        QW4gaWxsdXN0cmF0ZWQgZ3VpZGUgPC9hPjxzcGFuIGNsYXNzPSJjb21oZWFk
+        Ij4gKHdoYXRpc2RudC5jb20pIDwvc3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCBj
+        b2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InN1YnRleHQiPjxzcGFuIGlkPXNj
+        b3JlXzQ5NDMxODY+MTAgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1c2Vy
+        P2lkPXJqaW04NiI+cmppbTg2PC9hPiAzNiBtaW51dGVzIGFnbyAgfCA8YSBo
+        cmVmPSJpdGVtP2lkPTQ5NDMxODYiPjQgY29tbWVudHM8L2E+PC90ZD48L3Ry
+        Pjx0ciBzdHlsZT0iaGVpZ2h0OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJp
+        Z2h0IHZhbGlnbj10b3AgY2xhc3M9InRpdGxlIj45LjwvdGQ+PHRkPjxjZW50
+        ZXI+PGEgaWQ9dXBfNDk0MzI4NSBocmVmPSJ2b3RlP2Zvcj00OTQzMjg1JmRp
+        cj11cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3lj
+        b21iaW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAg
+        dnNwYWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0MzI4NT48
+        L3NwYW4+PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVm
+        PSJodHRwOi8vd3d3LmJiYy5jby51ay9uZXdzL3RlY2hub2xvZ3ktMjA3ODcw
+        MjQiPktvZGFrIHNlbGxzIG9mZiBwYXRlbnRzIHRvIEludGVsbGVjdHVhbCBW
+        ZW50dXJlcyBmb3IgJDUyNW08L2E+PHNwYW4gY2xhc3M9ImNvbWhlYWQiPiAo
+        YmJjLmNvLnVrKSA8L3NwYW4+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0y
+        PjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0Ij48c3BhbiBpZD1zY29yZV80OTQz
+        Mjg1PjYgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1c2VyP2lkPWRhbjEy
+        MzQiPmRhbjEyMzQ8L2E+IDE4IG1pbnV0ZXMgYWdvICB8IDxhIGhyZWY9Iml0
+        ZW0/aWQ9NDk0MzI4NSI+MiBjb21tZW50czwvYT48L3RkPjwvdHI+PHRyIHN0
+        eWxlPSJoZWlnaHQ6NXB4Ij48L3RyPjx0cj48dGQgYWxpZ249cmlnaHQgdmFs
+        aWduPXRvcCBjbGFzcz0idGl0bGUiPjEwLjwvdGQ+PHRkPjxjZW50ZXI+PGEg
+        aWQ9dXBfNDk0MjcwMCBocmVmPSJ2b3RlP2Zvcj00OTQyNzAwJmRpcj11cCZ3
+        aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3ljb21iaW5h
+        dG9yLmNvbS9pbWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAgdnNwYWNl
+        PTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0MjcwMD48L3NwYW4+
+        PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJodHRw
+        Oi8vYmxvZy5qb25hdGhhbmNoYW5ub24uY29tLzIwMTIvMTIvMTkvd2h5LXVz
+        ZS1uYW5jeWZ4LyI+V2h5IHVzZSBOYW5jeUZYPzwvYT48c3BhbiBjbGFzcz0i
+        Y29taGVhZCI+IChqb25hdGhhbmNoYW5ub24uY29tKSA8L3NwYW4+PC90ZD48
+        L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0
+        Ij48c3BhbiBpZD1zY29yZV80OTQyNzAwPjIxIHBvaW50czwvc3Bhbj4gYnkg
+        PGEgaHJlZj0idXNlcj9pZD1qY2hhbm5vbiI+amNoYW5ub248L2E+IDIgaG91
+        cnMgYWdvICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MjcwMCI+MSBjb21tZW50
+        PC9hPjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRy
+        Pjx0ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+MTEu
+        PC90ZD48dGQ+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJodHRw
+        Oi8vd3d3LndlZWJseS5jb20vIiByZWw9Im5vZm9sbG93Ij5XZWVibHkgaXMg
+        bG9va2luZyBmb3IgYSB0YWxlbnRlZCBTeXN0ZW1zIEFkbWluaXN0cmF0b3I8
+        L2E+PHNwYW4gY2xhc3M9ImNvbWhlYWQiPiAod2VlYmx5LmNvbSkgPC9zcGFu
+        PjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0i
+        c3VidGV4dCI+MjIgbWludXRlcyBhZ288L3RkPjwvdHI+PHRyIHN0eWxlPSJo
+        ZWlnaHQ6NXB4Ij48L3RyPjx0cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRv
+        cCBjbGFzcz0idGl0bGUiPjEyLjwvdGQ+PHRkPjxjZW50ZXI+PGEgaWQ9dXBf
+        NDk0MzE1MCBocmVmPSJ2b3RlP2Zvcj00OTQzMTUwJmRpcj11cCZ3aGVuY2U9
+        JTZlJTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3ljb21iaW5hdG9yLmNv
+        bS9pbWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAgdnNwYWNlPTMgaHNw
+        YWNlPTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0MzE1MD48L3NwYW4+PC9jZW50
+        ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJodHRwOi8vd3d3
+        LmFuZHJld2x1ZXRnZXJzLmNvbS8yMDEyLzEyLzA0L2xvb3QtanMtZG9tLyI+
+        QSBkaWZmZXJlbnQgYXBwcm9hY2ggdG8gYnVpbGRpbmcgRE9NPC9hPjxzcGFu
+        IGNsYXNzPSJjb21oZWFkIj4gKGFuZHJld2x1ZXRnZXJzLmNvbSkgPC9zcGFu
+        PjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0i
+        c3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0MzE1MD44IHBvaW50czwvc3Bh
+        bj4gYnkgPGEgaHJlZj0idXNlcj9pZD1sb290c2F1Y2UiPmxvb3RzYXVjZTwv
+        YT4gNDIgbWludXRlcyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQzMTUw
+        Ij5kaXNjdXNzPC9hPjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgi
+        PjwvdHI+PHRyPjx0ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0
+        aXRsZSI+MTMuPC90ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80OTQyMzU2IGhy
+        ZWY9InZvdGU/Zm9yPTQ5NDIzNTYmZGlyPXVwJndoZW5jZT0lNmUlNjUlNzcl
+        NzMiPjxpbWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9n
+        cmF5YXJyb3cuZ2lmIiBib3JkZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+
+        PHNwYW4gaWQ9ZG93bl80OTQyMzU2Pjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0
+        ZCBjbGFzcz0idGl0bGUiPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLmJhaGFkaXIu
+        aW8vcG9zdHMvZmFpbGVkLWVudHJlcHJlbmV1ci5odG1sIj5XaHkgaGF2ZSBJ
+        IGZhaWxlZD88L2E+PHNwYW4gY2xhc3M9ImNvbWhlYWQiPiAoYmFoYWRpci5p
+        bykgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0
+        ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0MjM1Nj42MyBw
+        b2ludHM8L3NwYW4+IGJ5IDxhIGhyZWY9InVzZXI/aWQ9YmNhbWJlbCI+YmNh
+        bWJlbDwvYT4gMyBob3VycyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQy
+        MzU2Ij4zMSBjb21tZW50czwvYT48L3RkPjwvdHI+PHRyIHN0eWxlPSJoZWln
+        aHQ6NXB4Ij48L3RyPjx0cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRvcCBj
+        bGFzcz0idGl0bGUiPjE0LjwvdGQ+PHRkPjxjZW50ZXI+PGEgaWQ9dXBfNDk0
+        Mjk3MyBocmVmPSJ2b3RlP2Zvcj00OTQyOTczJmRpcj11cCZ3aGVuY2U9JTZl
+        JTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9p
+        bWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAgdnNwYWNlPTMgaHNwYWNl
+        PTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0Mjk3Mz48L3NwYW4+PC9jZW50ZXI+
+        PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJodHRwczovL2Jsb2dz
+        Lm9yYWNsZS5jb20vYXJ1bmd1cHRhL2VudHJ5L3doYXRfc19uZXdfaW5fc2Vy
+        dmxldCI+V2hhdCdzIG5ldyBpbiBTZXJ2bGV0IDMuMT8gLSBKYXZhIEVFIDcg
+        bW92aW5nIGZvcndhcmQ8L2E+PHNwYW4gY2xhc3M9ImNvbWhlYWQiPiAob3Jh
+        Y2xlLmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48
+        L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0Mjk3
+        Mz4xMSBwb2ludHM8L3NwYW4+IGJ5IDxhIGhyZWY9InVzZXI/aWQ9R2FyYmFn
+        ZSI+R2FyYmFnZTwvYT4gMSBob3VyIGFnbyAgfCA8YSBocmVmPSJpdGVtP2lk
+        PTQ5NDI5NzMiPjQgY29tbWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0i
+        aGVpZ2h0OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10
+        b3AgY2xhc3M9InRpdGxlIj4xNS48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVw
+        XzQ5NDE5MTUgaHJlZj0idm90ZT9mb3I9NDk0MTkxNSZkaXI9dXAmd2hlbmNl
+        PSU2ZSU2NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5j
+        b20vaW1hZ2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhz
+        cGFjZT0yPjwvYT48c3BhbiBpZD1kb3duXzQ5NDE5MTU+PC9zcGFuPjwvY2Vu
+        dGVyPjwvdGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL2ds
+        b2JhbHZvaWNlc29ubGluZS5vcmcvMjAxMi8xMi8xOC9jZW5zb3JzaGlwLWxp
+        ZnQtZm9yLXYtZm9yLXZlbmRldHRhLXNob2Nrcy1jaGluYS8iPkNlbnNvcnNo
+        aXAgTGlmdCBmb3Ig4oCcViBmb3IgVmVuZGV0dGHigJ0gU2hvY2tzIENoaW5h
+        PC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKGdsb2JhbHZvaWNlc29ubGlu
+        ZS5vcmcpIDwvc3Bhbj48L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPTI+PC90
+        ZD48dGQgY2xhc3M9InN1YnRleHQiPjxzcGFuIGlkPXNjb3JlXzQ5NDE5MTU+
+        OTcgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1c2VyP2lkPW10Z3giPm10
+        Z3g8L2E+IDYgaG91cnMgYWdvICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MTkx
+        NSI+NTQgY29tbWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0
+        OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xh
+        c3M9InRpdGxlIj4xNi48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDE2
+        MzEgaHJlZj0idm90ZT9mb3I9NDk0MTYzMSZkaXI9dXAmd2hlbmNlPSU2ZSU2
+        NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1h
+        Z2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0y
+        PjwvYT48c3BhbiBpZD1kb3duXzQ5NDE2MzE+PC9zcGFuPjwvY2VudGVyPjwv
+        dGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL3RlY2guZm9y
+        dHVuZS5jbm4uY29tLzIwMTIvMTIvMTgvbWFyay16dWNrZXJiZXJnLWRvbmF0
+        aW9uLz9ocHQ9aHBfdDMiPk1hcmsgWnVja2VyYmVyZyBkb25hdGVzICQ1MDAg
+        bWlsbGlvbjwvYT48c3BhbiBjbGFzcz0iY29taGVhZCI+IChjbm4uY29tKSA8
+        L3NwYW4+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwvdGQ+PHRkIGNs
+        YXNzPSJzdWJ0ZXh0Ij48c3BhbiBpZD1zY29yZV80OTQxNjMxPjE0MSBwb2lu
+        dHM8L3NwYW4+IGJ5IDxhIGhyZWY9InVzZXI/aWQ9cm1hc29uIj5ybWFzb248
+        L2E+IDggaG91cnMgYWdvICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MTYzMSI+
+        MTA1IGNvbW1lbnRzPC9hPjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1
+        cHgiPjwvdHI+PHRyPjx0ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNz
+        PSJ0aXRsZSI+MTcuPC90ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80OTQyNjUx
+        IGhyZWY9InZvdGU/Zm9yPTQ5NDI2NTEmZGlyPXVwJndoZW5jZT0lNmUlNjUl
+        NzclNzMiPjxpbWcgc3JjPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdl
+        cy9ncmF5YXJyb3cuZ2lmIiBib3JkZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48
+        L2E+PHNwYW4gaWQ9ZG93bl80OTQyNjUxPjwvc3Bhbj48L2NlbnRlcj48L3Rk
+        Pjx0ZCBjbGFzcz0idGl0bGUiPjxhIGhyZWY9Imh0dHA6Ly90ZWNoY3J1bmNo
+        LmNvbS8yMDEyLzEyLzE5L21vYmlsZS1nYW1lLXJlY29yZGluZy15Yy1hbHVt
+        LWthbWNvcmQtcmFpc2VzLTEtNS1taWxsaW9uLWZyb20tYW5kcmVlc3Nlbi1o
+        b3Jvd2l0ei1nb29nbGUtdmVudHVyZXMtYW5kLW90aGVycy8iPkthbWNvcmQg
+        cmFpc2VzICQxLjVNIGZyb20gYTE2eiwgR29vZ2xlIFZlbnR1cmVzIHRvIHJl
+        Y29yZCBtb2JpbGUgZ2FtZXBsYXlzPC9hPjxzcGFuIGNsYXNzPSJjb21oZWFk
+        Ij4gKHRlY2hjcnVuY2guY29tKSA8L3NwYW4+PC90ZD48L3RyPjx0cj48dGQg
+        Y29sc3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0Ij48c3BhbiBpZD1z
+        Y29yZV80OTQyNjUxPjE3IHBvaW50czwvc3Bhbj4gYnkgPGEgaHJlZj0idXNl
+        cj9pZD1hcmF0aG5hbSI+YXJhdGhuYW08L2E+IDIgaG91cnMgYWdvICB8IDxh
+        IGhyZWY9Iml0ZW0/aWQ9NDk0MjY1MSI+MSBjb21tZW50PC9hPjwvdGQ+PC90
+        cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0ZCBhbGlnbj1y
+        aWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+MTguPC90ZD48dGQ+PGNl
+        bnRlcj48YSBpZD11cF80OTQyMDYwIGhyZWY9InZvdGU/Zm9yPTQ5NDIwNjAm
+        ZGlyPXVwJndoZW5jZT0lNmUlNjUlNzclNzMiPjxpbWcgc3JjPSJodHRwOi8v
+        eWNvbWJpbmF0b3IuY29tL2ltYWdlcy9ncmF5YXJyb3cuZ2lmIiBib3JkZXI9
+        MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+PHNwYW4gaWQ9ZG93bl80OTQyMDYw
+        Pjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0ZCBjbGFzcz0idGl0bGUiPjxhIGhy
+        ZWY9Imh0dHA6Ly9jb21veW8uZ2l0aHViLmNvbS9ibG9nLzIwMTIvMTIvMTgv
+        RmlyZWZveC1PUy1jaGFsbGVuZ2VzLXRoZS1jbG9zZWQtbW9iaWxlLWVjb3N5
+        c3RlbXMvIj5GaXJlZm94IE9TIGNoYWxsZW5nZXMgdGhlIGNsb3NlZCBtb2Jp
+        bGUgZWNvc3lzdGVtczwvYT48c3BhbiBjbGFzcz0iY29taGVhZCI+IChnaXRo
+        dWIuY29tKSA8L3NwYW4+PC90ZD48L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwv
+        dGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0Ij48c3BhbiBpZD1zY29yZV80OTQyMDYw
+        PjUzIHBvaW50czwvc3Bhbj4gYnkgPGEgaHJlZj0idXNlcj9pZD1kYWdpbmdh
+        YSI+ZGFnaW5nYWE8L2E+IDUgaG91cnMgYWdvICB8IDxhIGhyZWY9Iml0ZW0/
+        aWQ9NDk0MjA2MCI+MzUgY29tbWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHls
+        ZT0iaGVpZ2h0OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGln
+        bj10b3AgY2xhc3M9InRpdGxlIj4xOS48L3RkPjx0ZD48Y2VudGVyPjxhIGlk
+        PXVwXzQ5NDI3MTMgaHJlZj0idm90ZT9mb3I9NDk0MjcxMyZkaXI9dXAmd2hl
+        bmNlPSU2ZSU2NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRv
+        ci5jb20vaW1hZ2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0z
+        IGhzcGFjZT0yPjwvYT48c3BhbiBpZD1kb3duXzQ5NDI3MTM+PC9zcGFuPjwv
+        Y2VudGVyPjwvdGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDov
+        L3d3dy5odW1hbnNpbnZlbnQuY29tLyMhLzEwMTc0L2VuZ2luZWVyaW5nLXJj
+        LWNhcnMtZnJvbS1keXNvbnMtc2NyYXBoZWFwLyI+RW5naW5lZXJpbmcgUkMg
+        Y2FycyBmcm9tIER5c29uJ3Mgc2NyYXBoZWFwPC9hPjxzcGFuIGNsYXNzPSJj
+        b21oZWFkIj4gKGh1bWFuc2ludmVudC5jb20pIDwvc3Bhbj48L3RkPjwvdHI+
+        PHRyPjx0ZCBjb2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InN1YnRleHQiPjxz
+        cGFuIGlkPXNjb3JlXzQ5NDI3MTM+MTMgcG9pbnRzPC9zcGFuPiBieSA8YSBo
+        cmVmPSJ1c2VyP2lkPW5pZ2VsYmh1bWFucyI+bmlnZWxiaHVtYW5zPC9hPiAy
+        IGhvdXJzIGFnbyAgfCA8YSBocmVmPSJpdGVtP2lkPTQ5NDI3MTMiPjEgY29t
+        bWVudDwvYT48L3RkPjwvdHI+PHRyIHN0eWxlPSJoZWlnaHQ6NXB4Ij48L3Ry
+        Pjx0cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRvcCBjbGFzcz0idGl0bGUi
+        PjIwLjwvdGQ+PHRkPjxjZW50ZXI+PGEgaWQ9dXBfNDk0MzAxMCBocmVmPSJ2
+        b3RlP2Zvcj00OTQzMDEwJmRpcj11cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48
+        aW1nIHNyYz0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFy
+        cm93LmdpZiIgYm9yZGVyPTAgdnNwYWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFu
+        IGlkPWRvd25fNDk0MzAxMD48L3NwYW4+PC9jZW50ZXI+PC90ZD48dGQgY2xh
+        c3M9InRpdGxlIj48YSBocmVmPSJodHRwOi8vYmxvZy5xdC5kaWdpYS5jb20v
+        YmxvZy8yMDEyLzEyLzE5L3F0LTUtMC8iPlF0IDUuMCByZWxlYXNlZDogUXQg
+        QmxvZyBwb3N0PC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKGRpZ2lhLmNv
+        bSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0
+        ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0MzAxMD43IHBv
+        aW50czwvc3Bhbj4gYnkgPGEgaHJlZj0idXNlcj9pZD1Eb2NTYXZhZ2UiPkRv
+        Y1NhdmFnZTwvYT4gMSBob3VyIGFnbyAgfCA8YSBocmVmPSJpdGVtP2lkPTQ5
+        NDMwMTAiPmRpc2N1c3M8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0
+        OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xh
+        c3M9InRpdGxlIj4yMS48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDIw
+        NTUgaHJlZj0idm90ZT9mb3I9NDk0MjA1NSZkaXI9dXAmd2hlbmNlPSU2ZSU2
+        NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1h
+        Z2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0y
+        PjwvYT48c3BhbiBpZD1kb3duXzQ5NDIwNTU+PC9zcGFuPjwvY2VudGVyPjwv
+        dGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL3RvcnJlbnRm
+        cmVhay5jb20vcGlyYXRlLXBhcnR5LXNodXRzLWRvd24tcGlyYXRlLWJheS1w
+        cm94eS1hZnRlci1sZWdhbC10aHJlYXRzLTEyMTIxOS8/dXRtX3NvdXJjZT1m
+        ZWVkYnVybmVyJnV0bV9tZWRpdW09ZmVlZCZ1dG1fY2FtcGFpZ249RmVlZCUz
+        QStUb3JyZW50ZnJlYWsrJTI4VG9ycmVudGZyZWFrJTI5Ij5QaXJhdGUgUGFy
+        dHkgU2h1dHMgRG93biBQaXJhdGUgQmF5IFByb3h5IEFmdGVyIExlZ2FsIFRo
+        cmVhdHM8L2E+PHNwYW4gY2xhc3M9ImNvbWhlYWQiPiAodG9ycmVudGZyZWFr
+        LmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRkIGNvbHNwYW49Mj48L3Rk
+        Pjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9c2NvcmVfNDk0MjA1NT40
+        NCBwb2ludHM8L3NwYW4+IGJ5IDxhIGhyZWY9InVzZXI/aWQ9TGliZXJ0YXRl
+        YSI+TGliZXJ0YXRlYTwvYT4gNSBob3VycyBhZ28gIHwgPGEgaHJlZj0iaXRl
+        bT9pZD00OTQyMDU1Ij4xMCBjb21tZW50czwvYT48L3RkPjwvdHI+PHRyIHN0
+        eWxlPSJoZWlnaHQ6NXB4Ij48L3RyPjx0cj48dGQgYWxpZ249cmlnaHQgdmFs
+        aWduPXRvcCBjbGFzcz0idGl0bGUiPjIyLjwvdGQ+PHRkPjxjZW50ZXI+PGEg
+        aWQ9dXBfNDk0MDk3OCBocmVmPSJ2b3RlP2Zvcj00OTQwOTc4JmRpcj11cCZ3
+        aGVuY2U9JTZlJTY1JTc3JTczIj48aW1nIHNyYz0iaHR0cDovL3ljb21iaW5h
+        dG9yLmNvbS9pbWFnZXMvZ3JheWFycm93LmdpZiIgYm9yZGVyPTAgdnNwYWNl
+        PTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlkPWRvd25fNDk0MDk3OD48L3NwYW4+
+        PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJodHRw
+        Oi8vZnJlZXRoZXBob3Rvcy5jb20iPk1pZ3JhdGUgWW91ciBJbnN0YWdyYW0g
+        UGhvdG9zIHRvIEZsaWNrciBpbiBPbmUgQ2xpY2suPC9hPjxzcGFuIGNsYXNz
+        PSJjb21oZWFkIj4gKGZyZWV0aGVwaG90b3MuY29tKSA8L3NwYW4+PC90ZD48
+        L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0
+        Ij48c3BhbiBpZD1zY29yZV80OTQwOTc4PjIwMCBwb2ludHM8L3NwYW4+IGJ5
+        IDxhIGhyZWY9InVzZXI/aWQ9dGhla2V2aW5qb25lcyI+dGhla2V2aW5qb25l
+        czwvYT4gMTMgaG91cnMgYWdvICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDk0MDk3
+        OCI+NTQgY29tbWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0
+        OjVweCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xh
+        c3M9InRpdGxlIj4yMy48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDMz
+        NjEgaHJlZj0idm90ZT9mb3I9NDk0MzM2MSZkaXI9dXAmd2hlbmNlPSU2ZSU2
+        NSU3NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1h
+        Z2VzL2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0y
+        PjwvYT48c3BhbiBpZD1kb3duXzQ5NDMzNjE+PC9zcGFuPjwvY2VudGVyPjwv
+        dGQ+PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cHM6Ly9zMy5hbWF6
+        b25hd3MuY29tL0dpZ2FwYW5zL0VCQ19QdW1vcmlfMDUwMTEyXzhiaXRfRkxB
+        VC9FQkNfUHVtb3JpXzA1MDExMl84Yml0X0ZMQVQuaHRtbCIgcmVsPSJub2Zv
+        bGxvdyI+VHdvIEJpbGxpb24gUGl4ZWwgUGhvdG8gb2YgTW91bnQgRXZlcmVz
+        dCAoY2FuIHlvdSBmaW5kIHRoZSBjbGltYmVycz8pPC9hPjxzcGFuIGNsYXNz
+        PSJjb21oZWFkIj4gKGFtYXpvbmF3cy5jb20pIDwvc3Bhbj48L3RkPjwvdHI+
+        PHRyPjx0ZCBjb2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InN1YnRleHQiPjxz
+        cGFuIGlkPXNjb3JlXzQ5NDMzNjE+MyBwb2ludHM8L3NwYW4+IGJ5IDxhIGhy
+        ZWY9InVzZXI/aWQ9bWF0dGhvZGFuIj5tYXR0aG9kYW48L2E+IDQgbWludXRl
+        cyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQzMzYxIj5kaXNjdXNzPC9h
+        PjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0
+        ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+MjQuPC90
+        ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80OTQwOTUyIGhyZWY9InZvdGU/Zm9y
+        PTQ5NDA5NTImZGlyPXVwJndoZW5jZT0lNmUlNjUlNzclNzMiPjxpbWcgc3Jj
+        PSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9ncmF5YXJyb3cuZ2lm
+        IiBib3JkZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+PHNwYW4gaWQ9ZG93
+        bl80OTQwOTUyPjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0ZCBjbGFzcz0idGl0
+        bGUiPjxhIGhyZWY9Imh0dHA6Ly9ibG9nLnRoZWluY3JlZGlibGVob2xrLm9y
+        Zy9ibG9nLzIwMTIvMTIvMTgvaG93LWRvLXdlLXJlYWQtY29kZS8iPkhvdyBk
+        byB3ZSByZWFkIGNvZGU/PC9hPjxzcGFuIGNsYXNzPSJjb21oZWFkIj4gKHRo
+        ZWluY3JlZGlibGVob2xrLm9yZykgPC9zcGFuPjwvdGQ+PC90cj48dHI+PHRk
+        IGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNwYW4gaWQ9
+        c2NvcmVfNDk0MDk1Mj4xNzcgcG9pbnRzPC9zcGFuPiBieSA8YSBocmVmPSJ1
+        c2VyP2lkPWVyamlhbmciPmVyamlhbmc8L2E+IDEzIGhvdXJzIGFnbyAgfCA8
+        YSBocmVmPSJpdGVtP2lkPTQ5NDA5NTIiPjYyIGNvbW1lbnRzPC9hPjwvdGQ+
+        PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0ZCBhbGln
+        bj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+MjUuPC90ZD48dGQ+
+        PGNlbnRlcj48YSBpZD11cF80OTQzMzM0IGhyZWY9InZvdGU/Zm9yPTQ5NDMz
+        MzQmZGlyPXVwJndoZW5jZT0lNmUlNjUlNzclNzMiPjxpbWcgc3JjPSJodHRw
+        Oi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9ncmF5YXJyb3cuZ2lmIiBib3Jk
+        ZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+PHNwYW4gaWQ9ZG93bl80OTQz
+        MzM0Pjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0ZCBjbGFzcz0idGl0bGUiPjxh
+        IGhyZWY9Imh0dHA6Ly93d3cucGNtYWcuY29tL2FydGljbGUyLzAsMjgxNywy
+        NDEzMzgyLDAwLmFzcCIgcmVsPSJub2ZvbGxvdyI+ODQlIG9mIEtpY2tzdGFy
+        dGVyIHByb2plY3RzIGZhaWwgdG8gZGVsaXZlciBvbiB0aW1lPC9hPjxzcGFu
+        IGNsYXNzPSJjb21oZWFkIj4gKHBjbWFnLmNvbSkgPC9zcGFuPjwvdGQ+PC90
+        cj48dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+
+        PHNwYW4gaWQ9c2NvcmVfNDk0MzMzND4zIHBvaW50czwvc3Bhbj4gYnkgPGEg
+        aHJlZj0idXNlcj9pZD1tZW1vcnlmYWlsdXJlIj5tZW1vcnlmYWlsdXJlPC9h
+        PiAxMCBtaW51dGVzIGFnbyAgfCA8YSBocmVmPSJpdGVtP2lkPTQ5NDMzMzQi
+        PmRpc2N1c3M8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjVweCI+
+        PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xhc3M9InRp
+        dGxlIj4yNi48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5Mzk4NDkgaHJl
+        Zj0idm90ZT9mb3I9NDkzOTg0OSZkaXI9dXAmd2hlbmNlPSU2ZSU2NSU3NyU3
+        MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1hZ2VzL2dy
+        YXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0yPjwvYT48
+        c3BhbiBpZD1kb3duXzQ5Mzk4NDk+PC9zcGFuPjwvY2VudGVyPjwvdGQ+PHRk
+        IGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL2Jsb2cuaW5zdGFncmFt
+        LmNvbS9wb3N0LzM4MjUyMTM1NDA4L3RoYW5rLXlvdS1hbmQtd2VyZS1saXN0
+        ZW5pbmciPkluc3RhZ3JhbSdzIG9mZmljaWFsIHJlc3BvbnNlPC9hPjxzcGFu
+        IGNsYXNzPSJjb21oZWFkIj4gKGluc3RhZ3JhbS5jb20pIDwvc3Bhbj48L3Rk
+        PjwvdHI+PHRyPjx0ZCBjb2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InN1YnRl
+        eHQiPjxzcGFuIGlkPXNjb3JlXzQ5Mzk4NDk+MzE1IHBvaW50czwvc3Bhbj4g
+        YnkgPGEgaHJlZj0idXNlcj9pZD1rdXJ0dmFybmVyIj5rdXJ0dmFybmVyPC9h
+        PiAxOCBob3VycyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTM5ODQ5Ij4y
+        NDIgY29tbWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjVw
+        eCI+PC90cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xhc3M9
+        InRpdGxlIj4yNy48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDMwMDgg
+        aHJlZj0idm90ZT9mb3I9NDk0MzAwOCZkaXI9dXAmd2hlbmNlPSU2ZSU2NSU3
+        NyU3MyI+PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1hZ2Vz
+        L2dyYXlhcnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0yPjwv
+        YT48c3BhbiBpZD1kb3duXzQ5NDMwMDg+PC9zcGFuPjwvY2VudGVyPjwvdGQ+
+        PHRkIGNsYXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL2NsYXlhbGxzb3Bw
+        LmNvbS9wb3N0cy93cml0aW5nLWEtcHJvZ3JhbW1pbmctYm9vay8/IiByZWw9
+        Im5vZm9sbG93Ij5Xcml0aW5nIGEgUHJvZ3JhbW1pbmcgQm9vazwvYT48c3Bh
+        biBjbGFzcz0iY29taGVhZCI+IChjbGF5YWxsc29wcC5jb20pIDwvc3Bhbj48
+        L3RkPjwvdHI+PHRyPjx0ZCBjb2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InN1
+        YnRleHQiPjxzcGFuIGlkPXNjb3JlXzQ5NDMwMDg+NSBwb2ludHM8L3NwYW4+
+        IGJ5IDxhIGhyZWY9InVzZXI/aWQ9b2N0b3B1cyI+b2N0b3B1czwvYT4gMSBo
+        b3VyIGFnbyAgfCA8YSBocmVmPSJpdGVtP2lkPTQ5NDMwMDgiPjEgY29tbWVu
+        dDwvYT48L3RkPjwvdHI+PHRyIHN0eWxlPSJoZWlnaHQ6NXB4Ij48L3RyPjx0
+        cj48dGQgYWxpZ249cmlnaHQgdmFsaWduPXRvcCBjbGFzcz0idGl0bGUiPjI4
+        LjwvdGQ+PHRkPjxjZW50ZXI+PGEgaWQ9dXBfNDkzODgwMCBocmVmPSJ2b3Rl
+        P2Zvcj00OTM4ODAwJmRpcj11cCZ3aGVuY2U9JTZlJTY1JTc3JTczIj48aW1n
+        IHNyYz0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9pbWFnZXMvZ3JheWFycm93
+        LmdpZiIgYm9yZGVyPTAgdnNwYWNlPTMgaHNwYWNlPTI+PC9hPjxzcGFuIGlk
+        PWRvd25fNDkzODgwMD48L3NwYW4+PC9jZW50ZXI+PC90ZD48dGQgY2xhc3M9
+        InRpdGxlIj48YSBocmVmPSJodHRwOi8vd2lyZWQuY29tL2dhZGdldGxhYi8y
+        MDEyLzEyL2hvdy10by1kb3dubG9hZC15b3VyLWluc3RhZ3JhbS1waG90b3Mt
+        YW5kLWtpbGwteW91ci1hY2NvdW50LyI+SG93IHRvIERvd25sb2FkIFlvdXIg
+        SW5zdGFncmFtIFBob3RvcyBhbmQgS2lsbCBZb3VyIEFjY291bnQ8L2E+PHNw
+        YW4gY2xhc3M9ImNvbWhlYWQiPiAod2lyZWQuY29tKSA8L3NwYW4+PC90ZD48
+        L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0
+        Ij48c3BhbiBpZD1zY29yZV80OTM4ODAwPjM3MyBwb2ludHM8L3NwYW4+IGJ5
+        IDxhIGhyZWY9InVzZXI/aWQ9bXRneCI+bXRneDwvYT4gMjIgaG91cnMgYWdv
+        ICB8IDxhIGhyZWY9Iml0ZW0/aWQ9NDkzODgwMCI+MTQ0IGNvbW1lbnRzPC9h
+        PjwvdGQ+PC90cj48dHIgc3R5bGU9ImhlaWdodDo1cHgiPjwvdHI+PHRyPjx0
+        ZCBhbGlnbj1yaWdodCB2YWxpZ249dG9wIGNsYXNzPSJ0aXRsZSI+MjkuPC90
+        ZD48dGQ+PGNlbnRlcj48YSBpZD11cF80OTQwMDIyIGhyZWY9InZvdGU/Zm9y
+        PTQ5NDAwMjImZGlyPXVwJndoZW5jZT0lNmUlNjUlNzclNzMiPjxpbWcgc3Jj
+        PSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2ltYWdlcy9ncmF5YXJyb3cuZ2lm
+        IiBib3JkZXI9MCB2c3BhY2U9MyBoc3BhY2U9Mj48L2E+PHNwYW4gaWQ9ZG93
+        bl80OTQwMDIyPjwvc3Bhbj48L2NlbnRlcj48L3RkPjx0ZCBjbGFzcz0idGl0
+        bGUiPjxhIGhyZWY9Imh0dHA6Ly9qZm9ybmVhci5jby90aGUtcmVhbC1zaWxp
+        Y29uLXZhbGxleS8iPlRoZSBSZWFsIFNpbGljb24gVmFsbGV5PC9hPjxzcGFu
+        IGNsYXNzPSJjb21oZWFkIj4gKGpmb3JuZWFyLmNvKSA8L3NwYW4+PC90ZD48
+        L3RyPjx0cj48dGQgY29sc3Bhbj0yPjwvdGQ+PHRkIGNsYXNzPSJzdWJ0ZXh0
+        Ij48c3BhbiBpZD1zY29yZV80OTQwMDIyPjIzMiBwb2ludHM8L3NwYW4+IGJ5
+        IDxhIGhyZWY9InVzZXI/aWQ9amZvcm5lYXIiPmpmb3JuZWFyPC9hPiAxOCBo
+        b3VycyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQwMDIyIj4xMzIgY29t
+        bWVudHM8L2E+PC90ZD48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjVweCI+PC90
+        cj48dHI+PHRkIGFsaWduPXJpZ2h0IHZhbGlnbj10b3AgY2xhc3M9InRpdGxl
+        Ij4zMC48L3RkPjx0ZD48Y2VudGVyPjxhIGlkPXVwXzQ5NDE0NjMgaHJlZj0i
+        dm90ZT9mb3I9NDk0MTQ2MyZkaXI9dXAmd2hlbmNlPSU2ZSU2NSU3NyU3MyI+
+        PGltZyBzcmM9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vaW1hZ2VzL2dyYXlh
+        cnJvdy5naWYiIGJvcmRlcj0wIHZzcGFjZT0zIGhzcGFjZT0yPjwvYT48c3Bh
+        biBpZD1kb3duXzQ5NDE0NjM+PC9zcGFuPjwvY2VudGVyPjwvdGQ+PHRkIGNs
+        YXNzPSJ0aXRsZSI+PGEgaHJlZj0iaHR0cDovL3d3dy5nb29nbGUuY29tL3Nh
+        bnRhdHJhY2tlciI+R29vZ2xlIFNhbnRhIFRyYWNrZXI8L2E+PHNwYW4gY2xh
+        c3M9ImNvbWhlYWQiPiAoZ29vZ2xlLmNvbSkgPC9zcGFuPjwvdGQ+PC90cj48
+        dHI+PHRkIGNvbHNwYW49Mj48L3RkPjx0ZCBjbGFzcz0ic3VidGV4dCI+PHNw
+        YW4gaWQ9c2NvcmVfNDk0MTQ2Mz43MCBwb2ludHM8L3NwYW4+IGJ5IDxhIGhy
+        ZWY9InVzZXI/aWQ9Y2hyaXNicm9hZGZvb3QiPmNocmlzYnJvYWRmb290PC9h
+        PiAxMCBob3VycyBhZ28gIHwgPGEgaHJlZj0iaXRlbT9pZD00OTQxNDYzIj4x
+        OCBjb21tZW50czwvYT48L3RkPjwvdHI+PHRyIHN0eWxlPSJoZWlnaHQ6NXB4
+        Ij48L3RyPjx0ciBzdHlsZT0iaGVpZ2h0OjEwcHgiPjwvdHI+PHRyPjx0ZCBj
+        b2xzcGFuPTI+PC90ZD48dGQgY2xhc3M9InRpdGxlIj48YSBocmVmPSJuZXdz
+        MiI+TW9yZTwvYT48L3RkPjwvdHI+PC90YWJsZT48L3RkPjwvdHI+PHRyPjx0
+        ZD48aW1nIHNyYz0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9pbWFnZXMvcy5n
+        aWYiIGhlaWdodD0xMCB3aWR0aD0wPjx0YWJsZSB3aWR0aD0iMTAwJSIgY2Vs
+        bHNwYWNpbmc9MCBjZWxscGFkZGluZz0xPjx0cj48dGQgYmdjb2xvcj0jZmY2
+        NjAwPjwvdGQ+PC90cj48L3RhYmxlPjxicj4KPGNlbnRlcj48c3BhbiBjbGFz
+        cz0ieWNsaW5rcyI+PGEgaHJlZj0ibGlzdHMiPkxpc3RzPC9hPiB8IDxhIGhy
+        ZWY9InJzcyI+UlNTPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly95Y29tYmluYXRv
+        ci5jb20vYm9va21hcmtsZXQuaHRtbCI+Qm9va21hcmtsZXQ8L2E+IHwgPGEg
+        aHJlZj0iaHR0cDovL3ljb21iaW5hdG9yLmNvbS9uZXdzZ3VpZGVsaW5lcy5o
+        dG1sIj5HdWlkZWxpbmVzPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly95Y29tYmlu
+        YXRvci5jb20vbmV3c2ZhcS5odG1sIj5GQVE8L2E+IHwgPGEgaHJlZj0iZG1j
+        YS5odG1sIj5ETUNBPC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly95Y29tYmluYXRv
+        ci5jb20vbmV3c25ld3MuaHRtbCI+TmV3cyBOZXdzPC9hPiB8IDxhIGhyZWY9
+        Iml0ZW0/aWQ9MzYzIj5GZWF0dXJlIFJlcXVlc3RzPC9hPiB8IDxhIGhyZWY9
+        Imh0dHA6Ly95Y29tYmluYXRvci5jb20iPlkgQ29tYmluYXRvcjwvYT4gfCA8
+        YSBocmVmPSJodHRwOi8veWNvbWJpbmF0b3IuY29tL2FwcGx5Lmh0bWwiPkFw
+        cGx5PC9hPiB8IDxhIGhyZWY9Imh0dHA6Ly95Y29tYmluYXRvci5jb20vbGli
+        Lmh0bWwiPkxpYnJhcnk8L2E+PC9zcGFuPjxicj48YnI+Cjxmb3JtIG1ldGhv
+        ZD1nZXQgYWN0aW9uPSJodHRwOi8vd3d3Lmhuc2VhcmNoLmNvbS9zZWFyY2gj
+        cmVxdWVzdC9hbGwiPlNlYXJjaDogPGlucHV0IHR5cGU9dGV4dCBuYW1lPSJx
+        IiB2YWx1ZT0iIiBzaXplPTE3PjwvZm9ybT48YnI+CjwvY2VudGVyPjwvdGQ+
+        PC90cj48L3RhYmxlPjwvY2VudGVyPjwvYm9keT48L2h0bWw+
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:21 GMT
+- request:
+    method: get
+    uri: http://ycombinator.com/favicon.ico
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzoxNSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4yMiAoVWJ1bnR1KQ==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VGh1LCAwNyBPY3QgMjAxMCAxODo0OTozNiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjFlMGYzLTM3ZS00OTIwYjViMDIxMDAwIg==
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        ODk0
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        aW1hZ2UveC1pY29u
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAA
+        AEgAAABIAAAAAAAAAAAAAAAAZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv9zsfn///////9zsfkAZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv/K4//////////K4/8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv9Xofj///9zsflzsfn///9XofgAZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv/////K4/8AZv8AZv/K4/////8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv9zsfn///9zsfkAZv8AZv9zsfn///9zsfkAZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv////////8tivYAZv8AZv8AZv////////8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:23 GMT
+- request:
+    method: get
+    uri: http://ycombinator.com/favicon.ico
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept:
+      - ! '*/*'
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAxNjo0NzoxNSBHTVQ=
+      !binary "U2VydmVy":
+      - !binary |-
+        QXBhY2hlLzIuMi4yMiAoVWJ1bnR1KQ==
+      !binary "TGFzdC1Nb2RpZmllZA==":
+      - !binary |-
+        VGh1LCAwNyBPY3QgMjAxMCAxODo0OTozNiBHTVQ=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjFlMGYzLTM3ZS00OTIwYjViMDIxMDAwIg==
+      !binary "QWNjZXB0LVJhbmdlcw==":
+      - !binary |-
+        Ynl0ZXM=
+      !binary "Q29udGVudC1MZW5ndGg=":
+      - !binary |-
+        ODk0
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        aW1hZ2UveC1pY29u
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        AAABAAEAEBAAAAEAGABoAwAAFgAAACgAAAAQAAAAIAAAAAEAGAAAAAAAAAAA
+        AEgAAABIAAAAAAAAAAAAAAAAZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv////////8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv9zsfn///////9zsfkAZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv/K4//////////K4/8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv9Xofj///9zsflzsfn///9XofgAZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv/////K4/8AZv8AZv/K4/////8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv9zsfn///9zsfkAZv8AZv9zsfn///9zsfkAZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv////////8tivYAZv8AZv8AZv////////8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8AZv8A
+        Zv8AZv8AZv8AZv8AZv8AZv8AZv8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 16:47:23 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://www.eff.org/press/releases/eff-patent-project-gets-half-million-dollar-boost-mark-cuban-and-notch&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:29 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '305'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"9533b4f1c1ab6ad5348f389801b3f2713d94a37c"'
+      X-Embedly-Process-Time:
+      - '46'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api13
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://www.eff.org", "title": "EFF Patent Project
+        Gets Half-Million-Dollar Boost from Mark Cuban and ''Notch''", "url": "https://www.eff.org/press/releases/eff-patent-project-gets-half-million-dollar-boost-mark-cuban-and-notch",
+        "version": "1.0", "provider_name": "Eff", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:28 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2012153a.html&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:29 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '813'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"343c4a7220430298c402ed76fa325c4c042741ad"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api01
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.nature.com", "description": "advance
+        online publication 13 December 2012; doi: 10.1038/ismej.2012.153 The role
+        of the gut microbiota in the pathogenesis of obesity has emerged into an important
+        research area ( Backhed et al., 2004). Gram-negative opportunistic pathogens
+        in the gut may be pivotal in obesity ( Schumann et al., 1990; Zhang et al.,
+        2010, 2012).", "title": "The ISME Journal - An opportunistic pathogen isolated
+        from the gut of an obese human causes obesity in germfree mice", "url": "http://www.nature.com/ismej/journal/vaop/ncurrent/full/ismej2012153a.html",
+        "thumbnail_width": 111, "thumbnail_url": "http://www.nature.com/ismej/journal/vaop/ncurrent/thumbs/ismej2012153f1th.jpg",
+        "version": "1.0", "provider_name": "Nature", "type": "link", "thumbnail_height":
+        150}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:28 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://techcrunch.com/2012/12/19/dropbox-acquires-snapjoy-and-puts-photos-into-its-focus/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAyMTowMzoyOSBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1FbWJlZGx5LUZyb20tQ2FjaGU=":
+      - !binary |-
+        MA==
+      !binary "QWNjZXNzLUNvbnRyb2wtTWF4LUFnZQ==":
+      - !binary |-
+        ODY0MDA=
+      !binary "U2VydmVy":
+      - !binary |-
+        VG9ybmFkb1NlcnZlci8yLjE=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjZmMGEzYWMwMGNkOWY0YTcxZmMyNTQwZDY2YTlhYTE2MjczZjc4ZDIi
+      !binary "WC1FbWJlZGx5LVByb2Nlc3MtVGltZQ==":
+      - !binary |-
+        NDk=
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2lu":
+      - !binary |-
+        Kg==
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcw==":
+      - !binary |-
+        R0VULCBPUFRJT05T
+      !binary "WC1FbWJlZGx5LUhvc3Q=":
+      - !binary |-
+        YXBpMTQ=
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA9VUTWvbQBD9K4MOPXklOU6hDUlKSAkEAg2kl1KXMNautFuv
+        dtX9iGJK/3tnV7JDQptLTwWDZWtm3syb9+brz2Jw9kFx4e6j08UJFDKE4aSq
+        gmhk46JpZNnYvlhAwYVvnBqCsibF3QjvIUg0YI2AUYgtYBuEg4/ODhv7CNj8
+        iMoJDheRK9uhxscdBAsbIVqIA6jgodE2cuijVw1gv1GpuF9QFMcdEK7wYMTo
+        wbaAxgZJ5XNZnyMpUCpqQvUCWttET2DWHCJb6/qU2QuucAGDtMH6E8oREy7z
+        wTrsBHQKTQCqtIk7ZTq4Mzh8tztgDLTaiv1EC0D4wi4t9WmQUhnq2KegUapG
+        ghY0EPXgPGDXOdFhEJRSlom8oIIWibY9OxcTO/4AdmE43EYqcZv7hGtDXF3T
+        76s0Warx2oKqo3p5VKXP+4pPC2DzAjzz0zwMDWcDQbCJCqYIgtEaWCavShgy
+        9FkFf93uKYJ0oj1b/1koT32sqlEFyfBp+VND0+rYvkmvOoPa5zayGlhWAzuo
+        oVoX569J6rTC8/9DVkRdQNeJQOTdbzSa7bp4QeY4juW8rWQ7Gn3WYppyHesa
+        a8am739XpmukehBkFw4PSoyAWie7kD+UA646FVDProHW2X5+02AvHJJLSUWG
+        DJryBztEjWTOYfCTZ660arZuQTL2ATuHfY67VQ168mJ6JhwzAdMTGdVoRYfE
+        OvoPKQDUp7tUL9sHY5DW3RuCTuq8Np1THG6i4cJke8nYbwwq/fKKNU93jByy
+        LFulhS9H6/jg6IAlkpNkl1X9rpqJ17azy3Iw3Yfx7Pi4fiPPVqv6OcioeJDU
+        yNHbmsAfyPLzUVyWOfJwU/cNf6ZrepmvaS60G/IYNPD2eWGivpOB3i1XqfI8
+        9qvGn2IqultEic6MVMWvb78Baf4nA9oFAAA=
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:28 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.humblebundle.com/%237&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:29 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '729'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"941151a4334aa22e47c74b07a8930a26061fe0a7"'
+      X-Embedly-Process-Time:
+      - '46'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api22
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.humblebundle.com", "description": "Pay
+        what you want starting at $1 for Company of Heroes and its two expansions,
+        Darksiders, Metro 2033, Red Faction: Armageddon and its Path to War DLC, Titan
+        Quest, Warhammer 40,000: Dawn of War GOTY, Saints Row: The Third, and heart
+        pounding soundtracks -- all while supporting wonderful charities!", "title":
+        "The Humble THQ Bundle: Pay what you want for nine mind-blowing games and
+        help charity!", "url": "http://www.humblebundle.com/", "thumbnail_width":
+        256, "thumbnail_url": "https://www.humblebundle.com/static/hashed/60b420fd3307aa3b94e9a43219a52596a0d0d92b.png",
+        "version": "1.0", "provider_name": "Humblebundle", "type": "link", "thumbnail_height":
+        211}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:29 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://github.com/blog/1359-the-octoverse-in-2012&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:29 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '702'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"013785452cd429c2da884c67db864554561eedf9"'
+      X-Embedly-Process-Time:
+      - '146'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api11
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://github.com", "description": "I am continually
+        blown away by the staggering amount of work happening on GitHub. Every day,
+        our users commit code, open and close issues, and make plans for their software
+        to take over the world. We track all of this activity and make the public
+        data available via our API.", "title": "The Octoverse in 2012 \u00b7 GitHub
+        Blog", "url": "https://github.com/blog/1359-the-octoverse-in-2012", "author_name":
+        "briandoll", "thumbnail_url": "https://a248.e.akamai.net/assets.github.com/images/modules/header/logov7@4x-hover.png?1340935010",
+        "thumbnail_width": 280, "version": "1.0", "provider_name": "Github", "type":
+        "link", "thumbnail_height": 120}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:29 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.wired.com/wiredscience/2012/12/spider-building-spider/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:30 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '674'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"70312e9360acb81a2c539133c1bab7cbcdcf8b58"'
+      X-Embedly-Process-Time:
+      - '50'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api05
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.wired.com", "description": "A spider
+        that builds elaborate, fake spiders and hangs them in its web has been discovered
+        in the Peruvian Amazon. Believed to be a new species in the genus Cyclosa,
+        the arachnid crafts the larger spider from leaves, debris and dead insects.",
+        "title": "Spider That Builds Its Own Spider Decoys Discovered | Wired Science
+        | Wired.com", "url": "http://www.wired.com/wiredscience/2012/12/spider-building-spider/",
+        "thumbnail_width": 300, "thumbnail_url": "http://www.wired.com/images_blogs/wiredscience/2012/12/spider2-300x198.jpg",
+        "version": "1.0", "provider_name": "Wired", "type": "link", "thumbnail_height":
+        198}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:29 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://browserfame.com/1033/firefox-h264-codec-windows&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:30 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '757'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"9767d7da2acf57be16d2bdbc57d3a0d13523dbc3"'
+      X-Embedly-Process-Time:
+      - '57'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api23
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://browserfame.com", "description": "This
+        is a very big step: Firefox 20 Nightly on Windows now supports H.264 codec
+        through the Windows'' Media Foundation. As reported earlier, Mozilla has decided
+        to bring OS-dependent support for H.264 in Firefox to avoid dependency on
+        third-party plug-ins like Flash.", "title": "H.264 Support Lands in Firefox
+        20 Nightly on Windows", "url": "http://browserfame.com/1033/firefox-h264-codec-windows",
+        "author_name": "Gary Mark", "thumbnail_url": "http://browserfame.com/wp-content/uploads/2012/12/firefox-h264-codec-300x168.png",
+        "thumbnail_width": 300, "version": "1.0", "provider_name": "Browserfame",
+        "type": "link", "thumbnail_height": 168, "author_url": "http://browserfame.com/author/editor"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:29 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://angel.co/invest&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:30 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '370'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"4fff0fe362edbbb5f59b213bb727373fcde0c28c"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api12
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://angel.co", "description": "AngelList is
+        a platform for startups", "title": "Invest Online - AngelList", "url": "https://angel.co/invest",
+        "thumbnail_width": 140, "thumbnail_url": "https://s3.amazonaws.com/photos.angel.co/users/106455-medium_jpg?1331772144",
+        "version": "1.0", "provider_name": "Angel", "type": "link", "thumbnail_height":
+        140}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:29 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://betabeat.com/2012/12/twitter-suspends-anonymous-most-popular-account-youranonnews/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAyMTowMzozMCBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1FbWJlZGx5LUZyb20tQ2FjaGU=":
+      - !binary |-
+        MA==
+      !binary "QWNjZXNzLUNvbnRyb2wtTWF4LUFnZQ==":
+      - !binary |-
+        ODY0MDA=
+      !binary "U2VydmVy":
+      - !binary |-
+        VG9ybmFkb1NlcnZlci8yLjE=
+      !binary "RXRhZw==":
+      - !binary |-
+        IjY1MTQ1NzllMzgxYjRiMDBhMDk1NzhhZjNjMjUyOTAyMDAwMDhiZmQi
+      !binary "WC1FbWJlZGx5LVByb2Nlc3MtVGltZQ==":
+      - !binary |-
+        Mzk=
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2lu":
+      - !binary |-
+        Kg==
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcw==":
+      - !binary |-
+        R0VULCBPUFRJT05T
+      !binary "WC1FbWJlZGx5LUhvc3Q=":
+      - !binary |-
+        YXBpMDk=
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA+VY/W8buRH9V1gFdVtAlHYlJbZjWRcnB9wVh8t9KEUQ1EVA
+        7VJanrnkluRa2Tvc/35vuB+SEjvFtegPRQHDkJbc4fDNzJs3+vsvo8rZe5VL
+        9752evScjYoQqufT6UYGsZEiTDJbjsZslEufOVUFZQ3terNXIUjHCuGZr30l
+        TS5zZo1kdstCIbGQ3QV1r3xgmdVaZvgi2Y2xpilt7f/kWWmxtsWa3eNVkWW2
+        NsGP2Yt3tna08bXc4+u+UFnBNlb4QNt0fO0iScZJkvSvO88qp6xjwTIVeo88
+        fJ2wb4VpDueyUpYbif0bqZUkV0WI/nbns/3JhbawSQb31t0xZVghdaXMjs6x
+        bieM+lmyJ99lWV018DbYvRkzYZitpBMEFY4TBgdYdidlFQ96K33YWGfZSwE0
+        cZdXRe1ww62zJW5hA9bpiM6vbW1gS3vCdS1M3rCvrb1j9wqAln7CbjzrY5Fb
+        6ZmxBHhZShyL8+lEH0SoowFlcoQkr4U+wvtlF2mWCdO+bbbKlQxBzdRWZULr
+        BlFoHodpQgkSVNDyODXWbVr4o6Czbyl439uq1sKxmzbkH0WcbD2eitNZks6m
+        +AttAvIu+TwXfWpxyhBetYfwLq68QVLRFoOkmtIZRShjvi8BCVP59e1IhCCy
+        gpB7f754OpvdjlimhfdY2lc8o3ABUaHVzmi5DVj2odGSllUeiudsnibVh9vR
+        aqnK3fCqR47wUuaqLhnMqFLsJO/tCx3w+p/XmZPS4ITnfTD/QtZdhsWuHk1j
+        h5LcKi39BDmZV056TyU64IIqhSnuCxs4YcXp75KLED884+lTXpWTyuy+2F/P
+        k+TsSTK/uCqu0/QZToz3wJlYwLdCql1B/rWL09WyegAQHuQHYLF66BLLabVa
+        TgHw6tYsq9V/ShpnTy5m6fnVZ6hjKVjh5PYA236/n3SpEmE6SQN4fcw1y6lY
+        /W/yzSfXPmbvITUOFVJpYTwPloPfSl7UpaCMUVLn9DCSUBa4J7rhBeiGdyzE
+        dxbcyYmq+L7jMb5peYxnkcemAHWgP0L0/4QCKdVjki//wMFATnK+onydJVcP
+        p/2L06B59NzjRD1OTEB6nLeE6m2dJCJBgJhWpaLOWDYDpzOxUVoFMLZlHp2Z
+        hb2U6GJ57aizdE1mHN1Lr9jnHfmmGZp2Om1byXR2kS4Wi3kyu1ycnz9DTZ7D
+        xXiIzGPMv3l31HJjZxNsA0VQV72Tk9M9WtQmK3ANaljKqKDQow5tVOyEMmgd
+        Q/Ns+zZ1whxNl6WXsb3RHW1JW9GFcwZyrDVhg84dG2HsSCQLaPeLL6Vw60I5
+        LQHdltRMe/hWkEJhYMoGO7jVeVQzWH9lfWnjrq9szvawT9Yza4KzcJc8mAyJ
+        0EW/CyrbaNgg+G0d4B11kk7yPBYXHPPvhiZN04tkcTmfpUmK0Igc6owCc/Du
+        K2t3WqLnA3X8r0LtcJUT7dXRbZ89EEZOZuiOkAP4TFqvQFNlYmcn7M2RhBJV
+        Bdw8ZV8hIPo2aEgPKicCMqo+6VrSQYQRqk5J4f1cNJ/gmSuEwnjgVwmIMrvd
+        MqlLeg+tnRQYU76tjs+D5+FjVnzxz+s/zuY2Krju/TNRVlfUe6FtC+rmfvVk
+        OfWrk02HGvz6BzCcDGyDcpPGKE9XciRkxV6oAJnroC4RbzzBhSEJLTAJtvVx
+        xtYZGFazdUDfRoJbm29q14zZqzcseXZ+eQHt2T5iHQkD9RIWA6QeCTwLEQy1
+        Fkkc6lXrMXv78lUs/cLuAT7VJSqEz4eCd1IQJ9gunl2AD0jfsKx23rqGaaow
+        HNVR2NCAP4XW11VlXThptsIFlUGqTNOLeZpy3J73ss3VeA5w30hXttpWOmha
+        GdnDyXtJkjcW+UlKslI0R0l1mDxIqN8rq6G6SZ4jsbry+96pe5E1PdfRuX2P
+        JzKDYu42gnCjdZLAVb3RyhfQ+KwixWphEB+lrbQcMMDEcQ8DkWlAAVsMUSbS
+        ljIUkaj/x+AcaHuUC2RZjmzIhMuZqeMMgsU26ChP0nF03NpmZGItEQEw+PR1
+        NIMnf43WwenDyxDAqL84vSjH5IeoBZmo8dSpn9vxg3zDLFIqH4ehHoWB0eP8
+        Fuvz90oIKAFobmLNx5QARG+8Jke+o757yVFR/T4kLjxJBye1FB4xjIkA11Ho
+        p5CiudGtHxuj+vkuFM7Wux4ghhq4OyT4aU4VqAahqSiaf0G4725evwSL/62C
+        p+B+EbOka3kfNzhipEz4OBAfGs+kT7e3NCKDCCTalQbz9iJh3dZR19997BiU
+        3DSA/T7J8LG0bU0OAR9qZ6AFpOendX2iSfrrn+iA+eLpAvP4+fk8nVGzOdIB
+        w21/lG1cxgwQgqBNV0XhIBPoyTy5Yj/VKDhB5B4miHJLl4fcpfZK41ub5++N
+        KOPQ+ZOzGJA8SES6OI2CDzcG0H70s8Z/Y4xaLJKz4no+T84yZ6vr4Gp56kIc
+        q+AlNsI1eEjFSF6nk4R2Dj/B9LfpR/JopqniDbUyd6dm2/kMa+nlxQGRz8zO
+        LWbTY6ymo1//8Ru0onD8BRIAAA==
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:30 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://kotaku.com/5969846/thq-files-for-chapter-11-bankruptcy&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:30 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '749'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"9d5dc47d6e51a6037741dacc92efc16e74e29565"'
+      X-Embedly-Process-Time:
+      - '31'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api12
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://kotaku.com", "description": "THQ has filed
+        for Chapter 11 bankruptcy. In a press release, the company said that it would
+        continue to operate as normal as they go through the bankruptcy process. \"The
+        sale and filing are necessary next steps to complete THQ''s transformation
+        and position the company for the future, as we remain...", "title": "THQ Files
+        For Chapter 11 Bankruptcy", "url": "http://kotaku.com/5969846/thq-files-for-chapter-11-bankruptcy",
+        "author_name": "View Profile", "thumbnail_url": "http://img.gawkerassets.com/img/188usxcmcks6ejpg/fb.jpg",
+        "thumbnail_width": 200, "version": "1.0", "provider_name": "Kotaku", "type":
+        "link", "thumbnail_height": 200, "author_url": "http://kotaku.com/people/jschreier/"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:30 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://wavo.me/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:31 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '417'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"53cf85846dde672cab52e63dd3e070f38cc9a402"'
+      X-Embedly-Process-Time:
+      - '46'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api24
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://wavo.me", "description": "Wavo is a fun
+        and easy way to discover music, build playlists and share songs with your
+        friends.", "title": "Find Free Music With Friends | Wavo", "url": "https://wavo.me/",
+        "thumbnail_width": 90, "thumbnail_url": "https://d3ahqwdvfhobke.cloudfront.net/static/img/logo-90x90.png",
+        "version": "1.0", "provider_name": "Wavo", "type": "link", "thumbnail_height":
+        90}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:30 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:31 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '635'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"1b19526f76f45e9444af7e065810231e5a964727"'
+      X-Embedly-Process-Time:
+      - '42'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api02
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://journal.stuffwithstuff.com", "description":
+        "Over the weekend, I was reading one of the shagadelic papers on Self, Parents
+        are Shared Parts of Objects: Inheritance and Encapsulation in SELF. What can
+        I say, I have a weird idea of fun. If you''re interested in prototypes, or
+        you''re a Javascripter (but I repeat myself) you owe it to yourself to read
+        these papers.", "title": "The Impoliteness of Overriding Methods - journal.stuffwithstuff.com",
+        "url": "http://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/",
+        "version": "1.0", "provider_name": "Stuffwithstuff", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:30 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://www.coursecraft.net&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:31 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '481'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"6eb5b65aeb8ef6ee69be18f6baf876122450d34e"'
+      X-Embedly-Process-Time:
+      - '38'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api10
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://www.coursecraft.net", "description": "Participants
+        can comment on lessons, share photos and ask questions all in one place -
+        and of course we''ll notify you when they do. Or you can disable commenting
+        and handle it all yourself with other tools (like a flickr group, an in-person
+        meetup, or anything else you can think of).", "title": "CourseCraft", "url":
+        "https://www.coursecraft.net/", "version": "1.0", "provider_name": "Coursecraft",
+        "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:30 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=https://blog.backlift.com/entry/dropbox-integration&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:31 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '198'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"fc472e114d37344ab1cf0992c9e501263e1c544e"'
+      X-Embedly-Process-Time:
+      - '34'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api08
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "https://blog.backlift.com", "title": "Backlift
+        Blog", "url": "https://blog.backlift.com/entry/dropbox-integration", "version":
+        "1.0", "provider_name": "Backlift", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:31 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://stackoverflow.com/q/13950642/526535&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:31 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '601'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"d84663d217c8d6ccdc2a7ccc1ac38f2046d6b100"'
+      X-Embedly-Process-Time:
+      - '50'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api05
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://stackoverflow.com", "description": "Sir,
+        in C++ ( and C++ ONLY) you are allowed to define multiple functions of the
+        same name with different parameters. For example: int func(); int func(int
+        test); int func(char testing123); Should compile. To choose which function
+        to use, simply pass that variable type into the parenthesis when you compile.",
+        "title": "parameters - Why does this C program compile? - Stack Overflow",
+        "url": "http://stackoverflow.com/questions/13950642/why-does-this-c-program-compile",
+        "version": "1.0", "provider_name": "Stackoverflow", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:31 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://blog.dwolla.com/refer/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:32 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '596'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"7e3f6260a57d00af1135c15d87036a0828ef0171"'
+      X-Embedly-Process-Time:
+      - '30'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api12
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://blog.dwolla.com", "description": "Refer
+        a friend, get Dwolla free Many of our Dwolla users have come to us through
+        word of mouth. To show our appreciation for all the support we''ve received,
+        we put together a nice little refer-a-friend program to reward both existing
+        and new Dwolla users.", "title": "Refer a friend, get Dwolla free", "url":
+        "http://blog.dwolla.com/refer/", "thumbnail_width": 286, "thumbnail_url":
+        "http://blog.dwolla.com/wp-content/themes/dwolla/img/fb_logo.jpg", "version":
+        "1.0", "provider_name": "Dwolla", "type": "link", "thumbnail_height": 270}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:31 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.hacker10.com/other-computing/u-n-report-reveals-secret-law-enforcement-techniques/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:32 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '627'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"98768b5bc000749f8988301c548d5657a309bab0"'
+      X-Embedly-Process-Time:
+      - '75'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api17
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.hacker10.com", "description": "Buried
+        inside a recent United Nations Office on Drugs and Crime report titled \"
+        Use of Internet for Terrorist Purposes \" one can carve out details and examples
+        of law enforcement electronic surveillance techniques that are normally kept
+        secret.", "title": "U.N. report reveals secret law enforcement techniques",
+        "url": "http://www.hacker10.com/other-computing/u-n-report-reveals-secret-law-enforcement-techniques/",
+        "author_name": "Hacker10", "version": "1.0", "author_url": "http://www.hacker10.com/author/caitlin/",
+        "provider_name": "Hacker10", "type": "link"}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:31 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.useit.com/alertbox/kindle-fire-hd-usability.html&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:32 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '694'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"611db18f2fa6f7dfcb1b0340681209f37259e67c"'
+      X-Embedly-Process-Time:
+      - '40'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api13
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.useit.com", "description": "Jakob Nielsen''s
+        Alertbox, December 19, 2012 Summary: Amazon''s new Kindle Fire has much better
+        usability than last year''s model-and the 7-inch tablet beats the 9-inch version.
+        Last year, we tested the usability of Amazon.com''s 1st generation Kindle
+        Fire. Wow, was it bad.", "title": "Kindle Fire HD: Much Better Than Original
+        Kindle Fire (Jakob Nielsen''s Alertbox)", "url": "http://www.useit.com/alertbox/kindle-fire-hd-usability.html",
+        "thumbnail_width": 610, "thumbnail_url": "http://www.useit.com/alertbox/national-geographic-9-in-kindle-fire.jpg",
+        "version": "1.0", "provider_name": "Useit", "type": "link", "thumbnail_height":
+        381}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:31 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://techcrunch.com/2012/12/19/angellist-now-gives-smaller-investors-a-piece-of-the-action-with-launch-of-angellist-invest/&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: !binary |-
+        T0s=
+    headers:
+      !binary "RGF0ZQ==":
+      - !binary |-
+        V2VkLCAxOSBEZWMgMjAxMiAyMTowMzozMiBHTVQ=
+      !binary "Q29udGVudC1UeXBl":
+      - !binary |-
+        YXBwbGljYXRpb24vanNvbg==
+      !binary "VHJhbnNmZXItRW5jb2Rpbmc=":
+      - !binary |-
+        Y2h1bmtlZA==
+      !binary "Q29ubmVjdGlvbg==":
+      - !binary |-
+        a2VlcC1hbGl2ZQ==
+      !binary "WC1FbWJlZGx5LUZyb20tQ2FjaGU=":
+      - !binary |-
+        MA==
+      !binary "QWNjZXNzLUNvbnRyb2wtTWF4LUFnZQ==":
+      - !binary |-
+        ODY0MDA=
+      !binary "U2VydmVy":
+      - !binary |-
+        VG9ybmFkb1NlcnZlci8yLjE=
+      !binary "RXRhZw==":
+      - !binary |-
+        Ijc3OTViYjZiOGM2ZDdhYWRlZmZkNDk2YzA0ZjYzYjE0N2E4NjllMDQi
+      !binary "WC1FbWJlZGx5LVByb2Nlc3MtVGltZQ==":
+      - !binary |-
+        NDQ=
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctT3JpZ2lu":
+      - !binary |-
+        Kg==
+      !binary "QWNjZXNzLUNvbnRyb2wtQWxsb3ctTWV0aG9kcw==":
+      - !binary |-
+        R0VULCBPUFRJT05T
+      !binary "WC1FbWJlZGx5LUhvc3Q=":
+      - !binary |-
+        YXBpMjA=
+      !binary "Q29udGVudC1FbmNvZGluZw==":
+      - !binary |-
+        Z3ppcA==
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAAA91VTWvcMBD9K4Mp7WX9sZtcGpKUkEMppDSQQA9NCbP22BIr
+        S2Ykr9mW/veO5O3m4xCaYwuLYfUx896beaNvP7OB3VY3xPcjm+wEMhXCcFKW
+        gWpV82hrVdSuzxaQNeRr1kPQzsZzF7Yjc6V9WACCJ97qmiAoDNBjqBV5IGSz
+        Ax+wo/jlMA4eJh0UaLslHxz7BWgPwTW4g9rZoO2obQc6yCKj9a1jCSYJoWXX
+        g3e1RgOWwuR4I/f2geKdwWCIx+cEQREYjOjBtYLP0gQtYRiZoEZjqIEDfviU
+        0BRwyXJCdrSFQdBaYq/0MAdcs9sQ5w2hIYYbErTNZ+QNBZCswNSNAsBx5NEP
+        RqMVNYaRB+dJWEY8EQM2jU58Jm0MCBA3ge8jIBYZ65pJ9hOEvUDpJq610WEX
+        CQ9jiPjeLBdVVYFk7p1QkhWpwSwxSPR4yWMv9SDuPaDIKSsRGdrdOy/ScCc0
+        DlmKWN+gg6EnlYWPWmDAzQxwr5NUDS7gWpMQ/NLCrQS+qBOnr7G0V7PqsvNc
+        4JjjpR4rV9VyVcbf+xJjcxlprty6Ke8ijHyvU35AnWM+RBi5a3Phl2OCkccO
+        y+fix52HUPPFMuJQoU/NfoogqnUUzu6y+7VBu7nLQDG18j8awYsTUgAxQXmX
+        nR84nZZ4/o82/qs4i5HrjRvDY+77RogSvMY0f5N3mqbCJ3P1yVxx9kjqx36L
+        ae/GqsLqfzEejkE5vrdi2NiTN8io4JqYfiRbqrFfW9Tm+YCuH0a0OGdZtNqQ
+        L2QyNgOT91G6g6UOJigG232Yzo6Pq7fq7Oioepph0k1QgmG5OpbMWxmA+2G/
+        LNLJw1vxB+utvBKX6ZVIgXZDYmC03TwNrEh3Ksje0UrO7Qm/OAzmM6WPYmgb
+        UEZXmf36/hvbbGM+sQYAAA==
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:32 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.humblebundle.com/?7&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:03:32 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '727'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"6f9c799c9fbd400013dbe8db4aecb45e9aef29e1"'
+      X-Embedly-Process-Time:
+      - '34'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api09
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.humblebundle.com", "description": "Pay
+        whatever you want to get Legend of Grimrock, Dungeon Defenders + DLC, Closure,
+        Shank 2, Binding of Isaac + DLC, Snapshot, Indie Game: The Movie, and amazing
+        soundtracks -- all while supporting vital charities! All the games are DRM-free
+        and run great on Windows, Mac, and Linux!", "title": "The Humble Indie Bundle
+        7: Pay what you want for six illustrious games + one film and help charity!",
+        "url": "http://www.humblebundle.com/?7", "thumbnail_width": 350, "thumbnail_url":
+        "https://www.humblebundle.com/static/hashed/08f959a5056b0eb8026a317488d22830875d8fb7.png",
+        "version": "1.0", "provider_name": "Humblebundle", "type": "link", "thumbnail_height":
+        350}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:03:32 GMT
+- request:
+    method: get
+    uri: http://api.embed.ly/1/oembed?key=1294316ebbf54647985e969e842cc530&maxwidth=850&method=after&urls=http://www.techdirt.com/articles/20121217/17563321412/tsas-true-focus-isnt-safety-its-self-preservation.shtml&wmode=transparent
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      User-Agent:
+      - Mozilla/5.0 (compatible; 1kplus/1.0; team@1kpl.us)
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - ! '*/*'
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Date:
+      - Wed, 19 Dec 2012 21:22:29 GMT
+      Content-Type:
+      - application/json
+      Content-Length:
+      - '742'
+      Connection:
+      - keep-alive
+      X-Embedly-From-Cache:
+      - '0'
+      Access-Control-Max-Age:
+      - '86400'
+      Server:
+      - TornadoServer/2.1
+      Etag:
+      - ! '"f5b87b5ff72d98babb06ecbec5053533a2677115"'
+      X-Embedly-Process-Time:
+      - '52'
+      Access-Control-Allow-Origin:
+      - ! '*'
+      Access-Control-Allow-Methods:
+      - GET, OPTIONS
+      X-Embedly-Host:
+      - api19
+    body:
+      encoding: US-ASCII
+      string: ! '[{"provider_url": "http://www.techdirt.com", "description": "from
+        the give-''em-a-inch-and-they''ll-take-a-mile-(and-your-plastic-sword) dept
+        Despite its own worst efforts, the TSA doesn''t seem to be going anywhere.
+        Year after year, horror story after horror story surfaces, detailing abuse
+        of American citizens at the hands (very often literally) of TSA agents.",
+        "title": "The TSA''s True Focus Isn''t ''Safety'' - It''s Self-Preservation
+        | Techdirt", "url": "http://www.techdirt.com/articles/20121217/17563321412/tsas-true-focus-isnt-safety-its-self-preservation.shtml",
+        "thumbnail_width": 150, "thumbnail_url": "http://cdn.techdirt.com/images/td-icon.jpg",
+        "version": "1.0", "provider_name": "Techdirt", "type": "link", "thumbnail_height":
+        150}]'
+    http_version: 
+  recorded_at: Wed, 19 Dec 2012 21:22:29 GMT
+recorded_with: VCR 2.3.0

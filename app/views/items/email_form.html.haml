@@ -1,0 +1,27 @@
+= form_tag "/items/#{@item.id}/email", :method => :post, :remote => true, :id => "email-item-form" do
+  %div.modal-header
+    %h3 Send to email
+  %div.modal-body
+
+    %div#user_share_box
+
+
+    %fieldset
+      .control-group
+        %label.control-label{:for => "to"} To:
+        .controls
+          %input#title.input-xlarge{:type => "text", :name => 'to'}
+        %label.control-label{:for => "subject"} Subject:
+        .controls
+          %input#title.input-xlarge{:type => "text", :name => 'subject', :value => @item.entry.title}
+        %p
+        %label.control-label{:for => "body"} Message:
+        .controls
+          %textarea#content.input-xlarge{:type => "textarea", :name => 'body', :cols => 30, :rows => 4, :width => "100%"}
+
+        %div.well
+          = raw @item.entry.sanitized_content
+
+  %div.modal-footer
+    %button#send-email-modal-submit-link-btn.btn.btn-primary Send
+    %a#send-email-modal-close-link-btn.btn.btn-close Cancel

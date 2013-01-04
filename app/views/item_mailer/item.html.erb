@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+  </head>
+  <body>
+    <p style="padding-bottom:1em;">
+      Your friend <%= @email[:user].name %> (<%= @email[:user].email %>) sent this to you via <a href="http://1kpl.us">1kpl.us</a>.<br/>
+      <% unless @email[:body].nil? %>
+        <br/><%= @email[:user].name %> included the following message:<br/>
+        "<%= @email[:body] unless @email[:body].nil? %>"
+      <% end %>
+    </p>
+    <h1>
+      <%= @email[:item].entry.title %><br/>
+    </h1>
+    <p><a href="<%= @email[:item].entry.url %>"><%= @email[:item].entry.url %></a></p>
+
+    <div style="padding-top:1em;">
+      <%= raw @email[:item].entry.sanitized_content %>
+    </div>
+
+  </body>
+</html>

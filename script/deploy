@@ -1,0 +1,17 @@
+#!/bin/sh
+
+rsync --verbose  --progress --stats --compress --rsh=/usr/bin/ssh \
+      --recursive --times --perms --links --delete \
+      --exclude "*bak" --exclude "*~" --exclude ".git" --exclude ".gitignore" --exclude ".gitkeep" \
+      --exclude ".idea" --exclude "public/assets" --exclude "public/uploads" --exclude "tmp/" --exclude "log/" --exclude "scraps/" \
+      --exclude "Gemfile.lock" --exclude "database.yml" --exclude "bin/" \
+      --exclude "config/nginx.conf" --exclude "config/unicorn_init.sh" --exclude ".DS_Store" --exclude "old_*.rb" \
+      ./* cwilkins@1kpl.us:/home/cwilkins/1kpl.us/
+
+ssh -l "cwilkins" "1kpl.us" "bash --login -c '/home/cwilkins/1kpl.us/refresh.sh'"
+
+sleep 2
+
+curl 1kpl.us
+
+

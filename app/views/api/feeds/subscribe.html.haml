@@ -1,0 +1,21 @@
+
+- if @result[:subscriptions]
+  %div.alert.alert-success
+    %button.close{"data-dismiss" => "alert"} x
+    = "You have subscribed to #{@result[:subscriptions].first.name}"
+- elsif @result[:feeds]
+  %div#feeds-alert.alert.alert-info
+    %button.close{"data-dismiss" => "alert"} x
+    %p Multiple feeds have been found.
+    = form_for("feed", :url => subscriptions_path, :html => {:id => "alert_add_feed_form", :class => 'form-vertical'}, :remote => true) do |f|
+      - @result[:feeds].each do |feed|
+        %label.checkbox
+          %input{ :name => "feeds[]", :type => :checkbox, :value => feed.url}
+          = feed.title
+      %button#feed-subscribe-link-btn.btn.btn-mini.btn-primary Add Feeds
+- elsif @result[:error]
+  %div.alert.alert-error.alert-block
+    %button.close{"data-dismiss" => "alert"} x
+
+    = @result[:error]
+    %p Try again with a feed URL.

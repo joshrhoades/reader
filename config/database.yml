@@ -1,0 +1,19 @@
+defaults: &defaults
+  pool: 25
+  adapter: postgresql
+  host: localhost
+  port: 5432 # connect directly to postgres
+  timeout: 5000
+  database: reader_development
+  username: reader
+  password:
+
+development:
+  <<: *defaults
+
+test:
+  <<: *defaults
+  database: reader_test
+production:
+  <<: *defaults
+  database: reader_development

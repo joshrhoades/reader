@@ -1,0 +1,49 @@
+
+%div#login-modal.modal.hide.fade
+  = form_for("user", :url => user_session_path, :html => {:id => "sign_in_form"}, :class => 'form-horizontal', :remote => true) do |f|
+    %input{type: "hidden", name: "continue_to", value: params[:continue_to]}
+    %div.modal-header
+      -#%a.close{'data-dismiss'=>:alert} ×
+      %h3 Sign in
+    %div.modal-body
+
+      %div#user_login_box
+
+      %fieldset
+        .control-group
+          %label.control-label{:for => "email"}
+            E-mail:
+            .controls
+              %input#email.input-xlarge{:type => "text", :name => 'user[email]'}
+
+          %label.control-label{:for => "password"}
+            Password:
+            .controls
+              %input#password.input-xlarge{:type => "password", :name => 'user[password]'}
+
+
+
+          .controls
+            %label.checkbox.control-label{:for => "remember_me"}
+              %input#remember_me{:type => "checkbox", :checked => true, :name => 'user[remember_me]'} Remember
+
+
+          -#%input.hide{:type => "submit"}
+
+        = link_to "Create new account", "#register", :id => "register-link"
+        %br
+        = link_to "Forgot your password?", "#new-password", :id => "new-password-link"
+
+        %p
+
+        = link_to user_omniauth_authorize_path(:facebook) do
+          %i{:class => "icon-facebook-sign icon-dark auth-provider-icon"}
+          Sign in or register via Facebook
+        -#%br
+        -#= link_to user_omniauth_authorize_path(:google_oauth2) do
+        -#  %i{:class => "icon-google-plus-sign icon-dark auth-provider-icon"}
+        -#  Sign in with Google
+
+    %div.modal-footer
+      %input#login-submit-link-btn.btn.btn-primary{:type => "submit", :value => "Sign in"}
+      %a#login-close-link-btn.btn Close

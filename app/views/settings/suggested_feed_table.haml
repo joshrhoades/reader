@@ -1,0 +1,16 @@
+%table.table.table-bordered.table-striped
+  %thead
+    %tr
+      %th Title
+      %th URL
+      %th Actions
+  %tbody
+    - @feeds.each do |feed|
+      %tr.suggested-table-row
+        %td
+          = feed.name.truncate 30
+        %td
+          = feed.feed_url.truncate 100
+        %td
+          = link_to subscribe_path(feed), :method => :post, :remote => true, :class => "subscribe-link" do
+            Subscribe

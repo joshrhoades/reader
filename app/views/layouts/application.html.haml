@@ -1,0 +1,110 @@
+!!!
+%html
+  %head
+    %title 1kpl.us - an rss reader
+    = stylesheet_link_tag    "application", :media => "all"
+    = javascript_include_tag "application"
+    = stylesheet_link_tag    "wide", :media => "screen and (min-width: 1310px)"
+    - if current_user
+      %script{:type => "text/javascript"}
+        $(document).ready(function() {
+        App.user = new App.User(#{raw current_user.to_json})
+        App.boot()
+        });
+    = csrf_meta_tags
+    = javascript_include_tag "app/defer/mp"
+
+  %body
+    %div#fb-root.fb-fix
+    #home.swap-view-area.hide
+      = yield
+      = render :partial => "hero"
+
+    #stream.swap-view-area.hide
+
+    #settings.swap-view-area.hide
+      = render :partial => "settings/settings" if real_user
+
+    #site-header
+      #site-header-inner
+        .navbar
+          .navbar-inner
+            .container
+              %a.brand{:href => "/"} 1kpl.us - a news reader
+              .pull-right
+                %ul.nav.pull-right
+                  %li
+                    - if real_user
+                      %a{:href => destroy_user_session_path, "data-method" => :delete}
+                        %i{:class => "reader-icon-large icon-light icon-signout"}
+                    - else
+                      %a{:href => "/login"}
+                        %i{:class => "reader-icon-large icon-light icon-signin"}
+
+    #stream-header.hide
+      #stream-header-inner
+        .navbar.navbar-light
+          .navbar-inner
+            .container
+              %span#stream-title-container.brand
+              %div#stream-menu-container
+
+    #nav
+      %div
+        %a#nav-unread-link.nav-icon{"data-placement" => "right", :href => "/unread", :rel => "tooltip"}
+          %i{:class => "reader-icon-large icon-light icon-inbox"}
+
+      %div
+        %a#nav-unread-link.nav-icon{"data-placement" => "right", :href => "/all", :rel => "tooltip"}
+          %i{:class => "reader-icon-large icon-light icon-asterisk"}
+
+      %div
+        %a#nav-starred-link.nav-icon{"data-placement" => "right", :href => "/starred", :rel => "tooltip"}
+          %i{:class => "reader-icon-large icon-light icon-star"}
+      %div
+        %a#nav-shared-link.nav-icon{"data-placement" => "right", :href => "/shared", :rel => "tooltip"}
+          %i{:class => "reader-icon-large icon-light icon-share"}
+      %div
+        %a#nav-comments-link.nav-icon{"data-placement" => "right", :href => "/commented", :rel => "tooltip", :title => "Discussions"}
+          %i{:class => "reader-icon-large icon-light icon-comments-alt"}
+      %div
+        %a#nav-note-link.nav-icon{"data-placement" => "right", :href => "/share", :rel => "tooltip", :title => "Share something!"}
+          %i{:class => "reader-icon-large icon-light icon-bullhorn"}
+      %div#nav-list-link-container
+        %a#nav-list-link.nav-icon{"data-placement" => "right", :href => "/", :rel => "tooltip", :title => "View Feed List"}
+          %i{:class => "reader-icon-large icon-light icon-list-alt", :onclick => "App.toggleList()"}
+      %div
+        %a#nav-settings-link.nav-icon{"data-placement" => "right", :href => "/settings", :rel => "tooltip", :title => "Settings"}
+          %i{:class => "reader-icon-large icon-light icon-cogs"}
+
+
+      %div.dropdown
+        %a#nav-settings-link.dropdown-toggle.nav-icon{"data-placement" => "right", :href => "#", :rel => "tooltip", :title => "Add feed or group", "data-toggle" => "dropdown"}
+          %i{:class => "reader-icon-large icon-light icon-plus"}
+        %ul.dropdown-menu
+          %li
+            %a{:href => "#", :class => "add-group-link"}
+              %i{:class => "icon-dark icon-folder-close"}
+              New Group
+            %a{:href => "#", :class => "add-subscription-link"}
+              %i{:class => "icon-dark icon-rss"}
+              New Feed
+
+
+    #list
+      #list-content
+        - if real_user
+          %ul#person-list
+        %ul#feed-list
+
+    = render :partial => "login_modal"
+    = render :partial => "register_modal"
+    = render :partial => "password_modal"
+    = render :partial => "share_modal"
+    = render :partial => "group_modal"
+    = render :partial => "feed_modal"
+    = render :partial => "send_item_email_modal"
+    = render :partial => "destroy_alert"
+
+    = javascript_include_tag "app/defer/fb"
+    = javascript_include_tag "app/defer/ga"

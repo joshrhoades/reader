@@ -1,0 +1,9 @@
+- if flash
+  - if flash[:notice]
+    %div.alert.alert-info
+      %a.close{'data-dismiss'=>:alert} ×
+      = flash[:notice]
+  - if flash[:error]
+    %div.alert.alert-error
+      %a.close{'data-dismiss'=>:alert} ×
+      = flash[:error]

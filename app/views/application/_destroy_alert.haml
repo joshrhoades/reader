@@ -1,0 +1,15 @@
+
+%div#destroy-alert.modal.alert.alert-danger.alert-block.hide
+  %button.close{"data-dismiss" => "alert"} x
+  %h4.alert-heading Are you sure?
+
+  %p#destroy-message
+    This will delete the selected group, and
+    %b all subscriptions in that group.
+  %br/
+
+  %p.pull-right
+    %button.btn.btn-danger.destroy-confirm-btn Continue
+    %a.btn{:href => "/destroy-cancel"} Cancel
+
+

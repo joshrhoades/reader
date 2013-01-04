@@ -1,0 +1,21 @@
+%div#feed-modal.modal.hide.fade
+  = form_for("feed", :url => subscriptions_path, :html => {:id => "modal_add_feed_form", :class => 'form-vertical'}, :remote => true) do |f|
+    %div.modal-header
+      %h3 Add feed
+    %div.modal-body
+      %div#modal-feed-form
+        %p.modal-errors
+        %fieldset
+          .control-group
+            %label.control-label{:for => "feed_url"} URL:
+            .controls
+              %input#feed-url.input-xlarge{:type => "text", :name => 'feed_url'}
+
+      %div#modal-feed-choices.hide
+        Multiple feeds found
+        %fieldset
+          .control-group
+
+    %div.modal-footer
+      %button#feed-modal-submit-link-btn.btn.btn-primary Add Feed
+      %a#feed-modal-close-link-btn.btn.btn-close Close

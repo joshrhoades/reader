@@ -1,0 +1,15 @@
+- if real_user
+  - follow_requests.each do |f|
+    %div.alert.alert-info.fade.in{"data-id"=>"#{f.id}"}
+      %a.close{"data-dismiss" => "alert", :href => "#"}
+        &times;
+      %h4.alert-heading
+        = "#{f.name} would like to follow your shared items"
+
+      %p
+
+
+      %button.btn.btn-primary.btn-follow-reciprocate
+        = "Accept & Follow #{f.name}"
+      %button.btn.btn-follow-allow Accept
+      %button.btn.btn-follow-reject Decline

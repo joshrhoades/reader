@@ -1,0 +1,130 @@
+@import compass/utilities/general/clearfix
+
+div.item
+  min-height: 100px
+  outline: 0
+div.well
+  padding: 10px
+  margin-bottom: 20px
+  background-color: white
+  border: 1px solid #333
+  border: 1px solid rgba(100, 100, 100, 0.45)
+  -webkit-border-radius: 4px
+  -moz-border-radius: 4px
+  border-radius: 4px
+  -webkit-box-shadow: 0 5px 5px rgba(0, 0, 0, 0.5)
+  -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.5)
+  box-shadow: 1px 3px 5px rgba(100, 100, 100, 0.5)
+  h3, a
+    color: gray
+
+div.well.focused
+  border: 1px solid #333
+  border: 1px solid rgba(100, 100, 100, 0.95)
+
+div.item-content:hover a
+  text-decoration: underline
+
+div.well.unread
+  h3, a
+    color: black
+
+div.item-metadata
+  color: #888
+  font-size: 11px
+  text-align: right
+
+div.item-title
+  font-size: 18px
+  font-weight: bold
+
+div.title-container
+  max-width: 900px
+
+div.item-content
+  border-top: 1px dotted black
+  padding-top: 5px
+  margin-top: 5px
+
+
+
+div.item-content-inner
+  max-width: 880px
+  padding: 5px 0
+  *
+    -webkit-font-smoothing: antialiased
+  +clearfix
+  iframe[src^='http://slashdot']
+    display: none
+  .feedflare
+    display: none
+  h1, h2, h3
+    font-size: 16px
+  img
+    padding: 3px
+    max-height: 850px
+  p img
+    display: block
+
+div.item-content-inner > img:first-child
+  display: block
+
+div.item-actions
+  bottom: 0
+  border-top: 1px dotted black
+  padding-top: 5px
+  margin-top: 5px
+
+div.mark-indicators
+  height: 15px
+
+div.item
+  .comment-form-container
+    margin: 0px
+    textarea
+      width: 98%
+      height: 60px
+
+.item .btn-on
+  color: #fc0284
+  border-color: #fc0284
+
+.btn-keep-unread
+  //height: 24px
+.btn-mini .caret, .btn-small .caret, .btn-large .caret
+  margin-top: 8px
+
+.send-btn-dropdown
+  display: inline-block
+  padding: 2px 8px
+  line-height: 14px
+  vertical-align: middle
+  margin-bottom: 0
+
+div.item.well
+  img.item-starred-icon
+    display: none
+  button.btn-share-with-note
+    display: inline-block
+  button.btn-comment
+    display: none
+  img.item-shared-icon
+    display: none
+  div.comment-form-container
+    display: none
+
+div.item.well.starred
+  img.item-starred-icon
+    display: inline-block
+
+div.item.well.shared
+  img.item-shared-icon
+    display: inline-block
+
+div.item.well.shared, div.item.well.shared-to-me
+  button.btn-comment
+    display: inline-block
+  button.btn-share-with-note
+    display: none
+  div.comment-form-container
+    display: block

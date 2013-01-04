@@ -1,0 +1,34 @@
+sudo -s
+apt-get update -y
+apt-get install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libxml2-dev libxslt-dev autoconf libc6-dev ncurses-dev automake libtool bison subversion git-core curl libcurl3 libcurl3-gnutls libcurl4-openssl-dev vim zsh nginx chkconfig -y
+useradd -m -g staff -s /bin/zsh charlie
+passwd charlie
+echo 'charlie ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers.d/charlie
+chmod 0440 /etc/sudoers.d/charlie
+reboot
+
+mkdir ~/.ssh
+echo "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCyp1l6DlwU7iR2eLbif1kJD9wW2g4KBd7m/IaZDxuEglsTR1H7XctLBjoPMpV7w037UcnfdBhRSmNVzlLW+m+rv7++ppIwYnREDa7/UFEToT75iAe1lbGwZPaGfCq4stfXNp/0PWPaAtYO3xqgaaZwdgG4bRqq3wAEGYZ8kKxcUJybLotSMp3v/1vyCX9zg3B0IQGb8yeEeEXnzxwCv7/uUCG6l1Pk/9PEt6wA3TTfLImxRDyzN9sJbDxlFKgnwym5aWTtiLqgSC16cRiWfTA1hueYRn2A9KxqiFU+I17lPYBpTpSwWPmDhragSHUamFYgvKWDmZf5B3IEM5IW2di/ charlie" >> /home/charlie/.ssh/authorized_keys
+
+
+# RVM
+\curl -L https://get.rvm.io | bash -s stable
+
+# run locally
+scp ~/.zshrc charlie@db1:/home/charlie/
+scp ~/.zshrc charlie@app:/home/charlie/
+scp ~/.oh-my-zsh/custom/* charlie@db1:/home/charlie/.oh-my-zsh/custom/
+scp ~/.oh-my-zsh/custom/* charlie@app:/home/charlie/.oh-my-zsh/custom/
+scp ~/.rvmrc charlie@db1:/home/charlie/
+scp ~/.rvmrc charlie@app:/home/charlie/
+scp ~/.gemrc charlie@db1:/home/charlie/
+scp ~/.gemrc charlie@app:/home/charlie/
+
+
+echo "app" > /etc/hostname
+hostname -F /etc/hostname
+
+echo "db1" > /etc/hostname
+hostname -F /etc/hostname
+
+dpkg-reconfigure tzdata

@@ -1,0 +1,1 @@
+json.(@group, :id, :user_id, :label, :key, :open, :weight)

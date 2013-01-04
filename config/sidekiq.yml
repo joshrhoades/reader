@@ -1,0 +1,17 @@
+---
+:verbose: false
+:pidfile: /tmp/sidekiq.pid
+:concurrency:  20
+:queues:
+  - [opml,12]
+  - [clients,11]
+  - [users,10]
+  - [entry,9]
+  - [poll,8]
+  - [comments,7]
+  - [contacts,6]
+  - [feeds,5]
+  - [subscriptions,4]
+  - [items,3]
+  - [icons,2]
+  - [background,1]

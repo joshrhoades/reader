@@ -1,0 +1,21 @@
+
+
+%table.table.table-bordered.table-striped
+  %thead
+    %tr
+      %th{:width => "50%"} Name
+      %th
+  %tbody
+
+    - @people.each do |p|
+
+      %tr
+        %td
+          = p.name.truncate 30
+        %td
+          = @container
+          = raw follow_links(p)
+
+
+
+

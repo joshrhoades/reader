@@ -1,0 +1,21 @@
+<div class="subscription-label">
+  <a class="subscription-link" href="/subscription/{{filter}}/{{this.id}}" data-stream-id="{{this.id}}">
+    <div class="subscription-link-inner">
+      {{#if icon}}
+        <img src="{{icon}}" height="16" width="16"/>
+      {{/if}}
+      <span class="stream-name">{{this.short_name}}</span>
+      <span class="count">({{count}})</span>
+    </div>
+  </a>
+</div>
+
+<div class="dropdown subscription-dropdown">
+  <a class="dropdown-toggle" data-toggle="dropdown">
+    <b class="caret"></b>
+  </a>
+  <ul class="dropdown-menu feed-list-dropdown">
+    <li><a href="#" class="rename-subscription">Rename Subscription</a></li>
+    <li><a href="#" class="delete-subscription">Unsubscribe</a></li>
+  </ul>
+</div>

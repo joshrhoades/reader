@@ -1,0 +1,14 @@
+%div#group-modal.modal.hide.fade
+  = form_for("group", :url => groups_path, :html => {:id => "group_form", :class => 'form-vertical'}, :remote => true) do |f|
+    %div.modal-header
+      %h3 Add group
+    %div.modal-body
+      %p.modal-errors
+      %fieldset
+        .control-group
+          %label.control-label{:for => "label"} Label:
+          .controls
+            %input#group-label.input-xlarge{:type => "text", :name => 'group[label]'}
+    %div.modal-footer
+      %button#group-modal-submit-link-btn.btn.btn-primary Create
+      %a#group-modal-close-link-btn.btn Close

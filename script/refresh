@@ -1,0 +1,16 @@
+#!/bin/sh
+export RAILS_ENV=production
+
+cd /home/cwilkins/1kpl.us
+
+sudo service reader stop
+
+bundle install
+
+bundle exec rake log:clear assets:precompile db:migrate --trace
+
+sudo service reader start
+sleep 1
+ps -ef | grep "ruby\|rake\|resque\|unicorn\|sidekiq" | grep -v "grep\|tail"
+echo "\n\nrefresh done"
+exit

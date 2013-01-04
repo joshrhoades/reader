@@ -1,0 +1,17 @@
+%table.table.table-bordered.table-striped
+  %thead
+    %tr
+      %th Title
+      %th URL
+      %th Actions
+  %tbody
+    - @subscriptions.each do |sub|
+      %tr.subscription-table-row
+        %td
+          = sub.name.truncate 30
+        %td
+          = sub.feed.feed_url.truncate 100
+        %td
+          = link_to subscription_path(sub), :method => :delete, :remote => true, :class => "unsubscribe-link" do
+            Unsubscribe
+

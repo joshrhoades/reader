@@ -1,0 +1,17 @@
+sudo -s
+apt-get update -y
+apt-get install build-essential openssl libreadline6 libreadline6-dev curl git-core zlib1g zlib1g-dev libssl-dev libyaml-dev libxml2-dev libxslt-dev autoconf libc6-dev ncurses-dev automake libtool bison subversion git-core curl libcurl3 libcurl3-gnutls libcurl4-openssl-dev vim zsh nginx chkconfig python-software-properties -y
+useradd -m -g staff -s /bin/zsh charlie
+passwd charlie
+echo 'charlie ALL=(ALL) NOPASSWD: ALL' >> /etc/sudoers.d/charlie
+chmod 0440 /etc/sudoers.d/charlie
+
+# curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+# chsh -s /bin/zsh
+
+sudo apt-add-repository ppa:pitti/postgresql
+sudo apt-get -y update
+sudo apt-get -y install postgresql-9.2 libpq-dev
+
+reboot
+

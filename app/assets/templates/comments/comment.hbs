@@ -1,0 +1,32 @@
+<div class="comment row-fluid" data-id="{{id}}">
+  <div class="comment-info span2">
+    <span class="comment-author">
+      {{#unless my_comment}}
+        {{#unless following_user}}
+          <a href="#" class="comment-author-link" data-id="{{user_id}}" data-name="{{short_name}}">
+        {{/unless}}
+      {{/unless}}
+
+      {{short_name}}
+      :
+
+      {{#unless my_comment}}
+        {{#unless following_user}}
+          </a>
+        {{/unless}}
+      {{/unless}}
+    </span>
+
+    {{#if my_comment}}
+      <div class="comment-control">
+        <a href="#" class="comment-edit"><i class="icon-edit"></i></a> | <a href="#" class="comment-remove"><i class="icon-remove"></i></i></a>
+      </div>
+    {{/if}}
+
+  </div>
+  <div class="comment-body span9">
+    {{{html}}}
+  </div>
+
+</div>
+

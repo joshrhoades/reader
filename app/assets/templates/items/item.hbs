@@ -1,0 +1,76 @@
+<div class='item well {{#if starred}}starred{{/if}} {{#if shared}}shared{{/if}} {{#if unread}}unread{{/if}} {{#if from_id}}shared-to-me{{/if}} {{focused_item}}'>
+  <div class='item-head row-fluid'>
+    <div class='item-title span9'>
+      <div class="title-container">
+        {{#if url}}<a href="{{url}}" target="_blank">{{/if}}
+        {{title}}&nbsp;
+        {{#if url}}</a>{{/if}}
+      </div>
+      <div class="mark-indicators">
+        <img class="item-starred-icon" src="/icons/hot/28-star.png" height="14" width="14">
+        <img class="item-shared-icon" src="/icons/hot/275-broadcast.png" height="14" width="14">
+      </div>
+    </div>
+    <div class='item-metadata span3'>
+      {{#if subscription}}
+        {{subscription.name}}
+        <br/>
+      {{/if}}
+      {{#if author}}
+        Author: {{author}}
+        <br/>
+      {{/if}}
+      {{formatted_published_at}}
+      <br/>
+      {{#unless is_subscription}}
+        <a href='{{subscription_path}}'>{{subscription_name}}</a>
+        <br/>
+      {{/unless}}
+      {{#if is_shared_to_me}}
+        <a href='{{person_path}}'>Shared by {{person_name}}</a>
+        <br/>
+      {{/if}}
+    </div>
+  </div>
+  <div class='item-content'>
+    <div class='item-content-inner'>
+      {{{content}}}
+    </div>
+  </div>
+
+
+  {{#unless anonymous}}
+
+  <div class='item-comments-container'/>
+
+  <div class='comment-form-container'>
+    <form name="comment_form" class="comment-form" action="/comment" method="post" data-remote="true">
+      <textarea class='comment-form-body' name="comment[body]" width="100%"/>
+      <input type="hidden" name="comment[item_id]" value="{{id}}"/>
+      <input class="btn btn-mini" type="submit" value="Add Comment"/>
+    </form>
+  </div>
+
+  <div class='item-actions'>
+    <button class='btn btn-mini btn-star {{#if starred}}btn-on{{/if}}'><i class='icon-star'></i> Star
+    </button>
+    <button class='btn btn-mini btn-share {{#if shared}}btn-on{{/if}}'><i class='icon-user'></i> Share
+    </button>
+
+    <div class="send-btn-dropdown btn-group">
+      <a class="btn btn-mini dropdown-toggle" data-toggle="dropdown" href="#">
+        <i class='icon-share'></i>
+        Send to
+        <span class="caret"></span>
+      </a>
+      <ul class="dropdown-menu">
+        <li><a href="#" class="send-item-email-menu-item">Email</a></li>
+        <li><a class="fb-post" href="http://www.facebook.com/dialog/feed?app_id=283811231688828&link={{urlencode url}}&name={{urlencode title}}&caption={{urlencode fb_caption}}&description={{urlencode fb_description}}&redirect_uri=http://1kpl.us/" target="_blank">Facebook</a></li>
+      </ul>
+    </div>
+
+    <button class='btn btn-mini btn-keep-unread'><i class='icon-lock'></i> Keep Unread </button>
+
+  </div>
+  {{/unless}}
+</div>

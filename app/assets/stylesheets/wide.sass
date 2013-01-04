@@ -1,0 +1,22 @@
+$nav-size: 40px
+$nav-size-plus: $nav-size + 15px
+$list-width: 350px
+
+div#list
+  left: $nav-size
+
+div#list.out
+  left: $nav-size
+
+div#stream, div#settings
+  padding-bottom: 3000px
+  margin: ($nav-size + $nav-size-plus) 5px $nav-size-plus ($nav-size-plus + $list-width + 10)
+
+div#stream-header
+  margin-left: ($list-width + 15)
+
+#nav-list-link-container
+  display: none
+
+tr.narrow-hide
+  display: none

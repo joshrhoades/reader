@@ -1,0 +1,12 @@
+http://feeds.feedburner.com/Betterexplained
+http://feeds.feedburner.com/TheEastsiderLa
+http://feeds.feedburner.com/MetrobloggingLA
+http://feeds.feedburner.com/codinghorror/
+http://feeds.feedburner.com/TheAngryPharmacist
+http://feeds.feedburner.com/Hyperbole-and-a-half
+http://feeds.feedburner.com/nczonline
+http://feeds.feedburner.com/RailsInside
+http://feeds.feedburner.com/steveklabnik
+http://feeds.feedburner.com/railstips
+http://www.marco.org/rss
+http://www.zefrank.com/atom.xml

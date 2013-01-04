@@ -1,0 +1,24 @@
+
+<i class="icon-folder-close group-folder-icon"></i>
+<a class="group-link" href="/group/{{this.filter}}/{{this.key}}" data-stream-id="{{this.id}}">
+  <div class="group-label">
+    {{#if this.label}}
+      <span class="stream-name">{{this.label}}</span>
+      <span class="count">({{count}})</span>
+    {{/if}}
+  </div>
+</a>
+
+{{#if key}}
+  <div class="dropdown group-dropdown">
+    <a class="dropdown-toggle" data-toggle="dropdown">
+      <b class="caret"></b>
+    </a>
+    <ul class="dropdown-menu feed-list-dropdown">
+      <li><a href="#" class="rename-group" data-stream-id="{{this.id}}">Rename group</a></li>
+      <li><a href="#" class="delete-group" data-stream-id="{{this.id}}">Delete group</a></li>
+    </ul>
+  </div>
+{{/if}}
+
+
